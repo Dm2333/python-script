@@ -1,0 +1,1197 @@
+01:05 00:00 POP3D  (7AE253D9) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE253D9) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 POP3D  (7AE25BD8) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE25BD8) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 POP3D  (7AE25ED5) NTlogon success for maxwellyu aaxischina.com from 172.17.105.58
+01:05 00:00 POP3D  (7AE25ED5) logoff for maxwellyu aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.105.58
+01:05 00:00 POP3D  (7AE263D6) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE263D6) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384126
+01:05 00:00 SMTPD(32440005dc7e386a) [172.17.255.30:25] connect 209.85.223.199 port 45187
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384127
+01:05 00:00 SMTPD(32440005dc7f386b) [172.17.255.30:25] connect 209.85.213.198 port 32971
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384128
+01:05 00:00 SMTPD(949a0005dc80386c) [172.17.255.30:25] connect 209.85.213.200 port 34132
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384129
+01:05 00:00 SMTPD(59460005dc81386d) [172.17.255.30:25] connect 209.85.223.197 port 58155
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384130
+01:05 00:00 SMTPD(bb9c0005dc82386e) [172.17.255.30:25] connect 209.85.218.72 port 62264
+01:05 00:00 SMTPD(32440005dc7e386a) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(32440005dc7e386a) Connection Check: IPReputation. Completed in 0.2812428 seconds. Total elapsed for this session 0.2812428 seconds.
+01:05 00:00 SMTPD(949a0005dc80386c) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(949a0005dc80386c) Connection Check: IPReputation. Completed in 0.2812428 seconds. Total elapsed for this session 0.2812428 seconds.
+01:05 00:00 SMTPD(32440005dc7f386b) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(32440005dc7f386b) Connection Check: IPReputation. Completed in 0.2968674 seconds. Total elapsed for this session 0.2968674 seconds.
+01:05 00:00 SMTPD(32440005dc7f386b) [209.85.213.198] EHLO mail-ig0-f198.google.com
+01:05 00:00 SMTPD(32440005dc7e386a) [209.85.223.199] EHLO mail-ie0-f199.google.com
+01:05 00:00 SMTPD(59460005dc81386d) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(59460005dc81386d) Connection Check: IPReputation. Completed in 0.2812428 seconds. Total elapsed for this session 0.2812428 seconds.
+01:05 00:00 SMTPD(bb9c0005dc82386e) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(bb9c0005dc82386e) Connection Check: IPReputation. Completed in 0.2656182 seconds. Total elapsed for this session 0.2656182 seconds.
+01:05 00:00 SMTPD(59460005dc81386d) [209.85.223.197] EHLO mail-ie0-f197.google.com
+01:05 00:00 SMTPD(bb9c0005dc82386e) [209.85.218.72] EHLO mail-oi0-f72.google.com
+01:05 00:00 SMTPD(32440005dc7f386b) [209.85.213.198] MAIL FROM:<atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com> SIZE=28180
+01:05 00:00 SMTPD(32440005dc7e386a) [209.85.223.199] MAIL FROM:<atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com> SIZE=28179
+01:05 00:00 SMTPD(bb9c0005dc82386e) [209.85.218.72] MAIL FROM:<atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com> SIZE=28176
+01:05 00:00 SMTPD(32440005dc7e386a) [209.85.223.199] RCPT TO:<lentang@aaxischina.com>
+01:05 00:00 SMTPD(949a0005dc80386c) [209.85.213.200] EHLO mail-ig0-f200.google.com
+01:05 00:00 SMTPD(bb9c0005dc82386e) [209.85.218.72] RCPT TO:<dylanyu@aaxischina.com>
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384131
+01:05 00:00 SMTPD(9f200005dc83386f) [172.17.255.30:25] connect 209.85.214.199 port 46662
+01:05 00:00 SMTPD(9f200005dc83386f) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(949a0005dc80386c) [209.85.213.200] MAIL FROM:<atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com> SIZE=28179
+01:05 00:00 POP3D  (7AE26BE5) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE26BE5) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 SMTPD(9f200005dc83386f) [209.85.214.199] EHLO mail-ob0-f199.google.com
+01:05 00:00 SMTPD(32440005dc7f386b) [209.85.213.198] RCPT TO:<stevieqiao@aaxischina.com>
+01:05 00:00 SMTPD(949a0005dc80386c) [209.85.213.200] RCPT TO:<paynejia@aaxischina.com>
+01:05 00:00 SMTPD(9f200005dc83386f) [209.85.214.199] MAIL FROM:<atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com> SIZE=28180
+01:05 00:00 SMTPD(9f200005dc83386f) [209.85.214.199] RCPT TO:<maxwellyu@aaxischina.com>
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384132
+01:05 00:00 SMTPD(e4fa0005dc843870) [172.17.255.30:25] connect 209.85.218.71 port 59848
+01:05 00:00 SMTPD(e4fa0005dc843870) CTIPD Daemon Return OK
+01:05 00:00 SMTP-(0000000000000000) [x] Description: WinSock 2.0
+01:05 00:00 SMTPD(e4fa0005dc843870) Connection Check: IPReputation. Completed in 0.1249968 seconds. Total elapsed for this session 0.1249968 seconds.
+01:05 00:00 SMTP-(0000000000000000) [x] official name agcn1-mx01.aaxischina.net
+01:05 00:00 SMTPD(59460005dc81386d) [209.85.223.197] MAIL FROM:<atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com> SIZE=28182
+01:05 00:00 SMTPD(e4fa0005dc843870) [209.85.218.71] EHLO mail-oi0-f71.google.com
+01:05 00:00 SMTPD(59460005dc81386d) [209.85.223.197] RCPT TO:<martinjiang@aaxischina.com>
+01:05 00:00 SMTPD(e4fa0005dc843870) [209.85.218.71] MAIL FROM:<atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com> SIZE=28175
+01:05 00:00 SMTPD(e4fa0005dc843870) [209.85.218.71] RCPT TO:<rexlu@aaxischina.com>
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384133
+01:05 00:00 SMTPD(b5ce0005dc853871) [172.17.255.30:25] connect 209.85.192.198 port 62146
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384134
+01:05 00:00 SMTPD(b5ce0005dc863872) [172.17.255.30:25] connect 209.85.192.198 port 41397
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384135
+01:05 00:00 SMTPD(18240005dc873873) [172.17.255.30:25] connect 209.85.220.71 port 46850
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384136
+01:05 00:00 SMTPD(3f260005dc883874) [172.17.255.30:25] connect 209.85.213.199 port 50775
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384137
+01:05 00:00 SMTPD(c87e0005dc893875) [172.17.255.30:25] connect 209.85.192.197 port 46178
+01:05 00:00 SMTPD(b5ce0005dc863872) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(b5ce0005dc863872) Connection Check: IPReputation. Completed in 0.1406214 seconds. Total elapsed for this session 0.1406214 seconds.
+01:05 00:00 SMTPD(b5ce0005dc853871) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(b5ce0005dc853871) Connection Check: IPReputation. Completed in 0.1406214 seconds. Total elapsed for this session 0.1406214 seconds.
+01:05 00:00 POP3D  (7AE273F3) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE273F3) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 SMTP-(32440005dc7e386a) processing d:\Program Files\Ipswitch\IMail\spool\Q32440005dc7e386a.SMD
+01:05 00:00 SMTPD(18240005dc873873) CTIPD Daemon Return OK
+01:05 00:00 SMTP-(32440005dc7e386a) recip is <mailbackup@aaxischina.com>
+01:05 00:00 SMTPD(18240005dc873873) Connection Check: IPReputation. Completed in 0.1406214 seconds. Total elapsed for this session 0.1406214 seconds.
+01:05 00:00 SMTP-(32440005dc7e386a) local user mailbackup@aaxischina.com
+01:05 00:00 SMTPD(3f260005dc883874) CTIPD Daemon Return OK
+01:05 00:00 SMTP-(32440005dc7e386a) sender <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTPD(3f260005dc883874) Connection Check: IPReputation. Completed in 0.1406214 seconds. Total elapsed for this session 0.1406214 seconds.
+01:05 00:00 SMTP-(32440005dc7e386a) recip is <lentang@aaxischina.com>
+01:05 00:00 SMTPD(c87e0005dc893875) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(c87e0005dc893875) Connection Check: IPReputation. Completed in 0.1406214 seconds. Total elapsed for this session 0.1406214 seconds.
+01:05 00:00 SMTPD(b5ce0005dc853871) [209.85.192.198] EHLO mail-pd0-f198.google.com
+01:05 00:00 SMTPD(b5ce0005dc863872) [209.85.192.198] EHLO mail-pd0-f198.google.com
+01:05 00:00 SMTPD(18240005dc873873) [209.85.220.71] EHLO mail-pa0-f71.google.com
+01:05 00:00 SMTPD(3f260005dc883874) [209.85.213.199] EHLO mail-ig0-f199.google.com
+01:05 00:00 SMTPD(c87e0005dc893875) [209.85.192.197] EHLO mail-pd0-f197.google.com
+01:05 00:00 SMTPD(b5ce0005dc853871) [209.85.192.198] MAIL FROM:<atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com> SIZE=263645
+01:05 00:00 SMTPD(18240005dc873873) [209.85.220.71] MAIL FROM:<atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com> SIZE=263647
+01:05 00:00 SMTPD(c87e0005dc893875) [209.85.192.197] MAIL FROM:<atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com> SIZE=263647
+01:05 00:00 SMTPD(3f260005dc883874) [209.85.213.199] MAIL FROM:<atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com> SIZE=28180
+01:05 00:00 SMTPD(b5ce0005dc853871) [209.85.192.198] RCPT TO:<rexlu@aaxischina.com>
+01:05 00:00 SMTPD(18240005dc873873) [209.85.220.71] RCPT TO:<paynejia@aaxischina.com>
+01:05 00:00 SMTPD(c87e0005dc893875) [209.85.192.197] RCPT TO:<dylanyu@aaxischina.com>
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384138
+01:05 00:00 SMTPD(ada40005dc8a3876) [172.17.255.30:25] connect 209.85.192.200 port 43363
+01:05 00:00 SMTPD(32440005dc7e386a) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:00 SMTPD(32440005dc7e386a) performing antispam checks
+01:05 00:00 SMTPD(32440005dc7e386a) [209.85.223.199] d:\Program Files\Ipswitch\IMail\spool\D32440005dc7e386a.SMD 28339
+01:05 00:00 SMTP-(32440005dc7e386a) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:00 SMTP-(32440005dc7e386a) local user lentang@aaxischina.com
+01:05 00:00 SMTPD(b5ce0005dc863872) [209.85.192.198] MAIL FROM:<atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com> SIZE=263647
+01:05 00:00 SMTP-(32440005dc7e386a) closed d:\Program Files\Ipswitch\IMail\spool\_32440005dc7e386a.~MD - 1
+01:05 00:00 SMTPD(ada40005dc8a3876) CTIPD Daemon Return OK
+01:05 00:00 SMTP-(32440005dc7e386a) [x] aaxischina.com ldelivery lentang (main) from <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTPD(ada40005dc8a3876) Connection Check: IPReputation. Completed in 0.156246 seconds. Total elapsed for this session 0.156246 seconds.
+01:05 00:00 SMTP-(32440005dc7e386a) ldeliver aaxischina.com lentang-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28452
+01:05 00:00 SMTPD(ada40005dc8a3876) [209.85.192.200] EHLO mail-pd0-f200.google.com
+01:05 00:00 SMTP-(32440005dc7e386a) [x] aaxischina.com ldelivery mailbackup (main) from atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com
+01:05 00:00 SMTPD(b5ce0005dc863872) [209.85.192.198] RCPT TO:<lentang@aaxischina.com>
+01:05 00:00 SMTP-(32440005dc7e386a) ldeliver aaxischina.com mailbackup-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28452
+01:05 00:00 SMTPD(fba80005dc7e3877) Processing QUIT
+01:05 00:00 SMTP-(32440005dc7e386a) finished d:\Program Files\Ipswitch\IMail\spool\Q32440005dc7e386a.SMD status=1
+01:05 00:00 SMTPD(3f260005dc883874) [209.85.213.199] RCPT TO:<stevenwang@aaxischina.com>
+01:05 00:00 POP3D  (7AE27C02) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE27C02) logoff for mailbackup aaxischina.com R:2, D:1, P:0, RS:61710 from 172.17.255.30
+01:05 00:00 POP3D  (7AE27C02) Purge error 26, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 SMTP-(32440005dc7f386b) processing d:\Program Files\Ipswitch\IMail\spool\Q32440005dc7f386b.SMD
+01:05 00:00 SMTP-(32440005dc7f386b) recip is <mailbackup@aaxischina.com>
+01:05 00:00 SMTP-(32440005dc7f386b) local user mailbackup@aaxischina.com
+01:05 00:00 SMTPD(ada40005dc8a3876) [209.85.192.200] MAIL FROM:<atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com> SIZE=263652
+01:05 00:00 SMTP-(32440005dc7f386b) sender <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384139
+01:05 00:00 SMTP-(32440005dc7f386b) recip is <stevieqiao@aaxischina.com>
+01:05 00:00 SMTPD(cada0005dc8b3878) [172.17.255.30:25] connect 209.85.220.69 port 42541
+01:05 00:00 SMTPD(ada40005dc8a3876) [209.85.192.200] RCPT TO:<martinjiang@aaxischina.com>
+01:05 00:00 SMTPD(cada0005dc8b3878) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(cada0005dc8b3878) Connection Check: IPReputation. Completed in 0.156246 seconds. Total elapsed for this session 0.156246 seconds.
+01:05 00:00 SMTPD(cada0005dc8b3878) [209.85.220.69] EHLO mail-pa0-f69.google.com
+01:05 00:00 SMTPD(cada0005dc8b3878) [209.85.220.69] MAIL FROM:<atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com> SIZE=263650
+01:05 00:00 SMTPD(32440005dc7f386b) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:00 SMTPD(32440005dc7f386b) performing antispam checks
+01:05 00:00 SMTPD(32440005dc7f386b) [209.85.213.198] d:\Program Files\Ipswitch\IMail\spool\D32440005dc7f386b.SMD 28340
+01:05 00:00 SMTPD(cada0005dc8b3878) [209.85.220.69] RCPT TO:<stevenwang@aaxischina.com>
+01:05 00:00 SMTP-(32440005dc7f386b) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:00 SMTP-(32440005dc7f386b) local user stevieqiao@aaxischina.com
+01:05 00:00 SMTPD(61fc0005dc7f3879) Processing QUIT
+01:05 00:00 SMTP-(32440005dc7f386b) closed d:\Program Files\Ipswitch\IMail\spool\_32440005dc7f386b.~MD - 1
+01:05 00:00 SMTPD(bb9c0005dc82386e) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:00 SMTP-(32440005dc7f386b) [x] aaxischina.com ldelivery mailbackup (main) from <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTPD(bb9c0005dc82386e) performing antispam checks
+01:05 00:00 SMTP-(32440005dc7f386b) ldeliver aaxischina.com mailbackup-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28453
+01:05 00:00 SMTPD(bb9c0005dc82386e) [209.85.218.72] d:\Program Files\Ipswitch\IMail\spool\Dbb9c0005dc82386e.SMD 28334
+01:05 00:00 SMTP-(32440005dc7f386b) [x] aaxischina.com ldelivery stevieqiao (main) from atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com
+01:05 00:00 SMTPD(acbc0005dc82387a) Processing QUIT
+01:05 00:00 SMTP-(bb9c0005dc82386e) processing d:\Program Files\Ipswitch\IMail\spool\Qbb9c0005dc82386e.SMD
+01:05 00:00 SMTPD(e4fa0005dc843870) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:00 SMTP-(bb9c0005dc82386e) recip is <mailbackup@aaxischina.com>
+01:05 00:00 SMTPD(e4fa0005dc843870) performing antispam checks
+01:05 00:00 SMTP-(bb9c0005dc82386e) local user mailbackup@aaxischina.com
+01:05 00:00 SMTPD(e4fa0005dc843870) [209.85.218.71] d:\Program Files\Ipswitch\IMail\spool\De4fa0005dc843870.SMD 28333
+01:05 00:00 SMTP-(bb9c0005dc82386e) sender <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTP-(bb9c0005dc82386e) recip is <dylanyu@aaxischina.com>
+01:05 00:00 SMTP-(32440005dc7f386b) ldeliver aaxischina.com stevieqiao-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28453
+01:05 00:00 SMTP-(32440005dc7f386b) finished d:\Program Files\Ipswitch\IMail\spool\Q32440005dc7f386b.SMD status=1
+01:05 00:00 SMTP-(bb9c0005dc82386e) local user dylanyu@aaxischina.com
+01:05 00:00 SMTP-(bb9c0005dc82386e) closed d:\Program Files\Ipswitch\IMail\spool\_bb9c0005dc82386e.~MD - 1
+01:05 00:00 SMTP-(bb9c0005dc82386e) [x] aaxischina.com ldelivery dylanyu (main) from <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTP-(bb9c0005dc82386e) ldeliver aaxischina.com dylanyu-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28447
+01:05 00:00 SMTP-(bb9c0005dc82386e) [x] aaxischina.com ldelivery mailbackup (main) from atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com
+01:05 00:00 SMTP-(e4fa0005dc843870) processing d:\Program Files\Ipswitch\IMail\spool\Qe4fa0005dc843870.SMD
+01:05 00:00 SMTP-(e4fa0005dc843870) recip is <mailbackup@aaxischina.com>
+01:05 00:00 SMTP-(e4fa0005dc843870) local user mailbackup@aaxischina.com
+01:05 00:00 SMTP-(e4fa0005dc843870) sender <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTP-(e4fa0005dc843870) recip is <rexlu@aaxischina.com>
+01:05 00:00 SMTP-(e4fa0005dc843870) local user rexlu@aaxischina.com
+01:05 00:00 SMTP-(e4fa0005dc843870) closed d:\Program Files\Ipswitch\IMail\spool\_e4fa0005dc843870.~MD - 1
+01:05 00:00 SMTP-(bb9c0005dc82386e) ldeliver aaxischina.com mailbackup-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28447
+01:05 00:00 SMTP-(bb9c0005dc82386e) finished d:\Program Files\Ipswitch\IMail\spool\Qbb9c0005dc82386e.SMD status=1
+01:05 00:00 SMTP-(e4fa0005dc843870) [x] aaxischina.com ldelivery mailbackup (main) from <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTP-(bb9c0005dc82386e) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:00 SMTP-(e4fa0005dc843870) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:00 POP3D  (7AE284BC) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 SMTP-(e4fa0005dc843870) ldeliver aaxischina.com mailbackup-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28446
+01:05 00:00 SMTPD(47220005dc84387b) Processing QUIT
+01:05 00:00 SMTP-(e4fa0005dc843870) [x] aaxischina.com ldelivery rexlu (main) from atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com
+01:05 00:00 SMTP-(e4fa0005dc843870) ldeliver aaxischina.com rexlu-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28446
+01:05 00:00 SMTP-(e4fa0005dc843870) finished d:\Program Files\Ipswitch\IMail\spool\Qe4fa0005dc843870.SMD status=1
+01:05 00:00 POP3D  (7AE284BC) logoff for mailbackup aaxischina.com R:6, D:3, P:0, RS:185100 from 172.17.255.30
+01:05 00:00 POP3D  (7AE284BC) Purge error 26, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 SMTPD(949a0005dc80386c) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:00 SMTP-(949a0005dc80386c) processing d:\Program Files\Ipswitch\IMail\spool\Q949a0005dc80386c.SMD
+01:05 00:00 SMTPD(949a0005dc80386c) performing antispam checks
+01:05 00:00 SMTP-(949a0005dc80386c) recip is <mailbackup@aaxischina.com>
+01:05 00:00 SMTPD(949a0005dc80386c) [209.85.213.200] d:\Program Files\Ipswitch\IMail\spool\D949a0005dc80386c.SMD 28339
+01:05 00:00 SMTP-(949a0005dc80386c) local user mailbackup@aaxischina.com
+01:05 00:00 SMTP-(949a0005dc80386c) sender <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTP-(949a0005dc80386c) recip is <paynejia@aaxischina.com>
+01:05 00:00 SMTP-(949a0005dc80386c) local user paynejia@aaxischina.com
+01:05 00:00 SMTP-(949a0005dc80386c) closed d:\Program Files\Ipswitch\IMail\spool\_949a0005dc80386c.~MD - 1
+01:05 00:00 SMTP-(949a0005dc80386c) [x] aaxischina.com ldelivery mailbackup (main) from <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTP-(949a0005dc80386c) ldeliver aaxischina.com mailbackup-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28452
+01:05 00:00 SMTP-(949a0005dc80386c) [x] aaxischina.com ldelivery paynejia (main) from atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com
+01:05 00:00 SMTP-(949a0005dc80386c) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:00 POP3D  (7AE28F6B) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE28F6B) logoff for mailbackup aaxischina.com R:2, D:1, P:0, RS:61710 from 172.17.255.30
+01:05 00:00 POP3D  (7AE28F6B) Purge error 26, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 SMTP-(949a0005dc80386c) forwarded message to paynejia@aaxiscommerce.com using new file: 638f000009308d86
+01:05 00:00 SMTP-(949a0005dc80386c) finished d:\Program Files\Ipswitch\IMail\spool\Q949a0005dc80386c.SMD status=1
+01:05 00:00 SMTP-(638f000009308d86) processing d:\Program Files\Ipswitch\IMail\spool\Q638f000009308d86.FWD
+01:05 00:00 SMTP-(638f000009308d86) sender <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTP-(638f000009308d86) recip is <paynejia@aaxiscommerce.com>
+01:05 00:00 SMTP-(638f000009308d86) [x] looking up aaxiscommerce.com in HOSTS and MX
+01:05 00:00 SMTP-(638f000009308d86) [x] looking up aaxiscommerce.com in HOSTS and MX
+01:05 00:00 SMTP-(59460005dc81386d) processing d:\Program Files\Ipswitch\IMail\spool\Q59460005dc81386d.SMD
+01:05 00:00 SMTPD(59460005dc81386d) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:00 SMTP-(59460005dc81386d) recip is <mailbackup@aaxischina.com>
+01:05 00:00 SMTPD(59460005dc81386d) performing antispam checks
+01:05 00:00 SMTP-(59460005dc81386d) local user mailbackup@aaxischina.com
+01:05 00:00 SMTPD(59460005dc81386d) [209.85.223.197] d:\Program Files\Ipswitch\IMail\spool\D59460005dc81386d.SMD 28342
+01:05 00:00 SMTP-(59460005dc81386d) sender <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTPD(c0e00005dc81387d) Processing QUIT
+01:05 00:00 SMTP-(59460005dc81386d) recip is <martinjiang@aaxischina.com>
+01:05 00:00 SMTPD(3f260005dc883874) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:00 SMTP-(59460005dc81386d) local user martinjiang@aaxischina.com
+01:05 00:00 SMTPD(3f260005dc883874) performing antispam checks
+01:05 00:00 SMTP-(59460005dc81386d) closed d:\Program Files\Ipswitch\IMail\spool\_59460005dc81386d.~MD - 1
+01:05 00:00 SMTPD(3f260005dc883874) [209.85.213.199] d:\Program Files\Ipswitch\IMail\spool\D3f260005dc883874.SMD 28340
+01:05 00:00 SMTP-(59460005dc81386d) [x] aaxischina.com ldelivery mailbackup (main) from <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTP-(59460005dc81386d) ldeliver aaxischina.com mailbackup-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28455
+01:05 00:00 SMTP-(59460005dc81386d) [x] aaxischina.com ldelivery martinjiang (main) from atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com
+01:05 00:00 SMTP-(59460005dc81386d) ldeliver aaxischina.com martinjiang-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28455
+01:05 00:00 SMTP-(59460005dc81386d) finished d:\Program Files\Ipswitch\IMail\spool\Q59460005dc81386d.SMD status=1
+01:05 00:00 SMTP-(3f260005dc883874) processing d:\Program Files\Ipswitch\IMail\spool\Q3f260005dc883874.SMD
+01:05 00:00 SMTP-(3f260005dc883874) recip is <mailbackup@aaxischina.com>
+01:05 00:00 SMTP-(3f260005dc883874) local user mailbackup@aaxischina.com
+01:05 00:00 SMTP-(3f260005dc883874) sender <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTP-(3f260005dc883874) recip is <stevenwang@aaxischina.com>
+01:05 00:00 SMTP-(3f260005dc883874) local user stevenwang@aaxischina.com
+01:05 00:00 SMTP-(3f260005dc883874) closed d:\Program Files\Ipswitch\IMail\spool\_3f260005dc883874.~MD - 1
+01:05 00:00 SMTP-(3f260005dc883874) [x] aaxischina.com ldelivery mailbackup (main) from <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTP-(59460005dc81386d) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:00 SMTP-(3f260005dc883874) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:00 POP3D  (7AE297E7) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE29815) NTlogon success for edwardhuang aaxischina.com from 172.17.105.169
+01:05 00:00 POP3D  (7AE29815) logoff for edwardhuang aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.105.169
+01:05 00:00 POP3D  (7AE297E7) logoff for mailbackup aaxischina.com R:4, D:2, P:0, RS:123432 from 172.17.255.30
+01:05 00:00 SMTPD(bbfa0005dc88387e) Processing QUIT
+01:05 00:00 SMTPD(cdf00005dc80387c) Processing QUIT
+01:05 00:00 SMTP-(3f260005dc883874) ldeliver aaxischina.com mailbackup-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28453
+01:05 00:00 SMTP-(3f260005dc883874) [x] aaxischina.com ldelivery stevenwang (main) from atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com
+01:05 00:00 SMTP-(3f260005dc883874) ldeliver aaxischina.com stevenwang-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28453
+01:05 00:00 SMTP-(3f260005dc883874) finished d:\Program Files\Ipswitch\IMail\spool\Q3f260005dc883874.SMD status=1
+01:05 00:00 POP3D  (7AE297E7) Purge error 26, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE2A13D) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE2A13D) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 SMTPD(9f200005dc83386f) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:00 SMTP-(9f200005dc83386f) processing d:\Program Files\Ipswitch\IMail\spool\Q9f200005dc83386f.SMD
+01:05 00:00 SMTPD(9f200005dc83386f) performing antispam checks
+01:05 00:00 SMTP-(9f200005dc83386f) recip is <mailbackup@aaxischina.com>
+01:05 00:00 SMTPD(9f200005dc83386f) [209.85.214.199] d:\Program Files\Ipswitch\IMail\spool\D9f200005dc83386f.SMD 28340
+01:05 00:00 SMTP-(9f200005dc83386f) local user mailbackup@aaxischina.com
+01:05 00:00 SMTPD(00ec0005dc83387f) Processing QUIT
+01:05 00:00 SMTP-(9f200005dc83386f) sender <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTP-(9f200005dc83386f) recip is <maxwellyu@aaxischina.com>
+01:05 00:00 SMTP-(9f200005dc83386f) local user maxwellyu@aaxischina.com
+01:05 00:00 SMTP-(9f200005dc83386f) closed d:\Program Files\Ipswitch\IMail\spool\_9f200005dc83386f.~MD - 1
+01:05 00:00 SMTP-(9f200005dc83386f) [x] aaxischina.com ldelivery mailbackup (main) from <atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com>
+01:05 00:00 SMTP-(9f200005dc83386f) ldeliver aaxischina.com mailbackup-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28453
+01:05 00:00 SMTP-(9f200005dc83386f) [x] aaxischina.com ldelivery maxwellyu (main) from atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com
+01:05 00:00 SMTP-(9f200005dc83386f) ldeliver aaxischina.com maxwellyu-main (1) atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com 28453
+01:05 00:00 SMTP-(9f200005dc83386f) finished d:\Program Files\Ipswitch\IMail\spool\Q9f200005dc83386f.SMD status=1
+01:05 00:00 SMTP-(9f200005dc83386f) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:00 POP3D  (7AE2A94C) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE2A94C) logoff for mailbackup aaxischina.com R:2, D:1, P:0, RS:61713 from 172.17.255.30
+01:05 00:00 POP3D  (7AE2A94C) Purge error 26, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 SMTP-(638f000009308d86) closed d:\Program Files\Ipswitch\IMail\spool\_638f000009308d86.~WD - 1
+01:05 00:00 SMTP-(638f000009308d86) R<paynejia@aaxiscommerce.com> - 1
+01:05 00:00 SMTP-(638f000009308d86) [x] doing direct send aaxiscommerce.com
+01:05 00:00 SMTP-(638f000009308d86) Trying aaxiscommerce.com (0)
+01:05 00:00 SMTP-(638f000009308d86) Enumerating MX records for host aaxiscommerce.com
+01:05 00:00 SMTP-(638f000009308d86) Trying to connect to host 74.125.23.27
+01:05 00:00 SMTP-(638f000009308d86) Attempting to connect to host: 74.125.23.27
+01:05 00:00 SMTP-(638f000009308d86) Connecting socket to SMTP service on host <74.125.23.27> using tcp protocol.
+01:05 00:00 SMTP-(638f000009308d86) using source IP for aaxischina.com [172.17.255.30]
+01:05 00:00 SMTP-(638f000009308d86) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:00 POP3D  (7AE2B1C8) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE2B1C8) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 POP3D  (7AE2B9D6) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE2B9D6) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 POP3D  (7AE2C1E5) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE2C1E5) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 POP3D  (7AE2CA03) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE2CA03) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 POP3D  (7AE2D211) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE2D211) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 POP3D  (7AE2DA20) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE2DA20) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 POP3D  (7AE2E21F) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE2E21F) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 POP3D  (7AE2EA1D) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE2EA1D) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 POP3D  (7AE2F21C) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE2F21C) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 POP3D  (7AE2FA3A) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE2FA3A) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384140
+01:05 00:00 SMTPD(e4720005dc8c3880) [172.17.255.30:25] connect 200.10.170.8 port 12044
+01:05 00:00 SMTPD(e4720005dc8c3880) CTIPD Daemon Return OK
+01:05 00:00 POP3D  (7AE30239) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE30239) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 SMTPD(e4720005dc8c3880) [200.10.170.8] EHLO mail.falabella.cl
+01:05 00:00 SMTP-(638f000009308d86) Connect fail 74.125.23.27 [74.125.23.27]: connection timed out
+01:05 00:00 SMTPD(e4720005dc8c3880) [200.10.170.8] MAIL FROM:<>
+01:05 00:00 SMTP-(638f000009308d86) [44032] closing socket (0)
+01:05 00:00 SMTPD(e4720005dc8c3880) [200.10.170.8] RCPT TO:<nemozhao@aaxischina.com>
+01:05 00:00 SMTP-(638f000009308d86) [!] SMTP connection on port 25 failed for host 74.125.23.27
+01:05 00:00 SMTP-(638f000009308d86) Trying to connect via SSL to host 74.125.23.27:465
+01:05 00:00 SMTP-(638f000009308d86) Attempting to connect to host: 74.125.23.27:465
+01:05 00:00 SMTP-(638f000009308d86) Connecting socket to SMTP service on host <74.125.23.27:465> using tcp protocol.
+01:05 00:00 SMTP-(638f000009308d86) Alternate delivery to port 465.
+01:05 00:00 SMTP-(638f000009308d86) using source IP for aaxischina.com [172.17.255.30]
+01:05 00:00 POP3D  (7AE3040E) NTlogon success for iyang aaxischina.com from 172.17.3.5
+01:05 00:00 POP3D  (7AE3040E) logoff for iyang aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.3.5
+01:05 00:00 POP3D  (7AE30A38) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 SMTPD(e4720005dc8c3880) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:00 SMTPD(e4720005dc8c3880) performing antispam checks
+01:05 00:00 SMTP-(e4720005dc8c3880) processing d:\Program Files\Ipswitch\IMail\spool\Qe4720005dc8c3880.SMD
+01:05 00:00 SMTPD(e4720005dc8c3880) [200.10.170.8] d:\Program Files\Ipswitch\IMail\spool\De4720005dc8c3880.SMD 4560
+01:05 00:00 SMTP-(e4720005dc8c3880) recip is <mailbackup@aaxischina.com>
+01:05 00:00 SMTPD(d0da0005dc8c3881) Processing QUIT
+01:05 00:00 SMTP-(e4720005dc8c3880) local user mailbackup@aaxischina.com
+01:05 00:00 SMTPD(b5ce0005dc853871) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:00 SMTP-(e4720005dc8c3880) sender <>
+01:05 00:00 SMTPD(b5ce0005dc853871) performing antispam checks
+01:05 00:00 SMTP-(e4720005dc8c3880) recip is <nemozhao@aaxischina.com>
+01:05 00:00 SMTPD(b5ce0005dc853871) [209.85.192.198] d:\Program Files\Ipswitch\IMail\spool\Db5ce0005dc853871.SMD 263805
+01:05 00:00 SMTP-(e4720005dc8c3880) local user nemozhao@aaxischina.com
+01:05 00:00 SMTP-(e4720005dc8c3880) closed d:\Program Files\Ipswitch\IMail\spool\_e4720005dc8c3880.~MD - 1
+01:05 00:00 SMTP-(e4720005dc8c3880) [x] aaxischina.com ldelivery mailbackup (main) from <>
+01:05 00:00 SMTP-(e4720005dc8c3880) ldeliver aaxischina.com mailbackup-main (1)  4690
+01:05 00:00 SMTP-(e4720005dc8c3880) [x] aaxischina.com ldelivery nemozhao (main) from 
+01:05 00:00 SMTP-(e4720005dc8c3880) ERR aaxischina.com nemozhao mailbox size too large (2147483648-3887670309)
+01:05 00:00 SMTP-(e4720005dc8c3880) R<nemozhao@aaxischina.com> - 9
+01:05 00:00 SMTP-(e4720005dc8c3880) finished d:\Program Files\Ipswitch\IMail\spool\Qe4720005dc8c3880.SMD status=2
+01:05 00:00 SMTP-(b5ce0005dc853871) processing d:\Program Files\Ipswitch\IMail\spool\Qb5ce0005dc853871.SMD
+01:05 00:00 SMTP-(b5ce0005dc853871) recip is <mailbackup@aaxischina.com>
+01:05 00:00 SMTP-(b5ce0005dc853871) local user mailbackup@aaxischina.com
+01:05 00:00 SMTP-(b5ce0005dc853871) sender <atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com>
+01:05 00:00 SMTP-(b5ce0005dc853871) recip is <rexlu@aaxischina.com>
+01:05 00:00 SMTP-(b5ce0005dc853871) local user rexlu@aaxischina.com
+01:05 00:00 SMTP-(b5ce0005dc853871) closed d:\Program Files\Ipswitch\IMail\spool\_b5ce0005dc853871.~MD - 1
+01:05 00:00 SMTP-(e4720005dc8c3880) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:00 SMTP-(b5ce0005dc853871) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:00 SMTP-(b5ce0005dc853871) [x] aaxischina.com ldelivery mailbackup (main) from <atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com>
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384141
+01:05 00:00 SMTPD(da780005dc8d3883) [172.17.255.30:25] connect 209.85.160.175 port 48077
+01:05 00:00 SMTPD(da780005dc8d3883) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384142
+01:05 00:00 SMTPD(c6260005dc8e3884) [172.17.255.30:25] connect 209.85.160.173 port 49919
+01:05 00:00 SMTPD(c6260005dc8e3884) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384143
+01:05 00:00 SMTPD(287c0005dc8f3885) [172.17.255.30:25] connect 209.85.213.54 port 64145
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384144
+01:05 00:00 SMTPD(287c0005dc8f3885) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(287c0005dc903886) [172.17.255.30:25] connect 209.85.160.176 port 54002
+01:05 00:00 SMTPD(287c0005dc903886) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(287c0005dc903886) Connection Check: IPReputation. Completed in 0.0156246 seconds. Total elapsed for this session 0.0156246 seconds.
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384145
+01:05 00:00 SMTPD(d8d60005dc913887) [172.17.255.30:25] connect 209.85.213.42 port 52893
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384146
+01:05 00:00 SMTPD(ffd80005dc923888) [172.17.255.30:25] connect 200.10.170.8 port 12060
+01:05 00:00 SMTPD(ffd80005dc923888) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384147
+01:05 00:00 SMTPD(c4840005dc933889) [172.17.255.30:25] connect 200.10.170.8 port 12062
+01:05 00:00 SMTPD(c4840005dc933889) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(287c0005dc8f3885) [209.85.213.54] EHLO mail-yh0-f54.google.com
+01:05 00:00 SMTPD(287c0005dc903886) [209.85.160.176] EHLO mail-yk0-f176.google.com
+01:05 00:00 SMTPD(d8d60005dc913887) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(d8d60005dc913887) Connection Check: IPReputation. Completed in 0.2968674 seconds. Total elapsed for this session 0.2968674 seconds.
+01:05 00:00 SMTPD(ffd80005dc923888) [200.10.170.8] EHLO mail.falabella.cl
+01:05 00:00 SMTPD(c4840005dc933889) [200.10.170.8] EHLO mail.falabella.cl
+01:05 00:00 SMTPD(287c0005dc8f3885) [209.85.213.54] MAIL FROM:<prod-falabella-soco@falabella.cl> SIZE=8667
+01:05 00:00 SMTPD(287c0005dc903886) [209.85.160.176] MAIL FROM:<prod-falabella-soco@falabella.cl> SIZE=8403
+01:05 00:00 SMTPD(ffd80005dc923888) [200.10.170.8] MAIL FROM:<prod-falabella-soco@falabella.cl>
+01:05 00:00 SMTPD(c4840005dc933889) [200.10.170.8] MAIL FROM:<prod-falabella-soco@falabella.cl>
+01:05 00:00 SMTPD(287c0005dc8f3885) [209.85.213.54] RCPT TO:<wdiao@aaxischina.com>
+01:05 00:00 SMTPD(287c0005dc8f3885) [209.85.213.54] ERR aaxischina.com invalid user <wdiao@aaxischina.com>
+01:05 00:00 SMTPD(c6260005dc8e3884) [209.85.160.173] EHLO mail-yk0-f173.google.com
+01:05 00:00 SMTPD(ffd80005dc923888) [200.10.170.8] RCPT TO:<nemozhao@aaxischina.com>
+01:05 00:00 SMTPD(d8d60005dc913887) [209.85.213.42] EHLO mail-yh0-f42.google.com
+01:05 00:00 SMTPD(c4840005dc933889) [200.10.170.8] RCPT TO:<nemozhao@aaxischina.com>
+01:05 00:00 SMTPD(c6260005dc8e3884) [209.85.160.173] MAIL FROM:<prod-falabella-soco@falabella.cl> SIZE=8403
+01:05 00:00 SMTPD(d8d60005dc913887) [209.85.213.42] MAIL FROM:<prod-falabella-soco@falabella.cl> SIZE=8665
+01:05 00:00 SMTPD(c6260005dc8e3884) [209.85.160.173] RCPT TO:<dzhou@aaxischina.com>
+01:05 00:00 SMTPD(c6260005dc8e3884) [209.85.160.173] ERR aaxischina.com invalid user <dzhou@aaxischina.com>
+01:05 00:00 SMTPD(287c0005dc8f3885) Processing QUIT
+01:05 00:00 SMTPD(287c0005dc903886) [209.85.160.176] RCPT TO:<wdiao@aaxischina.com>
+01:05 00:00 SMTPD(287c0005dc903886) [209.85.160.176] ERR aaxischina.com invalid user <wdiao@aaxischina.com>
+01:05 00:00 SMTP-(ffd80005dc923888) processing d:\Program Files\Ipswitch\IMail\spool\Qffd80005dc923888.SMD
+01:05 00:00 SMTPD(287c0005dc903886) Processing QUIT
+01:05 00:00 SMTP-(ffd80005dc923888) recip is <mailbackup@aaxischina.com>
+01:05 00:00 SMTPD(ca520005dc853882) Processing QUIT
+01:05 00:00 SMTP-(ffd80005dc923888) local user mailbackup@aaxischina.com
+01:05 00:00 SMTPD(c4840005dc933889) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:00 SMTP-(ffd80005dc923888) sender <prod-falabella-soco@falabella.cl>
+01:05 00:00 SMTPD(ffd80005dc923888) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:00 SMTP-(ffd80005dc923888) recip is <nemozhao@aaxischina.com>
+01:05 00:00 SMTPD(ffd80005dc923888) performing antispam checks
+01:05 00:00 SMTP-(ffd80005dc923888) local user nemozhao@aaxischina.com
+01:05 00:00 SMTPD(ffd80005dc923888) [200.10.170.8] d:\Program Files\Ipswitch\IMail\spool\Dffd80005dc923888.SMD 7287
+01:05 00:00 SMTP-(ffd80005dc923888) closed d:\Program Files\Ipswitch\IMail\spool\_ffd80005dc923888.~MD - 1
+01:05 00:00 SMTPD(c4840005dc933889) performing antispam checks
+01:05 00:00 SMTP-(c4840005dc933889) processing d:\Program Files\Ipswitch\IMail\spool\Qc4840005dc933889.SMD
+01:05 00:00 SMTPD(c4840005dc933889) [200.10.170.8] d:\Program Files\Ipswitch\IMail\spool\Dc4840005dc933889.SMD 7547
+01:05 00:00 SMTP-(c4840005dc933889) recip is <mailbackup@aaxischina.com>
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384148
+01:05 00:00 SMTP-(ffd80005dc923888) [x] aaxischina.com ldelivery mailbackup (main) from <prod-falabella-soco@falabella.cl>
+01:05 00:00 SMTPD(38a20005dc94388c) [172.17.255.30:25] connect 209.85.213.47 port 52623
+01:05 00:00 SMTP-(c4840005dc933889) local user mailbackup@aaxischina.com
+01:05 00:00 SMTPD(38a20005dc94388c) CTIPD Daemon Return OK
+01:05 00:00 SMTP-(c4840005dc933889) sender <prod-falabella-soco@falabella.cl>
+01:05 00:00 SMTPD(13420005dc92388a) Processing QUIT
+01:05 00:00 SMTP-(c4840005dc933889) recip is <nemozhao@aaxischina.com>
+01:05 00:00 SMTPD(9c9a0005dc93388b) Processing QUIT
+01:05 00:00 SMTP-(c4840005dc933889) local user nemozhao@aaxischina.com
+01:05 00:00 SMTP-(c4840005dc933889) closed d:\Program Files\Ipswitch\IMail\spool\_c4840005dc933889.~MD - 1
+01:05 00:00 SMTP-(c4840005dc933889) [x] aaxischina.com ldelivery mailbackup (main) from <prod-falabella-soco@falabella.cl>
+01:05 00:00 SMTP-(ffd80005dc923888) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:00 SMTP-(c4840005dc933889) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:00 SMTPD(c6260005dc8e3884) Processing QUIT
+01:05 00:00 POP3D  (7AE30A38) Purge error 17, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE312E3) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE312E3) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:00 SMTPD(d8d60005dc913887) [209.85.213.42] RCPT TO:<azhou@aaxischina.com>
+01:05 00:00 POP3D  (7AE32E99) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:00 POP3D  (7AE32E99) logoff for mailbackup aaxischina.com R:2, D:1, P:0, RS:16477 from 172.17.255.30
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384149
+01:05 00:00 SMTPD(07a60005dc95388d) [172.17.255.30:25] connect 200.10.170.8 port 12110
+01:05 00:00 SMTPD(07a60005dc95388d) CTIPD Daemon Return OK
+01:05 00:00 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384150
+01:05 00:00 SMTPD(07a60005dc96388e) [172.17.255.30:25] connect 200.10.170.8 port 12111
+01:05 00:00 SMTPD(07a60005dc96388e) CTIPD Daemon Return OK
+01:05 00:00 SMTP-(ffd80005dc923888) ldeliver aaxischina.com mailbackup-main (1) prod-falabella-soco@falabella.cl 7404
+01:05 00:00 SMTP-(ffd80005dc923888) [x] aaxischina.com ldelivery nemozhao (main) from prod-falabella-soco@falabella.cl
+01:05 00:00 SMTP-(ffd80005dc923888) ERR aaxischina.com nemozhao mailbox size too large (2147483648-3889767461)
+01:05 00:00 SMTP-(ffd80005dc923888) R<nemozhao@aaxischina.com> - 9
+01:05 00:00 SMTP-(ffd80005dc923888) Creating message from Postmaster
+01:05 00:00 SMTP-(ffd80005dc923888) Delivery process now using new file: 63ba000009383688
+01:05 00:00 SMTP-(ffd80005dc923888) finished d:\Program Files\Ipswitch\IMail\spool\Qffd80005dc923888.SMD status=2
+01:05 00:00 SMTP-(63ba000009383688) processing d:\Program Files\Ipswitch\IMail\spool\Q63ba000009383688.GSE
+01:05 00:00 SMTP-(63ba000009383688) sender <>
+01:05 00:00 SMTP-(63ba000009383688) recip is <prod-falabella-soco@falabella.cl>
+01:05 00:00 SMTP-(63ba000009383688) [x] looking up falabella.cl in HOSTS and MX
+01:05 00:00 SMTP-(63ba000009383688) [x] looking up falabella.cl in HOSTS and MX
+01:05 00:00 SMTP-(63ba000009383688) closed d:\Program Files\Ipswitch\IMail\spool\_63ba000009383688.~SE - 1
+01:05 00:00 SMTP-(63ba000009383688) R<prod-falabella-soco@falabella.cl> - 1
+01:05 00:00 SMTP-(63ba000009383688) [x] doing direct send falabella.cl
+01:05 00:00 SMTP-(63ba000009383688) Trying falabella.cl (0)
+01:05 00:00 SMTP-(63ba000009383688) Enumerating MX records for host falabella.cl
+01:05 00:00 SMTP-(63ba000009383688) Trying to connect to host 200.10.167.8
+01:05 00:00 SMTP-(63ba000009383688) Attempting to connect to host: 200.10.167.8
+01:05 00:00 SMTP-(63ba000009383688) Connecting socket to SMTP service on host <200.10.167.8> using tcp protocol.
+01:05 00:00 SMTP-(63ba000009383688) using source IP for aaxischina.com [172.17.255.30]
+01:05 00:00 SMTP-(b5ce0005dc853871) ldeliver aaxischina.com mailbackup-main (1) atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com 263918
+01:05 00:00 SMTP-(b5ce0005dc853871) [x] aaxischina.com ldelivery rexlu (main) from atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com
+01:05 00:00 SMTP-(b5ce0005dc853871) ldeliver aaxischina.com rexlu-main (1) atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com 263918
+01:05 00:00 SMTP-(b5ce0005dc853871) finished d:\Program Files\Ipswitch\IMail\spool\Qb5ce0005dc853871.SMD status=1
+01:05 00:00 SMTP-(63ba000009383688) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:00 SMTPD(07a60005dc95388d) [200.10.170.8] EHLO mail.falabella.cl
+01:05 00:00 SMTPD(07a60005dc96388e) [200.10.170.8] EHLO mail.falabella.cl
+01:05 00:01 SMTPD(07a60005dc95388d) [200.10.170.8] MAIL FROM:<>
+01:05 00:01 SMTPD(07a60005dc96388e) [200.10.170.8] MAIL FROM:<>
+01:05 00:01 SMTPD(07a60005dc95388d) [200.10.170.8] RCPT TO:<nemozhao@aaxischina.com>
+01:05 00:01 SMTPD(07a60005dc96388e) [200.10.170.8] RCPT TO:<nemozhao@aaxischina.com>
+01:05 00:01 POP3D  (7AE312E3) Purge error 17, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 POP3D  (7AE33F33) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 SMTPD(07a60005dc96388e) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:01 SMTPD(07a60005dc96388e) performing antispam checks
+01:05 00:01 SMTPD(07a60005dc96388e) [200.10.170.8] d:\Program Files\Ipswitch\IMail\spool\D07a60005dc96388e.SMD 3757
+01:05 00:01 SMTPD(de1a0005dc96388f) Processing QUIT
+01:05 00:01 SMTP-(c4840005dc933889) ldeliver aaxischina.com mailbackup-main (1) prod-falabella-soco@falabella.cl 7664
+01:05 00:01 SMTP-(c4840005dc933889) [x] aaxischina.com ldelivery nemozhao (main) from prod-falabella-soco@falabella.cl
+01:05 00:01 SMTP-(c4840005dc933889) ERR aaxischina.com nemozhao mailbox size too large (2147483648-3891864613)
+01:05 00:01 SMTP-(c4840005dc933889) R<nemozhao@aaxischina.com> - 9
+01:05 00:01 SMTP-(c4840005dc933889) Creating message from Postmaster
+01:05 00:01 SMTP-(c4840005dc933889) Delivery process now using new file: 63bd000009404359
+01:05 00:01 SMTP-(c4840005dc933889) finished d:\Program Files\Ipswitch\IMail\spool\Qc4840005dc933889.SMD status=2
+01:05 00:01 SMTP-(63bd000009404359) processing d:\Program Files\Ipswitch\IMail\spool\Q63bd000009404359.GSE
+01:05 00:01 SMTP-(63bd000009404359) sender <>
+01:05 00:01 SMTP-(63bd000009404359) recip is <prod-falabella-soco@falabella.cl>
+01:05 00:01 SMTP-(63bd000009404359) [x] looking up falabella.cl in HOSTS and MX
+01:05 00:01 SMTP-(63bd000009404359) [x] looking up falabella.cl in HOSTS and MX
+01:05 00:01 SMTP-(63bd000009404359) closed d:\Program Files\Ipswitch\IMail\spool\_63bd000009404359.~SE - 1
+01:05 00:01 SMTP-(63bd000009404359) R<prod-falabella-soco@falabella.cl> - 1
+01:05 00:01 SMTP-(63bd000009404359) [x] doing direct send falabella.cl
+01:05 00:01 SMTP-(63bd000009404359) Trying falabella.cl (0)
+01:05 00:01 SMTP-(63bd000009404359) Enumerating MX records for host falabella.cl
+01:05 00:01 SMTP-(63bd000009404359) Trying to connect to host 200.10.167.8
+01:05 00:01 SMTP-(63bd000009404359) Attempting to connect to host: 200.10.167.8
+01:05 00:01 SMTP-(63bd000009404359) Connecting socket to SMTP service on host <200.10.167.8> using tcp protocol.
+01:05 00:01 SMTP-(63bd000009404359) using source IP for aaxischina.com [172.17.255.30]
+01:05 00:01 SMTP-(07a60005dc96388e) processing d:\Program Files\Ipswitch\IMail\spool\Q07a60005dc96388e.SMD
+01:05 00:01 SMTP-(07a60005dc96388e) recip is <mailbackup@aaxischina.com>
+01:05 00:01 SMTP-(07a60005dc96388e) local user mailbackup@aaxischina.com
+01:05 00:01 SMTP-(07a60005dc96388e) sender <>
+01:05 00:01 SMTP-(07a60005dc96388e) recip is <nemozhao@aaxischina.com>
+01:05 00:01 SMTP-(07a60005dc96388e) local user nemozhao@aaxischina.com
+01:05 00:01 SMTP-(07a60005dc96388e) closed d:\Program Files\Ipswitch\IMail\spool\_07a60005dc96388e.~MD - 1
+01:05 00:01 SMTP-(07a60005dc96388e) [x] aaxischina.com ldelivery mailbackup (main) from <>
+01:05 00:01 SMTP-(63bd000009404359) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:01 SMTP-(07a60005dc96388e) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:01 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384151
+01:05 00:01 SMTP-(63bd000009404359) 220 EGWRO01.Falabella.cl EG5500/SMTP Ready.
+01:05 00:01 SMTP-(63bd000009404359) Verifying SSL settings for host 200.10.167.8
+01:05 00:01 SMTP-(63bd000009404359) >EHLO aaxischina.com
+01:05 00:01 SMTP-(63bd000009404359) 250-Requested mail action okay, completed.
+01:05 00:01 SMTP-(63bd000009404359) 250 STARTTLS
+01:05 00:01 SMTP-(63bd000009404359) >STARTTLS
+01:05 00:01 SMTP-(63bd000009404359) 220 Start TLS negotiation.
+01:05 00:01 SMTP-(638f000009308d86) Connect fail 74.125.23.27:465 [74.125.23.27]: connection timed out
+01:05 00:01 SMTP-(638f000009308d86) [44032] closing socket (0)
+01:05 00:01 SMTP-(638f000009308d86) Failed to establish SSL connection with 74.125.23.27 (connection refused)
+01:05 00:01 SMTP-(638f000009308d86) [!] SMTP SSL connection on port 465 failed for host 74.125.23.27
+01:05 00:01 SMTP-(638f000009308d86) Trying to connect to host 64.233.168.27
+01:05 00:01 SMTP-(638f000009308d86) Attempting to connect to host: 64.233.168.27
+01:05 00:01 SMTP-(638f000009308d86) Connecting socket to SMTP service on host <64.233.168.27> using tcp protocol.
+01:05 00:01 SMTP-(638f000009308d86) using source IP for aaxischina.com [172.17.255.30]
+01:05 00:01 SMTP-(63ba000009383688) 220 EGWRO01.Falabella.cl EG5500/SMTP Ready.
+01:05 00:01 SMTP-(63ba000009383688) Verifying SSL settings for host 200.10.167.8
+01:05 00:01 SMTP-(63ba000009383688) >EHLO aaxischina.com
+01:05 00:01 SMTP-(638f000009308d86) 220 mx.google.com ESMTP y9si32466348oia.23 - gsmtp
+01:05 00:01 SMTP-(638f000009308d86) Verifying SSL settings for host 64.233.168.27
+01:05 00:01 SMTP-(638f000009308d86) >EHLO aaxischina.com
+01:05 00:01 SMTP-(638f000009308d86) 250-mx.google.com at your service, [119.6.9.179]
+01:05 00:01 SMTP-(638f000009308d86) 250-SIZE 35882577
+01:05 00:01 SMTP-(638f000009308d86) 250-8BITMIME
+01:05 00:01 SMTP-(638f000009308d86) 250-STARTTLS
+01:05 00:01 SMTP-(638f000009308d86) 250-ENHANCEDSTATUSCODES
+01:05 00:01 SMTP-(638f000009308d86) 250-PIPELINING
+01:05 00:01 SMTP-(638f000009308d86) 250-CHUNKING
+01:05 00:01 SMTP-(638f000009308d86) 250 SMTPUTF8
+01:05 00:01 SMTP-(638f000009308d86) >STARTTLS
+01:05 00:01 SMTP-(638f000009308d86) 220 2.0.0 Ready to start TLS
+01:05 00:01 SMTPD(65a20005dc973890) [172.17.255.30:25] connect 209.85.213.52 port 53272
+01:05 00:01 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384152
+01:05 00:01 SMTPD(65a20005dc973890) CTIPD Daemon Return OK
+01:05 00:01 SMTPD(65a20005dc973890) Connection Check: IPReputation. Completed in 0.8906022 seconds. Total elapsed for this session 3.3280398 seconds.
+01:05 00:01 SMTPD(65a20005dc973890) [209.85.213.52] EHLO mail-yh0-f52.google.com
+01:05 00:01 SMTPD(da780005dc8d3883) [209.85.160.175] EHLO mail-yk0-f175.google.com
+01:05 00:01 SMTPD(16b60005dc983891) [172.17.255.30:25] connect 209.85.213.43 port 45502
+01:05 00:01 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384153
+01:05 00:01 SMTPD(16b60005dc983891) CTIPD Daemon Return OK
+01:05 00:01 SMTPD(16b60005dc983891) Connection Check: IPReputation. Completed in 0.078123 seconds. Total elapsed for this session 0.2499936 seconds.
+01:05 00:01 SMTPD(16b60005dc983891) [209.85.213.43] EHLO mail-yh0-f43.google.com
+01:05 00:01 SMTPD(0e8c0005dc993892) [172.17.255.30:25] connect 200.10.170.8 port 12119
+01:05 00:01 SMTPD(0e8c0005dc993892) CTIPD Daemon Return OK
+01:05 00:01 SMTPD(0e8c0005dc993892) [200.10.170.8] EHLO mail.falabella.cl
+01:05 00:01 SMTPD(65a20005dc973890) [209.85.213.52] MAIL FROM:<prod-falabella-soco@falabella.cl> SIZE=6911
+01:05 00:01 SMTPD(da780005dc8d3883) [209.85.160.175] MAIL FROM:<prod-falabella-soco@falabella.cl> SIZE=8404
+01:05 00:01 POP3D  (7AE33F33) logoff for mailbackup aaxischina.com R:3, D:2, P:0, RS:280986 from 172.17.255.30
+01:05 00:01 SMTPD(38a20005dc94388c) [209.85.213.47] EHLO mail-yh0-f47.google.com
+01:05 00:01 SMTPD(16b60005dc983891) [209.85.213.43] MAIL FROM:<prod-falabella-soco@falabella.cl> SIZE=6910
+01:05 00:01 SMTP-(63ba000009383688) 250-Requested mail action okay, completed.
+01:05 00:01 SMTPD(65a20005dc973890) [209.85.213.52] RCPT TO:<wdiao@aaxischina.com>
+01:05 00:01 SMTP-(63ba000009383688) 250 STARTTLS
+01:05 00:01 SMTPD(0e8c0005dc993892) [200.10.170.8] MAIL FROM:<prod-falabella-soco@falabella.cl>
+01:05 00:01 SMTP-(63ba000009383688) >STARTTLS
+01:05 00:01 SMTP-(638f000009308d86) STARTTLS successfully negotiated for host 64.233.168.27
+01:05 00:01 SMTP-(638f000009308d86) >EHLO aaxischina.com
+01:05 00:01 SMTP-(63bd000009404359) STARTTLS successfully negotiated for host 200.10.167.8
+01:05 00:01 SMTP-(63bd000009404359) >EHLO aaxischina.com
+01:05 00:01 SMTP-(638f000009308d86) 250-mx.google.com at your service, [119.6.9.179]
+01:05 00:01 SMTP-(638f000009308d86) 250-SIZE 35882577
+01:05 00:01 SMTP-(638f000009308d86) 250-8BITMIME
+01:05 00:01 SMTP-(638f000009308d86) 250-ENHANCEDSTATUSCODES
+01:05 00:01 SMTP-(638f000009308d86) 250-PIPELINING
+01:05 00:01 SMTP-(638f000009308d86) 250-CHUNKING
+01:05 00:01 SMTP-(638f000009308d86) 250 SMTPUTF8
+01:05 00:01 SMTP-(638f000009308d86) >MAIL FROM:<atg-production-support+bncBAABBBGHUWSQKGQETIYU3NI@aaxiscommerce.com> SIZE=28563
+01:05 00:01 SMTP-(63bd000009404359) 250 Requested mail action okay, completed.
+01:05 00:01 SMTP-(63bd000009404359) >MAIL FROM:<>
+01:05 00:01 SMTP-(638f000009308d86) 250 2.1.0 OK y9si32466348oia.23 - gsmtp
+01:05 00:01 SMTP-(638f000009308d86) >RCPT TO:<paynejia@aaxiscommerce.com>
+01:05 00:01 SMTP-(638f000009308d86) 250 2.1.5 OK y9si32466348oia.23 - gsmtp
+01:05 00:01 SMTP-(638f000009308d86) >DATA
+01:05 00:01 SMTP-(638f000009308d86) 354  Go ahead y9si32466348oia.23 - gsmtp
+01:05 00:01 POP3D  (7AE33F33) Purge error 23, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 SMTPD(65a20005dc973890) [209.85.213.52] ERR aaxischina.com invalid user <wdiao@aaxischina.com>
+01:05 00:01 SMTPD(16b60005dc983891) [209.85.213.43] RCPT TO:<dzhou@aaxischina.com>
+01:05 00:01 SMTPD(d8d60005dc913887) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:01 SMTPD(0e8c0005dc993892) [200.10.170.8] RCPT TO:<nemozhao@aaxischina.com>
+01:05 00:01 SMTPD(65a20005dc973890) Processing QUIT
+01:05 00:01 SMTPD(16b60005dc983891) [209.85.213.43] ERR aaxischina.com invalid user <dzhou@aaxischina.com>
+01:05 00:01 SMTPD(da780005dc8d3883) [209.85.160.175] RCPT TO:<azhou@aaxischina.com>
+01:05 00:01 SMTPD(38a20005dc94388c) [209.85.213.47] MAIL FROM:<prod-falabella-soco@falabella.cl> SIZE=8666
+01:05 00:01 SMTPD(16b60005dc983891) Processing QUIT
+01:05 00:01 SMTPD(b5ce0005dc863872) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:01 SMTPD(d8d60005dc913887) performing antispam checks
+01:05 00:01 SMTPD(38a20005dc94388c) [209.85.213.47] RCPT TO:<dzhou@aaxischina.com>
+01:05 00:01 POP3D  (7AE34EE2) NTlogon success for maxwellyu aaxischina.com from 172.17.105.58
+01:05 00:01 POP3D  (7AE32E99) Purge error 17, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 POP3D  (7AE37612) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 SMTPD(38a20005dc94388c) [209.85.213.47] ERR aaxischina.com invalid user <dzhou@aaxischina.com>
+01:05 00:01 SMTPD(b5ce0005dc863872) performing antispam checks
+01:05 00:01 SMTPD(d8d60005dc913887) [209.85.213.42] d:\Program Files\Ipswitch\IMail\spool\Dd8d60005dc913887.SMD 8823
+01:05 00:01 SMTPD(38a20005dc94388c) Processing QUIT
+01:05 00:01 SMTPD(e4180005dc913893) Processing QUIT
+01:05 00:01 SMTPD(c87e0005dc893875) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:01 SMTPD(b5ce0005dc863872) [209.85.192.198] d:\Program Files\Ipswitch\IMail\spool\Db5ce0005dc863872.SMD 263807
+01:05 00:01 SMTPD(7e7e0005dc863894) Processing QUIT
+01:05 00:01 SMTPD(07a60005dc95388d) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:01 SMTPD(c87e0005dc893875) performing antispam checks
+01:05 00:01 SMTP-(d8d60005dc913887) processing d:\Program Files\Ipswitch\IMail\spool\Qd8d60005dc913887.SMD
+01:05 00:01 SMTP-(d8d60005dc913887) recip is <mailbackup@aaxischina.com>
+01:05 00:01 SMTP-(b5ce0005dc863872) processing d:\Program Files\Ipswitch\IMail\spool\Qb5ce0005dc863872.SMD
+01:05 00:01 SMTP-(b5ce0005dc863872) recip is <mailbackup@aaxischina.com>
+01:05 00:01 SMTP-(b5ce0005dc863872) local user mailbackup@aaxischina.com
+01:05 00:01 SMTP-(b5ce0005dc863872) sender <atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com>
+01:05 00:01 SMTP-(b5ce0005dc863872) recip is <lentang@aaxischina.com>
+01:05 00:01 SMTP-(d8d60005dc913887) local user mailbackup@aaxischina.com
+01:05 00:01 SMTP-(d8d60005dc913887) sender <prod-falabella-soco@falabella.cl>
+01:05 00:01 SMTP-(d8d60005dc913887) recip is <azhou@aaxischina.com>
+01:05 00:01 SMTP-(b5ce0005dc863872) local user lentang@aaxischina.com
+01:05 00:01 SMTP-(b5ce0005dc863872) closed d:\Program Files\Ipswitch\IMail\spool\_b5ce0005dc863872.~MD - 1
+01:05 00:01 SMTP-(d8d60005dc913887) local user azhou@aaxischina.com
+01:05 00:01 SMTP-(d8d60005dc913887) closed d:\Program Files\Ipswitch\IMail\spool\_d8d60005dc913887.~MD - 1
+01:05 00:01 POP3D  (7AE36D19) NTlogon success for owenluo aaxischina.com from 172.17.110.91
+01:05 00:01 SMTP-(b5ce0005dc863872) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:01 SMTP-(d8d60005dc913887) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:01 POP3D  (7AE34EE2) logoff for maxwellyu aaxischina.com R:1, D:1, P:0, RS:28563 from 172.17.105.58
+01:05 00:01 SMTPD(c87e0005dc893875) [209.85.192.197] d:\Program Files\Ipswitch\IMail\spool\Dc87e0005dc893875.SMD 263807
+01:05 00:01 SMTPD(07a60005dc95388d) performing antispam checks
+01:05 00:01 SMTPD(07a60005dc95388d) [200.10.170.8] d:\Program Files\Ipswitch\IMail\spool\D07a60005dc95388d.SMD 158630
+01:05 00:01 SMTPD(0e8c0005dc993892) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:01 SMTPD(79980005dc953896) Processing QUIT
+01:05 00:01 SMTPD(0e8c0005dc993892) performing antispam checks
+01:05 00:01 SMTPD(54380005dc893895) Processing QUIT
+01:05 00:01 SMTPD(0e8c0005dc993892) [200.10.170.8] d:\Program Files\Ipswitch\IMail\spool\D0e8c0005dc993892.SMD 5801
+01:05 00:01 SMTPD(ecfc0005dc993897) Processing QUIT
+01:05 00:01 SMTP-(c87e0005dc893875) processing d:\Program Files\Ipswitch\IMail\spool\Qc87e0005dc893875.SMD
+01:05 00:01 SMTP-(c87e0005dc893875) recip is <mailbackup@aaxischina.com>
+01:05 00:01 SMTP-(b5ce0005dc863872) [x] aaxischina.com ldelivery lentang (main) from <atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com>
+01:05 00:01 SMTP-(d8d60005dc913887) [x] aaxischina.com ldelivery azhou (main) from <prod-falabella-soco@falabella.cl>
+01:05 00:01 SMTP-(c87e0005dc893875) local user mailbackup@aaxischina.com
+01:05 00:01 SMTP-(c87e0005dc893875) sender <atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com>
+01:05 00:01 SMTP-(c87e0005dc893875) recip is <dylanyu@aaxischina.com>
+01:05 00:01 SMTP-(07a60005dc95388d) processing d:\Program Files\Ipswitch\IMail\spool\Q07a60005dc95388d.SMD
+01:05 00:01 SMTP-(07a60005dc95388d) recip is <mailbackup@aaxischina.com>
+01:05 00:01 SMTP-(c87e0005dc893875) local user dylanyu@aaxischina.com
+01:05 00:01 SMTP-(c87e0005dc893875) closed d:\Program Files\Ipswitch\IMail\spool\_c87e0005dc893875.~MD - 1
+01:05 00:01 SMTP-(07a60005dc95388d) local user mailbackup@aaxischina.com
+01:05 00:01 SMTP-(07a60005dc95388d) sender <>
+01:05 00:01 SMTP-(07a60005dc95388d) recip is <nemozhao@aaxischina.com>
+01:05 00:01 SMTP-(07a60005dc95388d) local user nemozhao@aaxischina.com
+01:05 00:01 SMTP-(07a60005dc95388d) closed d:\Program Files\Ipswitch\IMail\spool\_07a60005dc95388d.~MD - 1
+01:05 00:01 SMTP-(0e8c0005dc993892) processing d:\Program Files\Ipswitch\IMail\spool\Q0e8c0005dc993892.SMD
+01:05 00:01 SMTP-(c87e0005dc893875) [x] aaxischina.com ldelivery dylanyu (main) from <atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com>
+01:05 00:01 SMTP-(07a60005dc95388d) [x] aaxischina.com ldelivery mailbackup (main) from <>
+01:05 00:01 SMTP-(0e8c0005dc993892) recip is <mailbackup@aaxischina.com>
+01:05 00:01 SMTP-(0e8c0005dc993892) local user mailbackup@aaxischina.com
+01:05 00:01 SMTP-(0e8c0005dc993892) sender <prod-falabella-soco@falabella.cl>
+01:05 00:01 SMTP-(0e8c0005dc993892) recip is <nemozhao@aaxischina.com>
+01:05 00:01 SMTP-(c87e0005dc893875) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:01 SMTP-(07a60005dc95388d) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:01 POP3D  (7AE36D19) logoff for owenluo aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.110.91
+01:05 00:01 SMTPD(da780005dc8d3883) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:01 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384154
+01:05 00:01 SMTPD(1e840005dc9a3898) [172.17.255.30:25] connect 209.85.213.45 port 43748
+01:05 00:01 SMTPD(da780005dc8d3883) performing antispam checks
+01:05 00:01 SMTPD(da780005dc8d3883) [209.85.160.175] d:\Program Files\Ipswitch\IMail\spool\Dda780005dc8d3883.SMD 8564
+01:05 00:01 SMTP-(07a60005dc96388e) ldeliver aaxischina.com mailbackup-main (1)  3874
+01:05 00:01 SMTP-(0e8c0005dc993892) local user nemozhao@aaxischina.com
+01:05 00:01 SMTP-(0e8c0005dc993892) closed d:\Program Files\Ipswitch\IMail\spool\_0e8c0005dc993892.~MD - 1
+01:05 00:01 SMTP-(07a60005dc96388e) [x] aaxischina.com ldelivery nemozhao (main) from 
+01:05 00:01 SMTP-(0e8c0005dc993892) [x] aaxischina.com ldelivery mailbackup (main) from <prod-falabella-soco@falabella.cl>
+01:05 00:01 SMTP-(da780005dc8d3883) processing d:\Program Files\Ipswitch\IMail\spool\Qda780005dc8d3883.SMD
+01:05 00:01 SMTP-(da780005dc8d3883) recip is <mailbackup@aaxischina.com>
+01:05 00:01 SMTP-(07a60005dc96388e) ERR aaxischina.com nemozhao mailbox size too large (2147483648-3891864613)
+01:05 00:01 SMTP-(0e8c0005dc993892) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:01 POP3D  (7AE34EE2) Purge error 26, check locks, multiple accesses for maxwellyu aaxischina.com from 172.17.105.58
+01:05 00:01 SMTPD(1e840005dc9a3898) [209.85.213.45] EHLO mail-yh0-f45.google.com
+01:05 00:01 SMTPD(1e840005dc9a3898) CTIPD Daemon Return OK
+01:05 00:01 SMTPD(1e840005dc9a3898) Connection Check: IPReputation. Completed in 0.546861 seconds. Total elapsed for this session 0.5624856 seconds.
+01:05 00:01 SMTPD(1e840005dc9a3898) [209.85.213.45] MAIL FROM:<prod-falabella-soco@falabella.cl> SIZE=6912
+01:05 00:01 SMTP-(da780005dc8d3883) local user mailbackup@aaxischina.com
+01:05 00:01 SMTP-(da780005dc8d3883) sender <prod-falabella-soco@falabella.cl>
+01:05 00:01 SMTP-(da780005dc8d3883) recip is <azhou@aaxischina.com>
+01:05 00:01 SMTP-(07a60005dc96388e) R<nemozhao@aaxischina.com> - 9
+01:05 00:01 SMTP-(da780005dc8d3883) local user azhou@aaxischina.com
+01:05 00:01 SMTP-(da780005dc8d3883) closed d:\Program Files\Ipswitch\IMail\spool\_da780005dc8d3883.~MD - 1
+01:05 00:01 SMTP-(c87e0005dc893875) ldeliver aaxischina.com dylanyu-main (1) atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com 263920
+01:05 00:01 SMTP-(07a60005dc96388e) finished d:\Program Files\Ipswitch\IMail\spool\Q07a60005dc96388e.SMD status=2
+01:05 00:01 SMTP-(c87e0005dc893875) [x] aaxischina.com ldelivery mailbackup (main) from atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com
+01:05 00:01 SMTP-(da780005dc8d3883) [x] aaxischina.com ldelivery azhou (main) from <prod-falabella-soco@falabella.cl>
+01:05 00:01 POP3D  (7AE37612) logoff for mailbackup aaxischina.com R:4, D:2, P:0, RS:549599 from 172.17.255.30
+01:05 00:01 SMTPD(1e840005dc9a3898) [209.85.213.45] RCPT TO:<azhou@aaxischina.com>
+01:05 00:01 SMTP-(d8d60005dc913887) ldeliver aaxischina.com azhou-main (1) prod-falabella-soco@falabella.cl 8940
+01:05 00:01 SMTPD(43e40005dc8d3899) Processing QUIT
+01:05 00:01 SMTPD(ada40005dc8a3876) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:01 SMTPD(ada40005dc8a3876) performing antispam checks
+01:05 00:01 SMTPD(ada40005dc8a3876) [209.85.192.200] d:\Program Files\Ipswitch\IMail\spool\Dada40005dc8a3876.SMD 263812
+01:05 00:01 SMTP-(d8d60005dc913887) [x] aaxischina.com ldelivery mailbackup (main) from prod-falabella-soco@falabella.cl
+01:05 00:01 SMTP-(ada40005dc8a3876) processing d:\Program Files\Ipswitch\IMail\spool\Qada40005dc8a3876.SMD
+01:05 00:01 SMTP-(ada40005dc8a3876) recip is <mailbackup@aaxischina.com>
+01:05 00:01 SMTP-(ada40005dc8a3876) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:01 POP3D  (7AE3935E) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 SMTPD(1e840005dc9a3898) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:01 SMTPD(d6da0005dc8a389a) Processing QUIT
+01:05 00:01 SMTPD(1e840005dc9a3898) performing antispam checks
+01:05 00:01 SMTPD(1e840005dc9a3898) [209.85.213.45] d:\Program Files\Ipswitch\IMail\spool\D1e840005dc9a3898.SMD 7070
+01:05 00:01 SMTPD(18240005dc873873) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:01 SMTPD(a9500005dc9a389b) Processing QUIT
+01:05 00:01 SMTPD(18240005dc873873) performing antispam checks
+01:05 00:01 SMTPD(18240005dc873873) [209.85.220.71] d:\Program Files\Ipswitch\IMail\spool\D18240005dc873873.SMD 263805
+01:05 00:01 SMTP-(ada40005dc8a3876) local user mailbackup@aaxischina.com
+01:05 00:01 SMTP-(ada40005dc8a3876) sender <atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com>
+01:05 00:01 SMTP-(ada40005dc8a3876) recip is <martinjiang@aaxischina.com>
+01:05 00:01 SMTP-(1e840005dc9a3898) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:01 SMTP-(ada40005dc8a3876) local user martinjiang@aaxischina.com
+01:05 00:01 SMTP-(ada40005dc8a3876) closed d:\Program Files\Ipswitch\IMail\spool\_ada40005dc8a3876.~MD - 1
+01:05 00:01 SMTP-(b5ce0005dc863872) ldeliver aaxischina.com lentang-main (1) atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com 263920
+01:05 00:01 SMTP-(1e840005dc9a3898) processing d:\Program Files\Ipswitch\IMail\spool\Q1e840005dc9a3898.SMD
+01:05 00:01 SMTP-(ada40005dc8a3876) [x] aaxischina.com ldelivery mailbackup (main) from <atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com>
+01:05 00:01 SMTP-(1e840005dc9a3898) recip is <mailbackup@aaxischina.com>
+01:05 00:01 SMTP-(1e840005dc9a3898) local user mailbackup@aaxischina.com
+01:05 00:01 SMTP-(1e840005dc9a3898) sender <prod-falabella-soco@falabella.cl>
+01:05 00:01 SMTP-(1e840005dc9a3898) recip is <azhou@aaxischina.com>
+01:05 00:01 SMTP-(b5ce0005dc863872) [x] aaxischina.com ldelivery mailbackup (main) from atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com
+01:05 00:01 SMTP-(1e840005dc9a3898) local user azhou@aaxischina.com
+01:05 00:01 SMTP-(1e840005dc9a3898) closed d:\Program Files\Ipswitch\IMail\spool\_1e840005dc9a3898.~MD - 1
+01:05 00:01 SMTP-(1e840005dc9a3898) [x] aaxischina.com ldelivery azhou (main) from <prod-falabella-soco@falabella.cl>
+01:05 00:01 SMTP-(18240005dc873873) processing d:\Program Files\Ipswitch\IMail\spool\Q18240005dc873873.SMD
+01:05 00:01 SMTP-(18240005dc873873) recip is <mailbackup@aaxischina.com>
+01:05 00:01 SMTPD(b71a0005dc87389c) Processing QUIT
+01:05 00:01 SMTP-(18240005dc873873) local user mailbackup@aaxischina.com
+01:05 00:01 SMTP-(18240005dc873873) sender <atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com>
+01:05 00:01 SMTP-(18240005dc873873) recip is <paynejia@aaxischina.com>
+01:05 00:01 SMTP-(18240005dc873873) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:01 SMTP-(da780005dc8d3883) ldeliver aaxischina.com azhou-main (1) prod-falabella-soco@falabella.cl 8681
+01:05 00:01 SMTP-(18240005dc873873) local user paynejia@aaxischina.com
+01:05 00:01 SMTP-(18240005dc873873) closed d:\Program Files\Ipswitch\IMail\spool\_18240005dc873873.~MD - 1
+01:05 00:01 SMTP-(da780005dc8d3883) [x] aaxischina.com ldelivery mailbackup (main) from prod-falabella-soco@falabella.cl
+01:05 00:01 SMTP-(18240005dc873873) [x] aaxischina.com ldelivery mailbackup (main) from <atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com>
+01:05 00:01 SMTP-(c87e0005dc893875) ldeliver aaxischina.com mailbackup-main (1) atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com 263920
+01:05 00:01 SMTP-(c87e0005dc893875) finished d:\Program Files\Ipswitch\IMail\spool\Qc87e0005dc893875.SMD status=1
+01:05 00:01 SMTP-(0e8c0005dc993892) ldeliver aaxischina.com mailbackup-main (1) prod-falabella-soco@falabella.cl 5918
+01:05 00:01 SMTP-(0e8c0005dc993892) [x] aaxischina.com ldelivery nemozhao (main) from prod-falabella-soco@falabella.cl
+01:05 00:01 SMTP-(1e840005dc9a3898) ldeliver aaxischina.com azhou-main (1) prod-falabella-soco@falabella.cl 7187
+01:05 00:01 SMTP-(1e840005dc9a3898) [x] aaxischina.com ldelivery mailbackup (main) from prod-falabella-soco@falabella.cl
+01:05 00:01 SMTP-(0e8c0005dc993892) ERR aaxischina.com nemozhao mailbox size too large (2147483648-3832095781)
+01:05 00:01 SMTP-(0e8c0005dc993892) R<nemozhao@aaxischina.com> - 9
+01:05 00:01 SMTP-(0e8c0005dc993892) Creating message from Postmaster
+01:05 00:01 SMTP-(0e8c0005dc993892) Delivery process now using new file: 63d600000964a167
+01:05 00:01 SMTP-(0e8c0005dc993892) finished d:\Program Files\Ipswitch\IMail\spool\Q0e8c0005dc993892.SMD status=2
+01:05 00:01 SMTP-(63d600000964a167) processing d:\Program Files\Ipswitch\IMail\spool\Q63d600000964a167.GSE
+01:05 00:01 SMTP-(63d600000964a167) sender <>
+01:05 00:01 SMTP-(63d600000964a167) recip is <prod-falabella-soco@falabella.cl>
+01:05 00:01 SMTP-(63d600000964a167) [x] looking up falabella.cl in HOSTS and MX
+01:05 00:01 SMTP-(63d600000964a167) [x] looking up falabella.cl in HOSTS and MX
+01:05 00:01 SMTP-(63d600000964a167) closed d:\Program Files\Ipswitch\IMail\spool\_63d600000964a167.~SE - 1
+01:05 00:01 SMTP-(07a60005dc95388d) ldeliver aaxischina.com mailbackup-main (1)  158760
+01:05 00:01 SMTP-(63d600000964a167) R<prod-falabella-soco@falabella.cl> - 1
+01:05 00:01 SMTP-(63d600000964a167) [x] doing direct send falabella.cl
+01:05 00:01 SMTP-(63d600000964a167) Trying falabella.cl (0)
+01:05 00:01 SMTP-(63d600000964a167) Enumerating MX records for host falabella.cl
+01:05 00:01 SMTP-(63d600000964a167) Trying to connect to host 200.10.167.8
+01:05 00:01 SMTP-(63d600000964a167) Attempting to connect to host: 200.10.167.8
+01:05 00:01 SMTP-(63d600000964a167) Connecting socket to SMTP service on host <200.10.167.8> using tcp protocol.
+01:05 00:01 SMTP-(63d600000964a167) using source IP for aaxischina.com [172.17.255.30]
+01:05 00:01 SMTP-(07a60005dc95388d) [x] aaxischina.com ldelivery nemozhao (main) from 
+01:05 00:01 SMTP-(07a60005dc95388d) ERR aaxischina.com nemozhao mailbox size too large (2147483648-3829998629)
+01:05 00:01 SMTP-(63d600000964a167) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:01 POP3D  (7AE37612) Purge error 17, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 SMTPD(cada0005dc8b3878) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:01 SMTP-(07a60005dc95388d) R<nemozhao@aaxischina.com> - 9
+01:05 00:01 SMTP-(07a60005dc95388d) finished d:\Program Files\Ipswitch\IMail\spool\Q07a60005dc95388d.SMD status=2
+01:05 00:01 SMTP-(d8d60005dc913887) ldeliver aaxischina.com mailbackup-main (1) prod-falabella-soco@falabella.cl 8940
+01:05 00:01 SMTP-(d8d60005dc913887) finished d:\Program Files\Ipswitch\IMail\spool\Qd8d60005dc913887.SMD status=1
+01:05 00:01 POP3D  (7AE3935E) logoff for mailbackup aaxischina.com R:2, D:1, P:0, RS:9395 from 172.17.255.30
+01:05 00:01 SMTP-(cada0005dc8b3878) processing d:\Program Files\Ipswitch\IMail\spool\Qcada0005dc8b3878.SMD
+01:05 00:01 SMTP-(cada0005dc8b3878) recip is <mailbackup@aaxischina.com>
+01:05 00:01 SMTP-(cada0005dc8b3878) local user mailbackup@aaxischina.com
+01:05 00:01 SMTP-(cada0005dc8b3878) sender <atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com>
+01:05 00:01 SMTP-(cada0005dc8b3878) recip is <stevenwang@aaxischina.com>
+01:05 00:01 SMTP-(cada0005dc8b3878) local user stevenwang@aaxischina.com
+01:05 00:01 SMTP-(cada0005dc8b3878) closed d:\Program Files\Ipswitch\IMail\spool\_cada0005dc8b3878.~MD - 1
+01:05 00:01 SMTP-(cada0005dc8b3878) [x] aaxischina.com ldelivery mailbackup (main) from <atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com>
+01:05 00:01 SMTPD(cada0005dc8b3878) performing antispam checks
+01:05 00:01 SMTPD(cada0005dc8b3878) [209.85.220.69] d:\Program Files\Ipswitch\IMail\spool\Dcada0005dc8b3878.SMD 263808
+01:05 00:01 SMTPD(230e0005dc8b389d) Processing QUIT
+01:05 00:01 SMTP-(cada0005dc8b3878) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:01 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384155
+01:05 00:01 SMTPD(861e0005dc9b389e) [172.17.255.30:25] connect 111.178.164.50 port 4768
+01:05 00:01 SMTPD(861e0005dc9b389e) [111.178.164.50] EHLO jetflzeejxorg.cn
+01:05 00:01 SMTPD(861e0005dc9b389e) CTIPD Daemon Return OK
+01:05 00:01 SMTPD(861e0005dc9b389e) The IP Reputation query returned a Permfail for 111.178.164.50
+01:05 00:01 SMTPD(861e0005dc9b389e) Connection Check: IPReputation. Completed in 0.2812428 seconds. Total elapsed for this session 0.2812428 seconds.
+01:05 00:01 SMTPD(861e0005dc9b389e) [111.178.164.50] MAIL FROM: <qbcsqmgoyp@jetflzeejxorg.cn>
+01:05 00:01 SMTPD(861e0005dc9b389e) [111.178.164.50] RCPT TO: <careers@aaxischina.com>
+01:05 00:01 SMTP-(63bd000009404359) 250 Requested mail action okay, completed.
+01:05 00:01 SMTP-(63bd000009404359) >RCPT TO:<prod-falabella-soco@falabella.cl>
+01:05 00:01 SMTP-(63bd000009404359) 250 Requested mail action okay, completed.
+01:05 00:01 SMTP-(63bd000009404359) >DATA
+01:05 00:01 SMTP-(63bd000009404359) 354 Enter mail, end with "." on a line by itself.
+01:05 00:01 SMTP-(63bd000009404359) >EOM
+01:05 00:01 POP3D  (7AE3935E) Purge error 17, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 POP3D  (7AE3B107) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 SMTP-(da780005dc8d3883) ldeliver aaxischina.com mailbackup-main (1) prod-falabella-soco@falabella.cl 8681
+01:05 00:01 SMTP-(da780005dc8d3883) finished d:\Program Files\Ipswitch\IMail\spool\Qda780005dc8d3883.SMD status=1
+01:05 00:01 SMTP-(18240005dc873873) ldeliver aaxischina.com mailbackup-main (1) atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com 263933
+01:05 00:01 SMTP-(18240005dc873873) [x] aaxischina.com ldelivery paynejia (main) from atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com
+01:05 00:01 SMTP-(63bd000009404359) 250 Requested mail action okay, completed.
+01:05 00:01 SMTP-(63bd000009404359) rdeliver falabella.cl prod-falabella-soco@falabella.cl (1) <> 2545
+01:05 00:01 SMTP-(63bd000009404359) >QUIT
+01:05 00:01 SMTP-(63d600000964a167) 220 EGWRO01.Falabella.cl EG5500/SMTP Ready.
+01:05 00:01 SMTP-(63d600000964a167) Verifying SSL settings for host 200.10.167.8
+01:05 00:01 SMTP-(63d600000964a167) >EHLO aaxischina.com
+01:05 00:01 SMTP-(18240005dc873873) forwarded message to paynejia@aaxiscommerce.com using new file: 63e000000970c8f4
+01:05 00:01 SMTP-(18240005dc873873) finished d:\Program Files\Ipswitch\IMail\spool\Q18240005dc873873.SMD status=1
+01:05 00:01 SMTP-(63e000000970c8f4) processing d:\Program Files\Ipswitch\IMail\spool\Q63e000000970c8f4.FWD
+01:05 00:01 SMTP-(63e000000970c8f4) sender <atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com>
+01:05 00:01 SMTP-(63e000000970c8f4) recip is <paynejia@aaxiscommerce.com>
+01:05 00:01 SMTP-(63e000000970c8f4) [x] looking up aaxiscommerce.com in HOSTS and MX
+01:05 00:01 SMTP-(63e000000970c8f4) [x] looking up aaxiscommerce.com in HOSTS and MX
+01:05 00:01 SMTP-(63e000000970c8f4) closed d:\Program Files\Ipswitch\IMail\spool\_63e000000970c8f4.~WD - 1
+01:05 00:01 SMTP-(63e000000970c8f4) R<paynejia@aaxiscommerce.com> - 1
+01:05 00:01 SMTP-(ada40005dc8a3876) ldeliver aaxischina.com mailbackup-main (1) atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com 263925
+01:05 00:01 SMTP-(63e000000970c8f4) [x] doing direct send aaxiscommerce.com
+01:05 00:01 SMTP-(63e000000970c8f4) Trying aaxiscommerce.com (0)
+01:05 00:01 SMTP-(63e000000970c8f4) Enumerating MX records for host aaxiscommerce.com
+01:05 00:01 SMTP-(63e000000970c8f4) Trying to connect to host 74.125.23.27
+01:05 00:01 SMTP-(63e000000970c8f4) Attempting to connect to host: 74.125.23.27
+01:05 00:01 SMTP-(63e000000970c8f4) Connecting socket to SMTP service on host <74.125.23.27> using tcp protocol.
+01:05 00:01 SMTP-(63e000000970c8f4) using source IP for aaxischina.com [172.17.255.30]
+01:05 00:01 SMTP-(ada40005dc8a3876) [x] aaxischina.com ldelivery martinjiang (main) from atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com
+01:05 00:01 SMTP-(ada40005dc8a3876) ldeliver aaxischina.com martinjiang-main (1) atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com 263925
+01:05 00:01 SMTP-(ada40005dc8a3876) finished d:\Program Files\Ipswitch\IMail\spool\Qada40005dc8a3876.SMD status=1
+01:05 00:01 SMTP-(1e840005dc9a3898) ldeliver aaxischina.com mailbackup-main (1) prod-falabella-soco@falabella.cl 7187
+01:05 00:01 SMTP-(1e840005dc9a3898) finished d:\Program Files\Ipswitch\IMail\spool\Q1e840005dc9a3898.SMD status=1
+01:05 00:01 SMTP-(63e000000970c8f4) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:01 SMTP-(63d600000964a167) 250-Requested mail action okay, completed.
+01:05 00:01 SMTP-(63d600000964a167) 250 STARTTLS
+01:05 00:01 SMTP-(63d600000964a167) >STARTTLS
+01:05 00:01 SMTP-(63bd000009404359) 221 Closing connection.
+01:05 00:01 SMTP-(63bd000009404359) [44300] closing socket (0)
+01:05 00:01 SMTP-(63bd000009404359) finished d:\Program Files\Ipswitch\IMail\spool\Q63bd000009404359.GSE status=1
+01:05 00:01 SMTP-(cada0005dc8b3878) ldeliver aaxischina.com mailbackup-main (1) atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com 263936
+01:05 00:01 SMTP-(cada0005dc8b3878) [x] aaxischina.com ldelivery stevenwang (main) from atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com
+01:05 00:01 SMTP-(cada0005dc8b3878) ldeliver aaxischina.com stevenwang-main (1) atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com 263936
+01:05 00:01 SMTP-(cada0005dc8b3878) finished d:\Program Files\Ipswitch\IMail\spool\Qcada0005dc8b3878.SMD status=1
+01:05 00:01 SMTP-(b5ce0005dc863872) ldeliver aaxischina.com mailbackup-main (1) atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com 263920
+01:05 00:01 SMTP-(b5ce0005dc863872) finished d:\Program Files\Ipswitch\IMail\spool\Qb5ce0005dc863872.SMD status=1
+01:05 00:01 SMTPD(861e0005dc9b389e) [DELETE] Message Deleted by CYREN AntiSpam Rule for email with the classification Confirmed
+01:05 00:01 POP3D  (7AE3B107) logoff for mailbackup aaxischina.com R:12, D:7, P:0, RS:926870 from 172.17.255.30
+01:05 00:01 POP3D  (7AE3B107) Purge error 26, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 SMTPD(861e0005dc9b389e) Processing QUIT
+01:05 00:01 POP3D  (7AE3D95F) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 POP3D  (7AE3D95F) logoff for mailbackup aaxischina.com R:6, D:3, P:0, RS:1082575 from 172.17.255.30
+01:05 00:01 POP3D  (7AE3D95F) Purge error 26, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 POP3D  (7AE3E3EF) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 POP3D  (7AE3E3EF) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:01 POP3D  (7AE3EBFD) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 POP3D  (7AE3EBFD) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:01 POP3D  (7AE3F40C) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 POP3D  (7AE3F40C) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:01 POP3D  (7AE3FC1A) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 POP3D  (7AE3FC1A) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:01 POP3D  (7AE40429) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 POP3D  (7AE40429) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:01 POP3D  (7AE40C37) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 POP3D  (7AE40C37) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:01 POP3D  (7AE41446) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 POP3D  (7AE41446) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:01 POP3D  (7AE41C54) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 POP3D  (7AE41C54) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:01 SMTP-(63e000000970c8f4) Connect fail 74.125.23.27 [74.125.23.27]: connection timed out
+01:05 00:01 SMTP-(63e000000970c8f4) [44356] closing socket (0)
+01:05 00:01 SMTP-(63e000000970c8f4) [!] SMTP connection on port 25 failed for host 74.125.23.27
+01:05 00:01 SMTP-(63e000000970c8f4) Trying to connect via SSL to host 74.125.23.27:465
+01:05 00:01 SMTP-(63e000000970c8f4) Attempting to connect to host: 74.125.23.27:465
+01:05 00:01 SMTP-(63e000000970c8f4) Connecting socket to SMTP service on host <74.125.23.27:465> using tcp protocol.
+01:05 00:01 SMTP-(63e000000970c8f4) Alternate delivery to port 465.
+01:05 00:01 SMTP-(63e000000970c8f4) using source IP for aaxischina.com [172.17.255.30]
+01:05 00:01 POP3D  (7AE42463) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:01 POP3D  (7AE42463) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 POP3D  (7AE42C71) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE42C71) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 POP3D  (7AE43386) NTlogon success for maxwellyu aaxischina.com from 172.17.105.58
+01:05 00:02 POP3D  (7AE43386) logoff for maxwellyu aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.105.58
+01:05 00:02 POP3D  (7AE43480) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE43480) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 POP3D  (7AE43C8E) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE43C8E) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 POP3D  (7AE444BC) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE444BC) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 POP3D  (7AE44CDA) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE44CDA) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 POP3D  (7AE454F8) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE454F8) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 POP3D  (7AE45D07) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE45D07) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 POP3D  (7AE46515) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE46515) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 POP3D  (7AE46D24) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE46D24) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 SMTP-(63e000000970c8f4) Connect fail 74.125.23.27:465 [74.125.23.27]: connection timed out
+01:05 00:02 SMTP-(63e000000970c8f4) [44356] closing socket (0)
+01:05 00:02 SMTP-(63e000000970c8f4) Failed to establish SSL connection with 74.125.23.27 (connection refused)
+01:05 00:02 SMTP-(63e000000970c8f4) [!] SMTP SSL connection on port 465 failed for host 74.125.23.27
+01:05 00:02 SMTP-(63e000000970c8f4) Trying to connect to host 64.233.168.27
+01:05 00:02 SMTP-(63e000000970c8f4) Attempting to connect to host: 64.233.168.27
+01:05 00:02 SMTP-(63e000000970c8f4) Connecting socket to SMTP service on host <64.233.168.27> using tcp protocol.
+01:05 00:02 SMTP-(63e000000970c8f4) using source IP for aaxischina.com [172.17.255.30]
+01:05 00:02 POP3D  (7AE46F37) NTlogon success for lynnli aaxischina.com from 172.17.101.104
+01:05 00:02 POP3D  (7AE46F37) logoff for lynnli aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.101.104
+01:05 00:02 SMTP-(63d600000964a167) 220 Start TLS negotiation.
+01:05 00:02 SMTP-(63e000000970c8f4) 220 mx.google.com ESMTP z20si32378801oer.52 - gsmtp
+01:05 00:02 SMTP-(63e000000970c8f4) Verifying SSL settings for host 64.233.168.27
+01:05 00:02 SMTP-(63e000000970c8f4) >EHLO aaxischina.com
+01:05 00:02 SMTP-(63e000000970c8f4) 250-mx.google.com at your service, [119.6.9.179]
+01:05 00:02 SMTP-(63e000000970c8f4) 250-SIZE 35882577
+01:05 00:02 SMTP-(63e000000970c8f4) 250-8BITMIME
+01:05 00:02 SMTP-(63e000000970c8f4) 250-STARTTLS
+01:05 00:02 SMTP-(63e000000970c8f4) 250-ENHANCEDSTATUSCODES
+01:05 00:02 SMTP-(63e000000970c8f4) 250-PIPELINING
+01:05 00:02 SMTP-(63e000000970c8f4) 250-CHUNKING
+01:05 00:02 SMTP-(63e000000970c8f4) 250 SMTPUTF8
+01:05 00:02 SMTP-(63e000000970c8f4) >STARTTLS
+01:05 00:02 POP3D  (7AE47532) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE47532) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 SMTP-(63e000000970c8f4) 220 2.0.0 Ready to start TLS
+01:05 00:02 SMTP-(63e000000970c8f4) STARTTLS successfully negotiated for host 64.233.168.27
+01:05 00:02 SMTP-(63e000000970c8f4) >EHLO aaxischina.com
+01:05 00:02 SMTP-(63e000000970c8f4) 250-mx.google.com at your service, [119.6.9.179]
+01:05 00:02 SMTP-(63e000000970c8f4) 250-SIZE 35882577
+01:05 00:02 SMTP-(63e000000970c8f4) 250-8BITMIME
+01:05 00:02 SMTP-(63e000000970c8f4) 250-ENHANCEDSTATUSCODES
+01:05 00:02 SMTP-(63e000000970c8f4) 250-PIPELINING
+01:05 00:02 SMTP-(63e000000970c8f4) 250-CHUNKING
+01:05 00:02 SMTP-(63e000000970c8f4) 250 SMTPUTF8
+01:05 00:02 SMTP-(63e000000970c8f4) >MAIL FROM:<atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com> SIZE=264044
+01:05 00:02 SMTP-(63e000000970c8f4) 250 2.1.0 OK z20si32378801oer.52 - gsmtp
+01:05 00:02 SMTP-(63e000000970c8f4) >RCPT TO:<paynejia@aaxiscommerce.com>
+01:05 00:02 POP3D  (7AE47D50) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE47D50) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 SMTP-(63e000000970c8f4) 250 2.1.5 OK z20si32378801oer.52 - gsmtp
+01:05 00:02 SMTP-(63e000000970c8f4) >DATA
+01:05 00:02 SMTP-(63e000000970c8f4) 354  Go ahead z20si32378801oer.52 - gsmtp
+01:05 00:02 SMTP-(63d600000964a167) STARTTLS successfully negotiated for host 200.10.167.8
+01:05 00:02 SMTP-(63d600000964a167) >EHLO aaxischina.com
+01:05 00:02 SMTP-(63d600000964a167) 250 Requested mail action okay, completed.
+01:05 00:02 SMTP-(63d600000964a167) >MAIL FROM:<>
+01:05 00:02 POP3D  (7AE4856E) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4856E) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 SMTP-(63d600000964a167) 250 Requested mail action okay, completed.
+01:05 00:02 SMTP-(63d600000964a167) >RCPT TO:<prod-falabella-soco@falabella.cl>
+01:05 00:02 SMTP-(63d600000964a167) 250 Requested mail action okay, completed.
+01:05 00:02 SMTP-(63d600000964a167) >DATA
+01:05 00:02 SMTP-(63d600000964a167) 354 Enter mail, end with "." on a line by itself.
+01:05 00:02 SMTP-(63d600000964a167) >EOM
+01:05 00:02 POP3D  (7AE48D7D) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE48D7D) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 SMTP-(63d600000964a167) 250 Requested mail action okay, completed.
+01:05 00:02 SMTP-(63d600000964a167) rdeliver falabella.cl prod-falabella-soco@falabella.cl (1) <> 2544
+01:05 00:02 SMTP-(63d600000964a167) >QUIT
+01:05 00:02 SMTP-(63e000000970c8f4) >EOM
+01:05 00:02 SMTP-(63e000000970c8f4) 250 2.0.0 OK 1420387346 z20si32378801oer.52 - gsmtp
+01:05 00:02 SMTP-(63e000000970c8f4) rdeliver aaxiscommerce.com paynejia@aaxiscommerce.com (1) <atg-production-support+bncBAABBCGHUWSQKGQEQDRNMHY@aaxiscommerce.com> 264044
+01:05 00:02 SMTP-(63e000000970c8f4) >QUIT
+01:05 00:02 SMTP-(63d600000964a167) 221 Closing connection.
+01:05 00:02 SMTP-(63d600000964a167) [44268] closing socket (0)
+01:05 00:02 SMTP-(63d600000964a167) finished d:\Program Files\Ipswitch\IMail\spool\Q63d600000964a167.GSE status=1
+01:05 00:02 SMTP-(63e000000970c8f4) 221 2.0.0 closing connection z20si32378801oer.52 - gsmtp
+01:05 00:02 SMTP-(63e000000970c8f4) [44356] closing socket (0)
+01:05 00:02 SMTP-(63e000000970c8f4) finished d:\Program Files\Ipswitch\IMail\spool\Q63e000000970c8f4.FWD status=1
+01:05 00:02 POP3D  (7AE4959B) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4959B) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 POP3D  (7AE49DA9) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE49DA9) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384156
+01:05 00:02 SMTPD(b23a0005dc9c389f) [172.17.255.30:25] connect 200.10.170.8 port 12157
+01:05 00:02 SMTPD(b23a0005dc9c389f) CTIPD Daemon Return OK
+01:05 00:02 SMTPD(b23a0005dc9c389f) [200.10.170.8] EHLO mail.falabella.cl
+01:05 00:02 SMTPD(b23a0005dc9c389f) [200.10.170.8] MAIL FROM:<>
+01:05 00:02 POP3D  (7AE4A5B8) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4A5B8) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 SMTPD(b23a0005dc9c389f) [200.10.170.8] RCPT TO:<nemozhao@aaxischina.com>
+01:05 00:02 SMTP-(b23a0005dc9c389f) processing d:\Program Files\Ipswitch\IMail\spool\Qb23a0005dc9c389f.SMD
+01:05 00:02 SMTPD(b23a0005dc9c389f) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:02 SMTP-(b23a0005dc9c389f) recip is <mailbackup@aaxischina.com>
+01:05 00:02 SMTPD(b23a0005dc9c389f) performing antispam checks
+01:05 00:02 SMTP-(b23a0005dc9c389f) local user mailbackup@aaxischina.com
+01:05 00:02 SMTPD(b23a0005dc9c389f) [200.10.170.8] d:\Program Files\Ipswitch\IMail\spool\Db23a0005dc9c389f.SMD 3465
+01:05 00:02 SMTP-(b23a0005dc9c389f) sender <>
+01:05 00:02 SMTPD(c5a40005dc9c38a0) Processing QUIT
+01:05 00:02 SMTP-(b23a0005dc9c389f) recip is <nemozhao@aaxischina.com>
+01:05 00:02 SMTP-(b23a0005dc9c389f) local user nemozhao@aaxischina.com
+01:05 00:02 SMTP-(b23a0005dc9c389f) closed d:\Program Files\Ipswitch\IMail\spool\_b23a0005dc9c389f.~MD - 1
+01:05 00:02 SMTP-(b23a0005dc9c389f) [x] aaxischina.com ldelivery mailbackup (main) from <>
+01:05 00:02 SMTP-(b23a0005dc9c389f) ldeliver aaxischina.com mailbackup-main (1)  3582
+01:05 00:02 SMTP-(b23a0005dc9c389f) [x] aaxischina.com ldelivery nemozhao (main) from 
+01:05 00:02 SMTP-(b23a0005dc9c389f) ERR aaxischina.com nemozhao mailbox size too large (2147483648-3887670309)
+01:05 00:02 SMTP-(b23a0005dc9c389f) R<nemozhao@aaxischina.com> - 9
+01:05 00:02 SMTP-(b23a0005dc9c389f) finished d:\Program Files\Ipswitch\IMail\spool\Qb23a0005dc9c389f.SMD status=2
+01:05 00:02 SMTP-(b23a0005dc9c389f) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:02 POP3D  (7AE4ADC6) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4ADC6) logoff for mailbackup aaxischina.com R:2, D:1, P:0, RS:8811 from 172.17.255.30
+01:05 00:02 POP3D  (7AE4ADC6) Purge error 26, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4B633) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4B633) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 POP3D  (7AE4BE51) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4BE51) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 POP3D  (7AE4C65F) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4C65F) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 POP3D  (7AE4CE6E) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4CE6E) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384157
+01:05 00:02 SMTPD(7e860005dc9d38a1) [172.17.255.30:25] connect 200.10.170.8 port 12168
+01:05 00:02 SMTPD(7e860005dc9d38a1) CTIPD Daemon Return OK
+01:05 00:02 SMTPD(7e860005dc9d38a1) Connection Check: IPReputation. Completed in 0.0156246 seconds. Total elapsed for this session 0.0156246 seconds.
+01:05 00:02 POP3D  (7AE4D68C) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4D68C) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 SMTPD(7e860005dc9d38a1) [200.10.170.8] EHLO mail.falabella.cl
+01:05 00:02 SMTPD(7e860005dc9d38a1) [200.10.170.8] MAIL FROM:<>
+01:05 00:02 SMTPD(7e860005dc9d38a1) [200.10.170.8] RCPT TO:<nemozhao@aaxischina.com>
+01:05 00:02 POP3D  (7AE4D8CE) NTlogon success for iyang aaxischina.com from 172.17.3.5
+01:05 00:02 POP3D  (7AE4D8CE) logoff for iyang aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.3.5
+01:05 00:02 POP3D  (7AE4DE9A) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4DE9A) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 SMTP-(7e860005dc9d38a1) processing d:\Program Files\Ipswitch\IMail\spool\Q7e860005dc9d38a1.SMD
+01:05 00:02 SMTPD(7e860005dc9d38a1) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:02 SMTP-(7e860005dc9d38a1) recip is <mailbackup@aaxischina.com>
+01:05 00:02 SMTPD(7e860005dc9d38a1) performing antispam checks
+01:05 00:02 SMTP-(7e860005dc9d38a1) local user mailbackup@aaxischina.com
+01:05 00:02 SMTPD(7e860005dc9d38a1) [200.10.170.8] d:\Program Files\Ipswitch\IMail\spool\D7e860005dc9d38a1.SMD 3791
+01:05 00:02 SMTP-(7e860005dc9d38a1) sender <>
+01:05 00:02 SMTPD(2df80005dc9d38a2) Processing QUIT
+01:05 00:02 SMTP-(7e860005dc9d38a1) recip is <nemozhao@aaxischina.com>
+01:05 00:02 SMTP-(7e860005dc9d38a1) local user nemozhao@aaxischina.com
+01:05 00:02 SMTP-(7e860005dc9d38a1) closed d:\Program Files\Ipswitch\IMail\spool\_7e860005dc9d38a1.~MD - 1
+01:05 00:02 SMTP-(7e860005dc9d38a1) [x] aaxischina.com ldelivery mailbackup (main) from <>
+01:05 00:02 SMTP-(7e860005dc9d38a1) ldeliver aaxischina.com mailbackup-main (1)  3908
+01:05 00:02 SMTP-(7e860005dc9d38a1) [x] aaxischina.com ldelivery nemozhao (main) from 
+01:05 00:02 SMTP-(7e860005dc9d38a1) ERR aaxischina.com nemozhao mailbox size too large (2147483648-3887670309)
+01:05 00:02 SMTP-(7e860005dc9d38a1) R<nemozhao@aaxischina.com> - 9
+01:05 00:02 SMTP-(7e860005dc9d38a1) finished d:\Program Files\Ipswitch\IMail\spool\Q7e860005dc9d38a1.SMD status=2
+01:05 00:02 SMTP-(7e860005dc9d38a1) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:02 POP3D  (7AE4E6B9) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4E6B9) logoff for mailbackup aaxischina.com R:2, D:1, P:0, RS:9463 from 172.17.255.30
+01:05 00:02 POP3D  (7AE4E6B9) Purge error 26, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384158
+01:05 00:02 SMTPD(282a0005dc9e38a3) [172.17.255.30:25] connect 209.85.160.172 port 44024
+01:05 00:02 SMTPD(282a0005dc9e38a3) CTIPD Daemon Return OK
+01:05 00:02 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384159
+01:05 00:02 SMTPD(ecd60005dc9f38a4) [172.17.255.30:25] connect 209.85.160.169 port 44888
+01:05 00:02 SMTPD(ecd60005dc9f38a4) CTIPD Daemon Return OK
+01:05 00:02 POP3D  (7AE4EF25) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4EF25) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384160
+01:05 00:02 SMTPD(12360005dca038a5) [172.17.255.30:25] connect 200.10.170.8 port 12169
+01:05 00:02 SMTPD(12360005dca038a5) CTIPD Daemon Return OK
+01:05 00:02 SMTPD(12360005dca038a5) [200.10.170.8] EHLO mail.falabella.cl
+01:05 00:02 SMTPD(12360005dca038a5) [200.10.170.8] MAIL FROM:<prod-falabella-soco@falabella.cl>
+01:05 00:02 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384161
+01:05 00:02 SMTPD(5b540005dca138a6) [172.17.255.30:25] connect 209.85.160.180 port 39249
+01:05 00:02 SMTPD(5b540005dca138a6) CTIPD Daemon Return OK
+01:05 00:02 SMTPD(282a0005dc9e38a3) [209.85.160.172] EHLO mail-yk0-f172.google.com
+01:05 00:02 SMTPD(ecd60005dc9f38a4) [209.85.160.169] EHLO mail-yk0-f169.google.com
+01:05 00:02 SMTPD(12360005dca038a5) [200.10.170.8] RCPT TO:<nemozhao@aaxischina.com>
+01:05 00:02 SMTPD(5b540005dca138a6) [209.85.160.180] EHLO mail-yk0-f180.google.com
+01:05 00:02 SMTPD(282a0005dc9e38a3) [209.85.160.172] MAIL FROM:<prod-falabella-soco@falabella.cl> SIZE=4490
+01:05 00:02 SMTPD(ecd60005dc9f38a4) [209.85.160.169] MAIL FROM:<prod-falabella-soco@falabella.cl> SIZE=4489
+01:05 00:02 SMTPD(5b540005dca138a6) [209.85.160.180] MAIL FROM:<prod-falabella-soco@falabella.cl> SIZE=4488
+01:05 00:02 SMTPD(282a0005dc9e38a3) [209.85.160.172] RCPT TO:<wdiao@aaxischina.com>
+01:05 00:02 SMTPD(282a0005dc9e38a3) [209.85.160.172] ERR aaxischina.com invalid user <wdiao@aaxischina.com>
+01:05 00:02 SMTPD(5b540005dca138a6) [209.85.160.180] RCPT TO:<azhou@aaxischina.com>
+01:05 00:02 SMTPD(282a0005dc9e38a3) Processing QUIT
+01:05 00:02 SMTPD(12360005dca038a5) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:02 SMTPD(12360005dca038a5) performing antispam checks
+01:05 00:02 POP3D  (7AE4F753) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4F753) logoff for mailbackup aaxischina.com R:2, D:1, P:0, RS:8285 from 172.17.255.30
+01:05 00:02 POP3D  (7AE4F753) Purge error 26, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 SMTP-(12360005dca038a5) processing d:\Program Files\Ipswitch\IMail\spool\Q12360005dca038a5.SMD
+01:05 00:02 SMTPD(12360005dca038a5) [200.10.170.8] d:\Program Files\Ipswitch\IMail\spool\D12360005dca038a5.SMD 3369
+01:05 00:02 SMTP-(12360005dca038a5) recip is <mailbackup@aaxischina.com>
+01:05 00:02 SMTPD(3d360005dca038a7) Processing QUIT
+01:05 00:02 SMTP-(12360005dca038a5) local user mailbackup@aaxischina.com
+01:05 00:02 SMTPD(ecd60005dc9f38a4) [209.85.160.169] RCPT TO:<dzhou@aaxischina.com>
+01:05 00:02 SMTP-(12360005dca038a5) sender <prod-falabella-soco@falabella.cl>
+01:05 00:02 SMTPD(ecd60005dc9f38a4) [209.85.160.169] ERR aaxischina.com invalid user <dzhou@aaxischina.com>
+01:05 00:02 SMTP-(12360005dca038a5) recip is <nemozhao@aaxischina.com>
+01:05 00:02 SMTPD(ecd60005dc9f38a4) Processing QUIT
+01:05 00:02 SMTP-(12360005dca038a5) local user nemozhao@aaxischina.com
+01:05 00:02 SMTP-(12360005dca038a5) closed d:\Program Files\Ipswitch\IMail\spool\_12360005dca038a5.~MD - 1
+01:05 00:02 SMTP-(12360005dca038a5) [x] aaxischina.com ldelivery mailbackup (main) from <prod-falabella-soco@falabella.cl>
+01:05 00:02 SMTP-(12360005dca038a5) ldeliver aaxischina.com mailbackup-main (1) prod-falabella-soco@falabella.cl 3369
+01:05 00:02 SMTP-(12360005dca038a5) [x] aaxischina.com ldelivery nemozhao (main) from prod-falabella-soco@falabella.cl
+01:05 00:02 SMTP-(12360005dca038a5) ERR aaxischina.com nemozhao mailbox size too large (2147483648-3887670309)
+01:05 00:02 SMTP-(12360005dca038a5) R<nemozhao@aaxischina.com> - 9
+01:05 00:02 SMTP-(12360005dca038a5) Creating message from Postmaster
+01:05 00:02 SMTP-(12360005dca038a5) Delivery process now using new file: 642d00000930f54f
+01:05 00:02 SMTP-(12360005dca038a5) finished d:\Program Files\Ipswitch\IMail\spool\Q12360005dca038a5.SMD status=2
+01:05 00:02 SMTP-(642d00000930f54f) processing d:\Program Files\Ipswitch\IMail\spool\Q642d00000930f54f.GSE
+01:05 00:02 SMTP-(642d00000930f54f) sender <>
+01:05 00:02 SMTP-(642d00000930f54f) recip is <prod-falabella-soco@falabella.cl>
+01:05 00:02 SMTP-(642d00000930f54f) [x] looking up falabella.cl in HOSTS and MX
+01:05 00:02 SMTP-(642d00000930f54f) [x] looking up falabella.cl in HOSTS and MX
+01:05 00:02 SMTP-(642d00000930f54f) closed d:\Program Files\Ipswitch\IMail\spool\_642d00000930f54f.~SE - 1
+01:05 00:02 SMTP-(642d00000930f54f) R<prod-falabella-soco@falabella.cl> - 1
+01:05 00:02 SMTP-(642d00000930f54f) [x] doing direct send falabella.cl
+01:05 00:02 SMTP-(642d00000930f54f) Trying falabella.cl (0)
+01:05 00:02 SMTP-(642d00000930f54f) Enumerating MX records for host falabella.cl
+01:05 00:02 SMTP-(642d00000930f54f) Trying to connect to host 200.10.167.8
+01:05 00:02 SMTP-(642d00000930f54f) Attempting to connect to host: 200.10.167.8
+01:05 00:02 SMTP-(642d00000930f54f) Connecting socket to SMTP service on host <200.10.167.8> using tcp protocol.
+01:05 00:02 SMTP-(642d00000930f54f) using source IP for aaxischina.com [172.17.255.30]
+01:05 00:02 SMTP-(12360005dca038a5) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:02 SMTP-(642d00000930f54f) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:02 POP3D  (7AE4FFAF) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE4FFAF) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:02 SMTPD(5b540005dca138a6) Taking CYREN anti-spam action: NONE for email with the classification Unknown
+01:05 00:02 SMTP-(5b540005dca138a6) processing d:\Program Files\Ipswitch\IMail\spool\Q5b540005dca138a6.SMD
+01:05 00:02 SMTPD(5b540005dca138a6) performing antispam checks
+01:05 00:02 SMTP-(5b540005dca138a6) recip is <mailbackup@aaxischina.com>
+01:05 00:02 SMTPD(5b540005dca138a6) [209.85.160.180] d:\Program Files\Ipswitch\IMail\spool\D5b540005dca138a6.SMD 4648
+01:05 00:02 SMTP-(5b540005dca138a6) local user mailbackup@aaxischina.com
+01:05 00:02 SMTP-(5b540005dca138a6) sender <prod-falabella-soco@falabella.cl>
+01:05 00:02 SMTP-(5b540005dca138a6) recip is <azhou@aaxischina.com>
+01:05 00:02 SMTP-(5b540005dca138a6) local user azhou@aaxischina.com
+01:05 00:02 SMTP-(5b540005dca138a6) closed d:\Program Files\Ipswitch\IMail\spool\_5b540005dca138a6.~MD - 1
+01:05 00:02 SMTP-(5b540005dca138a6) [x] aaxischina.com ldelivery azhou (main) from <prod-falabella-soco@falabella.cl>
+01:05 00:02 SMTP-(5b540005dca138a6) ldeliver aaxischina.com azhou-main (1) prod-falabella-soco@falabella.cl 4648
+01:05 00:02 SMTP-(5b540005dca138a6) [x] aaxischina.com ldelivery mailbackup (main) from prod-falabella-soco@falabella.cl
+01:05 00:02 SMTP-(5b540005dca138a6) ldeliver aaxischina.com mailbackup-main (1) prod-falabella-soco@falabella.cl 4648
+01:05 00:02 SMTP-(5b540005dca138a6) finished d:\Program Files\Ipswitch\IMail\spool\Q5b540005dca138a6.SMD status=1
+01:05 00:02 SMTP-(5b540005dca138a6) [Att-Blk] Got Attachment Blocking Host Info for aaxischina.com
+01:05 00:02 POP3D  (7AE50695) NTlogon success for angelicazhang aaxischina.com from 172.17.101.143
+01:05 00:02 SMTPD(870e0005dca138a8) Processing QUIT
+01:05 00:02 POP3D  (7AE507BE) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE507BE) logoff for mailbackup aaxischina.com R:2, D:1, P:0, RS:12122 from 172.17.255.30
+01:05 00:02 POP3D  (7AE507BE) Purge error 26, check locks, multiple accesses for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE50695) logoff for angelicazhang aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.101.143
+01:05 00:02 SMTP-(642d00000930f54f) 220 EGWRO01.Falabella.cl EG5500/SMTP Ready.
+01:05 00:02 SMTP-(642d00000930f54f) Verifying SSL settings for host 200.10.167.8
+01:05 00:02 SMTP-(642d00000930f54f) >EHLO aaxischina.com
+01:05 00:02 SMTP-(642d00000930f54f) 250-Requested mail action okay, completed.
+01:05 00:02 SMTP-(642d00000930f54f) 250 STARTTLS
+01:05 00:02 SMTP-(642d00000930f54f) >STARTTLS
+01:05 00:02 POP3D  (7AE50FFB) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:02 POP3D  (7AE50FFB) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:03 POP3D  (7AE5180A) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:03 POP3D  (7AE5180A) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:03 POP3D  (7AE51DE6) NTlogon success for maxwellyu aaxischina.com from 172.17.105.58
+01:05 00:03 POP3D  (7AE51DE6) logoff for maxwellyu aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.105.58
+01:05 00:03 POP3D  (7AE52018) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:03 POP3D  (7AE52018) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:03 POP3D  (7AE52827) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:03 POP3D  (7AE52827) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:03 SMTP-(642d00000930f54f) 220 Start TLS negotiation.
+01:05 00:03 POP3D  (7AE53054) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:03 POP3D  (7AE53054) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:03 SMTP-(642d00000930f54f) STARTTLS successfully negotiated for host 200.10.167.8
+01:05 00:03 SMTP-(642d00000930f54f) >EHLO aaxischina.com
+01:05 00:03 SMTP-(642d00000930f54f) 250 Requested mail action okay, completed.
+01:05 00:03 SMTP-(642d00000930f54f) >MAIL FROM:<>
+01:05 00:03 SMTP-(642d00000930f54f) 250 Requested mail action okay, completed.
+01:05 00:03 SMTP-(642d00000930f54f) >RCPT TO:<prod-falabella-soco@falabella.cl>
+01:05 00:03 POP3D  (7AE53863) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:03 POP3D  (7AE53863) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:03 SMTP-(642d00000930f54f) 250 Requested mail action okay, completed.
+01:05 00:03 SMTP-(642d00000930f54f) >DATA
+01:05 00:03 SMTP-(642d00000930f54f) 354 Enter mail, end with "." on a line by itself.
+01:05 00:03 SMTP-(642d00000930f54f) >EOM
+01:05 00:03 POP3D  (7AE54071) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:03 POP3D  (7AE54071) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:03 POP3D  (7AE54880) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:03 POP3D  (7AE54880) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:03 SMTP-(642d00000930f54f) 250 Requested mail action okay, completed.
+01:05 00:03 SMTP-(642d00000930f54f) rdeliver falabella.cl prod-falabella-soco@falabella.cl (1) <> 2538
+01:05 00:03 SMTP-(642d00000930f54f) >QUIT
+01:05 00:03 POP3D  (7AE5508E) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:03 POP3D  (7AE5508E) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:03 POP3D  (7AE5589D) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:03 POP3D  (7AE5589D) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:03 SMTP-(642d00000930f54f) 221 Closing connection.
+01:05 00:03 SMTP-(642d00000930f54f) [44428] closing socket (0)
+01:05 00:03 SMTP-(642d00000930f54f) finished d:\Program Files\Ipswitch\IMail\spool\Q642d00000930f54f.GSE status=1
+01:05 00:03 POP3D  (7AE560AB) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:03 POP3D  (7AE560AB) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:03 POP3D  (7AE568BA) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:03 POP3D  (7AE568BA) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:03 SMTPD(0000000000000000) SMTP Session Started: ContextID = 384162
+01:05 00:03 SMTPD(6a810005dca238a9) [172.17.255.30:25] connect 208.94.21.245 port 58958
+01:05 00:03 SMTPD(6a810005dca238a9) [208.94.21.245] EHLO gsiroxy.outbound.ed10.com
+01:05 00:03 SMTPD(6a810005dca238a9) CTIPD Daemon Return OK
+01:05 00:03 SMTPD(6a810005dca238a9) Connection Check: IPReputation. Completed in 0.281259 seconds. Total elapsed for this session 0.2968845 seconds.
+01:05 00:03 SMTPD(6a810005dca238a9) [208.94.21.245] MAIL FROM:<JD0RN6-Q1JRE-75AGQ-FXY6MH-ZRK73-H-M2-20150104-f73576e82e07635154@gsiroxy.bounce.ed10.net>
+01:05 00:03 SMTPD(6a810005dca238a9) [208.94.21.245] RCPT TO:<wwei@aaxischina.com>
+01:05 00:03 POP3D  (7AE570C8) NTlogon success for mailbackup aaxischina.com from 172.17.255.30
+01:05 00:03 POP3D  (7AE570C8) logoff for mailbackup aaxischina.com R:0, D:0, P:0, RS:0 from 172.17.255.30
+01:05 00:03 SMTP-(6a810005dca238a9) processing d:\Program Files\Ipswitch\IMail\spool\Q6a810005dca238a9.SMD
