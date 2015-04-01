@@ -1,0 +1,1391 @@
+20150130 00:09:09 SMTP-(680100035f7d47e6) processing d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD
+20150130 00:09:09 SMTP-(680100035f7d47e6) sender <daisyyin@aaxischina.com>
+20150130 00:09:09 SMTP-(680100035f7d47e6) Authed User daisyyin@aaxischina.com
+20150130 00:09:09 SMTP-(680100035f7d47e6) recip is <Jennifer.Bridgens@Ferguson.com>
+20150130 00:09:09 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 00:09:09 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 00:09:09 SMTP-(680100035f7d47e6) recip is <Robbie.Foglia@Ferguson.com>
+20150130 00:09:09 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 00:09:09 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 00:09:09 SMTP-(680100035f7d47e6) closed d:\Program Files\Ipswitch\IMail\spool\_680100035f7d47e6.~MD - 1
+20150130 00:09:09 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 00:09:09 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 00:09:09 SMTP-(680100035f7d47e6) [x] doing direct send Ferguson.com
+20150130 00:09:09 SMTP-(680100035f7d47e6) Trying Ferguson.com (0)
+20150130 00:09:09 SMTP-(680100035f7d47e6) Enumerating MX records for host Ferguson.com
+20150130 00:09:09 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.143
+20150130 00:09:09 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143
+20150130 00:09:09 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143> using tcp protocol.
+20150130 00:09:09 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:09:11 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:09:11 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.143
+20150130 00:09:11 SMTP-(680100035f7d47e6) [!] Host 198.90.15.143 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:09:11 SMTP-(680100035f7d47e6) [4392] closing socket (0)
+20150130 00:09:11 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.143:465
+20150130 00:09:11 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143:465
+20150130 00:09:11 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143:465> using tcp protocol.
+20150130 00:09:11 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 00:09:11 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:09:32 SMTP-(680100035f7d47e6) Connect fail 198.90.15.143:465 [198.90.15.143]: connection timed out
+20150130 00:09:32 SMTP-(680100035f7d47e6) [4464] closing socket (0)
+20150130 00:09:32 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.143 (connection refused)
+20150130 00:09:32 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.143
+20150130 00:09:32 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.27
+20150130 00:09:32 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27
+20150130 00:09:32 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27> using tcp protocol.
+20150130 00:09:32 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:09:33 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:09:33 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.27
+20150130 00:09:33 SMTP-(680100035f7d47e6) [!] Host 67.208.158.27 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:09:33 SMTP-(680100035f7d47e6) [4464] closing socket (0)
+20150130 00:09:33 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.27:465
+20150130 00:09:33 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27:465
+20150130 00:09:33 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27:465> using tcp protocol.
+20150130 00:09:33 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 00:09:33 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:09:54 SMTP-(680100035f7d47e6) Connect fail 67.208.158.27:465 [67.208.158.27]: connection timed out
+20150130 00:09:54 SMTP-(680100035f7d47e6) [4464] closing socket (0)
+20150130 00:09:54 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.27 (connection refused)
+20150130 00:09:54 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.27
+20150130 00:09:54 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.175
+20150130 00:09:54 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175
+20150130 00:09:54 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175> using tcp protocol.
+20150130 00:09:54 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:09:55 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:09:55 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.175
+20150130 00:09:55 SMTP-(680100035f7d47e6) [!] Host 198.90.15.175 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:09:55 SMTP-(680100035f7d47e6) [4464] closing socket (0)
+20150130 00:09:55 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.175:465
+20150130 00:09:55 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175:465
+20150130 00:09:55 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175:465> using tcp protocol.
+20150130 00:09:55 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 00:09:55 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:10:16 SMTP-(680100035f7d47e6) Connect fail 198.90.15.175:465 [198.90.15.175]: connection timed out
+20150130 00:10:16 SMTP-(680100035f7d47e6) [4464] closing socket (0)
+20150130 00:10:16 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.175 (connection refused)
+20150130 00:10:16 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.175
+20150130 00:10:16 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.40
+20150130 00:10:16 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40
+20150130 00:10:16 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40> using tcp protocol.
+20150130 00:10:16 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:10:18 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:10:18 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.40
+20150130 00:10:18 SMTP-(680100035f7d47e6) [!] Host 67.208.158.40 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:10:18 SMTP-(680100035f7d47e6) [4464] closing socket (0)
+20150130 00:10:18 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.40:465
+20150130 00:10:18 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40:465
+20150130 00:10:18 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40:465> using tcp protocol.
+20150130 00:10:18 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 00:10:18 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:10:39 SMTP-(680100035f7d47e6) Connect fail 67.208.158.40:465 [67.208.158.40]: connection timed out
+20150130 00:10:39 SMTP-(680100035f7d47e6) [4464] closing socket (0)
+20150130 00:10:39 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.40 (connection refused)
+20150130 00:10:39 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.40
+20150130 00:10:39 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.173
+20150130 00:10:39 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173
+20150130 00:10:39 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173> using tcp protocol.
+20150130 00:10:39 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:10:40 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:10:40 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.173
+20150130 00:10:40 SMTP-(680100035f7d47e6) [!] Host 198.90.15.173 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:10:40 SMTP-(680100035f7d47e6) [4464] closing socket (0)
+20150130 00:10:40 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.173:465
+20150130 00:10:40 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173:465
+20150130 00:10:40 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173:465> using tcp protocol.
+20150130 00:10:40 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 00:10:40 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:11:01 SMTP-(680100035f7d47e6) Connect fail 198.90.15.173:465 [198.90.15.173]: connection timed out
+20150130 00:11:01 SMTP-(680100035f7d47e6) [4464] closing socket (0)
+20150130 00:11:01 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.173 (connection refused)
+20150130 00:11:01 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.173
+20150130 00:11:01 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.51
+20150130 00:11:01 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51
+20150130 00:11:01 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51> using tcp protocol.
+20150130 00:11:01 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:11:02 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:11:02 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.51
+20150130 00:11:02 SMTP-(680100035f7d47e6) [!] Host 67.208.158.51 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:11:02 SMTP-(680100035f7d47e6) [4464] closing socket (0)
+20150130 00:11:02 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.51:465
+20150130 00:11:02 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51:465
+20150130 00:11:02 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51:465> using tcp protocol.
+20150130 00:11:02 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 00:11:02 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:11:23 SMTP-(680100035f7d47e6) Connect fail 67.208.158.51:465 [67.208.158.51]: connection timed out
+20150130 00:11:23 SMTP-(680100035f7d47e6) [4464] closing socket (0)
+20150130 00:11:23 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.51 (connection refused)
+20150130 00:11:23 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.51
+20150130 00:11:23 SMTP-(680100035f7d47e6) [!] Delivery failed for host Ferguson.com
+20150130 00:11:23 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 00:11:23 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 00:11:23 SMTP-(680100035f7d47e6) [x] doing direct send Ferguson.com
+20150130 00:11:23 SMTP-(680100035f7d47e6) Trying Ferguson.com (0)
+20150130 00:11:23 SMTP-(680100035f7d47e6) Enumerating MX records for host Ferguson.com
+20150130 00:11:23 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.143
+20150130 00:11:23 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143
+20150130 00:11:23 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143> using tcp protocol.
+20150130 00:11:23 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:11:24 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:11:24 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.143
+20150130 00:11:24 SMTP-(680100035f7d47e6) [!] Host 198.90.15.143 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:11:24 SMTP-(680100035f7d47e6) [2940] closing socket (0)
+20150130 00:11:24 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.143:465
+20150130 00:11:24 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143:465
+20150130 00:11:24 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143:465> using tcp protocol.
+20150130 00:11:24 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 00:11:24 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:11:45 SMTP-(680100035f7d47e6) Connect fail 198.90.15.143:465 [198.90.15.143]: connection timed out
+20150130 00:11:45 SMTP-(680100035f7d47e6) [2940] closing socket (0)
+20150130 00:11:45 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.143 (connection refused)
+20150130 00:11:45 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.143
+20150130 00:11:45 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.27
+20150130 00:11:45 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27
+20150130 00:11:45 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27> using tcp protocol.
+20150130 00:11:45 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:11:46 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:11:46 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.27
+20150130 00:11:46 SMTP-(680100035f7d47e6) [!] Host 67.208.158.27 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:11:46 SMTP-(680100035f7d47e6) [2940] closing socket (0)
+20150130 00:11:46 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.27:465
+20150130 00:11:46 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27:465
+20150130 00:11:46 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27:465> using tcp protocol.
+20150130 00:11:46 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 00:11:46 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:12:06 SMTP-(680100035f7d47e6) Connect fail 67.208.158.27:465 [67.208.158.27]: connection timed out
+20150130 00:12:06 SMTP-(680100035f7d47e6) [2940] closing socket (0)
+20150130 00:12:06 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.27 (connection refused)
+20150130 00:12:06 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.27
+20150130 00:12:06 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.175
+20150130 00:12:06 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175
+20150130 00:12:06 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175> using tcp protocol.
+20150130 00:12:06 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:12:07 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:12:07 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.175
+20150130 00:12:07 SMTP-(680100035f7d47e6) [!] Host 198.90.15.175 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:12:07 SMTP-(680100035f7d47e6) [2940] closing socket (0)
+20150130 00:12:07 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.175:465
+20150130 00:12:07 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175:465
+20150130 00:12:07 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175:465> using tcp protocol.
+20150130 00:12:07 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 00:12:07 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:12:28 SMTP-(680100035f7d47e6) Connect fail 198.90.15.175:465 [198.90.15.175]: connection timed out
+20150130 00:12:28 SMTP-(680100035f7d47e6) [2940] closing socket (0)
+20150130 00:12:28 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.175 (connection refused)
+20150130 00:12:28 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.175
+20150130 00:12:28 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.40
+20150130 00:12:28 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40
+20150130 00:12:28 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40> using tcp protocol.
+20150130 00:12:28 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:12:29 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:12:29 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.40
+20150130 00:12:29 SMTP-(680100035f7d47e6) [!] Host 67.208.158.40 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:12:29 SMTP-(680100035f7d47e6) [2940] closing socket (0)
+20150130 00:12:29 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.40:465
+20150130 00:12:29 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40:465
+20150130 00:12:29 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40:465> using tcp protocol.
+20150130 00:12:29 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 00:12:29 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:12:50 SMTP-(680100035f7d47e6) Connect fail 67.208.158.40:465 [67.208.158.40]: connection timed out
+20150130 00:12:50 SMTP-(680100035f7d47e6) [2940] closing socket (0)
+20150130 00:12:50 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.40 (connection refused)
+20150130 00:12:50 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.40
+20150130 00:12:50 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.173
+20150130 00:12:50 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173
+20150130 00:12:50 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173> using tcp protocol.
+20150130 00:12:50 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:12:50 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:12:50 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.173
+20150130 00:12:50 SMTP-(680100035f7d47e6) [!] Host 198.90.15.173 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:12:50 SMTP-(680100035f7d47e6) [2940] closing socket (0)
+20150130 00:12:50 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.173:465
+20150130 00:12:50 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173:465
+20150130 00:12:50 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173:465> using tcp protocol.
+20150130 00:12:50 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 00:12:50 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:13:11 SMTP-(680100035f7d47e6) Connect fail 198.90.15.173:465 [198.90.15.173]: connection timed out
+20150130 00:13:11 SMTP-(680100035f7d47e6) [2940] closing socket (0)
+20150130 00:13:11 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.173 (connection refused)
+20150130 00:13:11 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.173
+20150130 00:13:11 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.51
+20150130 00:13:11 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51
+20150130 00:13:11 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51> using tcp protocol.
+20150130 00:13:11 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:13:12 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:13:12 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.51
+20150130 00:13:12 SMTP-(680100035f7d47e6) [!] Host 67.208.158.51 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 00:13:12 SMTP-(680100035f7d47e6) [2940] closing socket (0)
+20150130 00:13:12 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.51:465
+20150130 00:13:12 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51:465
+20150130 00:13:12 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51:465> using tcp protocol.
+20150130 00:13:12 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 00:13:12 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 00:13:33 SMTP-(680100035f7d47e6) Connect fail 67.208.158.51:465 [67.208.158.51]: connection timed out
+20150130 00:13:33 SMTP-(680100035f7d47e6) [2940] closing socket (0)
+20150130 00:13:33 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.51 (connection refused)
+20150130 00:13:33 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.51
+20150130 00:13:33 SMTP-(680100035f7d47e6) [!] Delivery failed for host Ferguson.com
+20150130 00:13:33 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 00:13:33 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 00:13:33 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 00:13:33 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 00:13:33 SMTP-(680100035f7d47e6) requeuing d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD R0 T15
+20150130 00:13:33 SMTP-(680100035f7d47e6) finished d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD status=3
+20150130 01:09:13 SMTP-(680100035f7d47e6) processing d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD
+20150130 01:09:13 SMTP-(680100035f7d47e6) sender <daisyyin@aaxischina.com>
+20150130 01:09:13 SMTP-(680100035f7d47e6) Authed User daisyyin@aaxischina.com
+20150130 01:09:13 SMTP-(680100035f7d47e6) recip is <Jennifer.Bridgens@Ferguson.com>
+20150130 01:09:13 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 01:09:13 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 01:09:13 SMTP-(680100035f7d47e6) recip is <Robbie.Foglia@Ferguson.com>
+20150130 01:09:13 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 01:09:13 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 01:09:13 SMTP-(680100035f7d47e6) closed d:\Program Files\Ipswitch\IMail\spool\_680100035f7d47e6.~MD - 1
+20150130 01:09:13 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 01:09:13 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 01:09:13 SMTP-(680100035f7d47e6) [x] doing direct send Ferguson.com
+20150130 01:09:13 SMTP-(680100035f7d47e6) Trying Ferguson.com (0)
+20150130 01:09:13 SMTP-(680100035f7d47e6) Enumerating MX records for host Ferguson.com
+20150130 01:09:13 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.143
+20150130 01:09:13 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143
+20150130 01:09:13 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143> using tcp protocol.
+20150130 01:09:13 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:09:27 SMTP-(680100035f7d47e6) 421 4.4.0 Unable to connect to DNS - try again later
+20150130 01:09:27 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.143
+20150130 01:09:27 SMTP-(680100035f7d47e6) [!] Host 198.90.15.143 returned invalid response: 421 4.4.0 Unable to connect to DNS - try again later
+20150130 01:09:27 SMTP-(680100035f7d47e6) [4404] closing socket (0)
+20150130 01:09:27 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.143:465
+20150130 01:09:27 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143:465
+20150130 01:09:27 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143:465> using tcp protocol.
+20150130 01:09:27 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 01:09:27 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:09:48 SMTP-(680100035f7d47e6) Connect fail 198.90.15.143:465 [198.90.15.143]: connection timed out
+20150130 01:09:48 SMTP-(680100035f7d47e6) [4440] closing socket (0)
+20150130 01:09:48 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.143 (connection refused)
+20150130 01:09:48 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.143
+20150130 01:09:48 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.27
+20150130 01:09:48 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27
+20150130 01:09:48 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27> using tcp protocol.
+20150130 01:09:48 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:09:51 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:09:51 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.27
+20150130 01:09:51 SMTP-(680100035f7d47e6) [!] Host 67.208.158.27 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:09:51 SMTP-(680100035f7d47e6) [4268] closing socket (0)
+20150130 01:09:51 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.27:465
+20150130 01:09:51 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27:465
+20150130 01:09:51 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27:465> using tcp protocol.
+20150130 01:09:51 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 01:09:51 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:10:13 SMTP-(680100035f7d47e6) Connect fail 67.208.158.27:465 [67.208.158.27]: connection timed out
+20150130 01:10:13 SMTP-(680100035f7d47e6) [4268] closing socket (0)
+20150130 01:10:13 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.27 (connection refused)
+20150130 01:10:13 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.27
+20150130 01:10:13 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.175
+20150130 01:10:13 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175
+20150130 01:10:13 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175> using tcp protocol.
+20150130 01:10:13 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:10:16 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:10:16 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.175
+20150130 01:10:16 SMTP-(680100035f7d47e6) [!] Host 198.90.15.175 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:10:16 SMTP-(680100035f7d47e6) [4268] closing socket (0)
+20150130 01:10:16 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.175:465
+20150130 01:10:16 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175:465
+20150130 01:10:16 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175:465> using tcp protocol.
+20150130 01:10:16 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 01:10:16 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:10:37 SMTP-(680100035f7d47e6) Connect fail 198.90.15.175:465 [198.90.15.175]: connection timed out
+20150130 01:10:37 SMTP-(680100035f7d47e6) [4268] closing socket (0)
+20150130 01:10:37 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.175 (connection refused)
+20150130 01:10:37 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.175
+20150130 01:10:37 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.40
+20150130 01:10:37 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40
+20150130 01:10:37 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40> using tcp protocol.
+20150130 01:10:37 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:10:40 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:10:40 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.40
+20150130 01:10:40 SMTP-(680100035f7d47e6) [!] Host 67.208.158.40 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:10:40 SMTP-(680100035f7d47e6) [4268] closing socket (0)
+20150130 01:10:40 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.40:465
+20150130 01:10:40 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40:465
+20150130 01:10:40 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40:465> using tcp protocol.
+20150130 01:10:40 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 01:10:40 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:11:01 SMTP-(680100035f7d47e6) Connect fail 67.208.158.40:465 [67.208.158.40]: connection timed out
+20150130 01:11:01 SMTP-(680100035f7d47e6) [4268] closing socket (0)
+20150130 01:11:01 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.40 (connection refused)
+20150130 01:11:01 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.40
+20150130 01:11:01 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.173
+20150130 01:11:01 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173
+20150130 01:11:01 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173> using tcp protocol.
+20150130 01:11:01 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:11:06 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:11:06 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.173
+20150130 01:11:06 SMTP-(680100035f7d47e6) [!] Host 198.90.15.173 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:11:06 SMTP-(680100035f7d47e6) [4268] closing socket (0)
+20150130 01:11:06 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.173:465
+20150130 01:11:06 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173:465
+20150130 01:11:06 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173:465> using tcp protocol.
+20150130 01:11:06 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 01:11:06 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:11:27 SMTP-(680100035f7d47e6) Connect fail 198.90.15.173:465 [198.90.15.173]: connection timed out
+20150130 01:11:27 SMTP-(680100035f7d47e6) [4440] closing socket (0)
+20150130 01:11:27 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.173 (connection refused)
+20150130 01:11:27 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.173
+20150130 01:11:27 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.51
+20150130 01:11:27 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51
+20150130 01:11:27 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51> using tcp protocol.
+20150130 01:11:27 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:11:28 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:11:28 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.51
+20150130 01:11:28 SMTP-(680100035f7d47e6) [!] Host 67.208.158.51 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:11:28 SMTP-(680100035f7d47e6) [4440] closing socket (0)
+20150130 01:11:28 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.51:465
+20150130 01:11:28 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51:465
+20150130 01:11:28 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51:465> using tcp protocol.
+20150130 01:11:28 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 01:11:28 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:11:49 SMTP-(680100035f7d47e6) Connect fail 67.208.158.51:465 [67.208.158.51]: connection timed out
+20150130 01:11:49 SMTP-(680100035f7d47e6) [4440] closing socket (0)
+20150130 01:11:49 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.51 (connection refused)
+20150130 01:11:49 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.51
+20150130 01:11:49 SMTP-(680100035f7d47e6) [!] Delivery failed for host Ferguson.com
+20150130 01:11:49 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 01:11:49 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 01:11:49 SMTP-(680100035f7d47e6) [x] doing direct send Ferguson.com
+20150130 01:11:49 SMTP-(680100035f7d47e6) Trying Ferguson.com (0)
+20150130 01:11:49 SMTP-(680100035f7d47e6) Enumerating MX records for host Ferguson.com
+20150130 01:11:49 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.143
+20150130 01:11:49 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143
+20150130 01:11:49 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143> using tcp protocol.
+20150130 01:11:49 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:12:02 SMTP-(680100035f7d47e6) 421 4.4.0 Unable to connect to DNS - try again later
+20150130 01:12:02 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.143
+20150130 01:12:02 SMTP-(680100035f7d47e6) [!] Host 198.90.15.143 returned invalid response: 421 4.4.0 Unable to connect to DNS - try again later
+20150130 01:12:02 SMTP-(680100035f7d47e6) [4048] closing socket (0)
+20150130 01:12:02 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.143:465
+20150130 01:12:02 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143:465
+20150130 01:12:02 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143:465> using tcp protocol.
+20150130 01:12:02 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 01:12:02 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:12:23 SMTP-(680100035f7d47e6) Connect fail 198.90.15.143:465 [198.90.15.143]: connection timed out
+20150130 01:12:23 SMTP-(680100035f7d47e6) [4048] closing socket (0)
+20150130 01:12:23 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.143 (connection refused)
+20150130 01:12:23 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.143
+20150130 01:12:23 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.27
+20150130 01:12:23 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27
+20150130 01:12:23 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27> using tcp protocol.
+20150130 01:12:23 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:12:24 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:12:24 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.27
+20150130 01:12:24 SMTP-(680100035f7d47e6) [!] Host 67.208.158.27 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:12:24 SMTP-(680100035f7d47e6) [4048] closing socket (0)
+20150130 01:12:24 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.27:465
+20150130 01:12:24 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27:465
+20150130 01:12:24 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27:465> using tcp protocol.
+20150130 01:12:24 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 01:12:24 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:12:45 SMTP-(680100035f7d47e6) Connect fail 67.208.158.27:465 [67.208.158.27]: connection timed out
+20150130 01:12:45 SMTP-(680100035f7d47e6) [4048] closing socket (0)
+20150130 01:12:45 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.27 (connection refused)
+20150130 01:12:45 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.27
+20150130 01:12:45 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.175
+20150130 01:12:45 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175
+20150130 01:12:45 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175> using tcp protocol.
+20150130 01:12:45 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:12:46 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:12:46 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.175
+20150130 01:12:46 SMTP-(680100035f7d47e6) [!] Host 198.90.15.175 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:12:46 SMTP-(680100035f7d47e6) [4048] closing socket (0)
+20150130 01:12:46 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.175:465
+20150130 01:12:46 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175:465
+20150130 01:12:46 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175:465> using tcp protocol.
+20150130 01:12:46 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 01:12:46 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:13:07 SMTP-(680100035f7d47e6) Connect fail 198.90.15.175:465 [198.90.15.175]: connection timed out
+20150130 01:13:07 SMTP-(680100035f7d47e6) [4048] closing socket (0)
+20150130 01:13:07 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.175 (connection refused)
+20150130 01:13:07 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.175
+20150130 01:13:07 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.40
+20150130 01:13:07 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40
+20150130 01:13:07 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40> using tcp protocol.
+20150130 01:13:07 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:13:07 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:13:07 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.40
+20150130 01:13:07 SMTP-(680100035f7d47e6) [!] Host 67.208.158.40 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:13:07 SMTP-(680100035f7d47e6) [4048] closing socket (0)
+20150130 01:13:07 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.40:465
+20150130 01:13:07 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40:465
+20150130 01:13:07 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40:465> using tcp protocol.
+20150130 01:13:07 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 01:13:07 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:13:28 SMTP-(680100035f7d47e6) Connect fail 67.208.158.40:465 [67.208.158.40]: connection timed out
+20150130 01:13:28 SMTP-(680100035f7d47e6) [4048] closing socket (0)
+20150130 01:13:28 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.40 (connection refused)
+20150130 01:13:28 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.40
+20150130 01:13:28 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.173
+20150130 01:13:28 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173
+20150130 01:13:28 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173> using tcp protocol.
+20150130 01:13:28 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:13:29 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:13:29 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.173
+20150130 01:13:29 SMTP-(680100035f7d47e6) [!] Host 198.90.15.173 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:13:29 SMTP-(680100035f7d47e6) [4048] closing socket (0)
+20150130 01:13:29 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.173:465
+20150130 01:13:29 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173:465
+20150130 01:13:29 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173:465> using tcp protocol.
+20150130 01:13:29 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 01:13:29 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:13:50 SMTP-(680100035f7d47e6) Connect fail 198.90.15.173:465 [198.90.15.173]: connection timed out
+20150130 01:13:50 SMTP-(680100035f7d47e6) [4048] closing socket (0)
+20150130 01:13:50 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.173 (connection refused)
+20150130 01:13:50 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.173
+20150130 01:13:50 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.51
+20150130 01:13:50 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51
+20150130 01:13:50 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51> using tcp protocol.
+20150130 01:13:50 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:13:51 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:13:51 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.51
+20150130 01:13:51 SMTP-(680100035f7d47e6) [!] Host 67.208.158.51 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 01:13:51 SMTP-(680100035f7d47e6) [4048] closing socket (0)
+20150130 01:13:51 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.51:465
+20150130 01:13:51 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51:465
+20150130 01:13:51 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51:465> using tcp protocol.
+20150130 01:13:51 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 01:13:51 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 01:14:12 SMTP-(680100035f7d47e6) Connect fail 67.208.158.51:465 [67.208.158.51]: connection timed out
+20150130 01:14:12 SMTP-(680100035f7d47e6) [4048] closing socket (0)
+20150130 01:14:12 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.51 (connection refused)
+20150130 01:14:12 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.51
+20150130 01:14:12 SMTP-(680100035f7d47e6) [!] Delivery failed for host Ferguson.com
+20150130 01:14:12 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 01:14:12 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 01:14:12 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 01:14:12 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 01:14:12 SMTP-(680100035f7d47e6) requeuing d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD R0 T16
+20150130 01:14:12 SMTP-(680100035f7d47e6) finished d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD status=3
+20150130 02:09:15 SMTP-(680100035f7d47e6) processing d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD
+20150130 02:09:15 SMTP-(680100035f7d47e6) sender <daisyyin@aaxischina.com>
+20150130 02:09:15 SMTP-(680100035f7d47e6) Authed User daisyyin@aaxischina.com
+20150130 02:09:15 SMTP-(680100035f7d47e6) recip is <Jennifer.Bridgens@Ferguson.com>
+20150130 02:09:15 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 02:09:15 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 02:09:15 SMTP-(680100035f7d47e6) recip is <Robbie.Foglia@Ferguson.com>
+20150130 02:09:15 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 02:09:15 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 02:09:15 SMTP-(680100035f7d47e6) closed d:\Program Files\Ipswitch\IMail\spool\_680100035f7d47e6.~MD - 1
+20150130 02:09:15 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 02:09:15 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 02:09:15 SMTP-(680100035f7d47e6) [x] doing direct send Ferguson.com
+20150130 02:09:15 SMTP-(680100035f7d47e6) Trying Ferguson.com (0)
+20150130 02:09:15 SMTP-(680100035f7d47e6) Enumerating MX records for host Ferguson.com
+20150130 02:09:15 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.143
+20150130 02:09:15 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143
+20150130 02:09:15 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143> using tcp protocol.
+20150130 02:09:15 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:09:19 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:09:19 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.143
+20150130 02:09:19 SMTP-(680100035f7d47e6) [!] Host 198.90.15.143 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:09:19 SMTP-(680100035f7d47e6) [4344] closing socket (0)
+20150130 02:09:19 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.143:465
+20150130 02:09:19 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143:465
+20150130 02:09:19 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143:465> using tcp protocol.
+20150130 02:09:19 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 02:09:19 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:09:40 SMTP-(680100035f7d47e6) Connect fail 198.90.15.143:465 [198.90.15.143]: connection timed out
+20150130 02:09:40 SMTP-(680100035f7d47e6) [4344] closing socket (0)
+20150130 02:09:40 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.143 (connection refused)
+20150130 02:09:40 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.143
+20150130 02:09:40 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.27
+20150130 02:09:40 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27
+20150130 02:09:40 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27> using tcp protocol.
+20150130 02:09:40 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:09:41 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:09:41 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.27
+20150130 02:09:41 SMTP-(680100035f7d47e6) [!] Host 67.208.158.27 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:09:41 SMTP-(680100035f7d47e6) [4136] closing socket (0)
+20150130 02:09:41 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.27:465
+20150130 02:09:41 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27:465
+20150130 02:09:41 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27:465> using tcp protocol.
+20150130 02:09:41 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 02:09:41 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:10:02 SMTP-(680100035f7d47e6) Connect fail 67.208.158.27:465 [67.208.158.27]: connection timed out
+20150130 02:10:02 SMTP-(680100035f7d47e6) [4136] closing socket (0)
+20150130 02:10:02 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.27 (connection refused)
+20150130 02:10:02 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.27
+20150130 02:10:02 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.175
+20150130 02:10:02 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175
+20150130 02:10:02 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175> using tcp protocol.
+20150130 02:10:02 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:10:02 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:10:02 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.175
+20150130 02:10:02 SMTP-(680100035f7d47e6) [!] Host 198.90.15.175 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:10:02 SMTP-(680100035f7d47e6) [4136] closing socket (0)
+20150130 02:10:02 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.175:465
+20150130 02:10:02 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175:465
+20150130 02:10:02 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175:465> using tcp protocol.
+20150130 02:10:02 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 02:10:02 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:10:23 SMTP-(680100035f7d47e6) Connect fail 198.90.15.175:465 [198.90.15.175]: connection timed out
+20150130 02:10:23 SMTP-(680100035f7d47e6) [4136] closing socket (0)
+20150130 02:10:23 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.175 (connection refused)
+20150130 02:10:23 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.175
+20150130 02:10:23 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.40
+20150130 02:10:23 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40
+20150130 02:10:23 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40> using tcp protocol.
+20150130 02:10:23 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:10:24 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:10:24 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.40
+20150130 02:10:24 SMTP-(680100035f7d47e6) [!] Host 67.208.158.40 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:10:24 SMTP-(680100035f7d47e6) [4136] closing socket (0)
+20150130 02:10:24 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.40:465
+20150130 02:10:24 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40:465
+20150130 02:10:24 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40:465> using tcp protocol.
+20150130 02:10:24 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 02:10:24 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:10:45 SMTP-(680100035f7d47e6) Connect fail 67.208.158.40:465 [67.208.158.40]: connection timed out
+20150130 02:10:45 SMTP-(680100035f7d47e6) [4136] closing socket (0)
+20150130 02:10:45 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.40 (connection refused)
+20150130 02:10:45 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.40
+20150130 02:10:45 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.173
+20150130 02:10:45 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173
+20150130 02:10:45 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173> using tcp protocol.
+20150130 02:10:45 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:10:46 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:10:46 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.173
+20150130 02:10:46 SMTP-(680100035f7d47e6) [!] Host 198.90.15.173 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:10:46 SMTP-(680100035f7d47e6) [4136] closing socket (0)
+20150130 02:10:46 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.173:465
+20150130 02:10:46 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173:465
+20150130 02:10:46 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173:465> using tcp protocol.
+20150130 02:10:46 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 02:10:46 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:11:07 SMTP-(680100035f7d47e6) Connect fail 198.90.15.173:465 [198.90.15.173]: connection timed out
+20150130 02:11:07 SMTP-(680100035f7d47e6) [4136] closing socket (0)
+20150130 02:11:07 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.173 (connection refused)
+20150130 02:11:07 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.173
+20150130 02:11:07 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.51
+20150130 02:11:07 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51
+20150130 02:11:07 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51> using tcp protocol.
+20150130 02:11:07 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:11:08 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:11:08 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.51
+20150130 02:11:08 SMTP-(680100035f7d47e6) [!] Host 67.208.158.51 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:11:08 SMTP-(680100035f7d47e6) [4136] closing socket (0)
+20150130 02:11:08 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.51:465
+20150130 02:11:08 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51:465
+20150130 02:11:08 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51:465> using tcp protocol.
+20150130 02:11:08 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 02:11:08 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:11:29 SMTP-(680100035f7d47e6) Connect fail 67.208.158.51:465 [67.208.158.51]: connection timed out
+20150130 02:11:29 SMTP-(680100035f7d47e6) [4136] closing socket (0)
+20150130 02:11:29 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.51 (connection refused)
+20150130 02:11:29 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.51
+20150130 02:11:29 SMTP-(680100035f7d47e6) [!] Delivery failed for host Ferguson.com
+20150130 02:11:29 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 02:11:29 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 02:11:29 SMTP-(680100035f7d47e6) [x] doing direct send Ferguson.com
+20150130 02:11:29 SMTP-(680100035f7d47e6) Trying Ferguson.com (0)
+20150130 02:11:29 SMTP-(680100035f7d47e6) Enumerating MX records for host Ferguson.com
+20150130 02:11:30 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.51
+20150130 02:11:30 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51
+20150130 02:11:30 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51> using tcp protocol.
+20150130 02:11:30 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:11:31 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:11:31 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.51
+20150130 02:11:31 SMTP-(680100035f7d47e6) [!] Host 67.208.158.51 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:11:31 SMTP-(680100035f7d47e6) [4248] closing socket (0)
+20150130 02:11:31 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.51:465
+20150130 02:11:31 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51:465
+20150130 02:11:31 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51:465> using tcp protocol.
+20150130 02:11:31 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 02:11:31 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:11:52 SMTP-(680100035f7d47e6) Connect fail 67.208.158.51:465 [67.208.158.51]: connection timed out
+20150130 02:11:52 SMTP-(680100035f7d47e6) [4248] closing socket (0)
+20150130 02:11:52 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.51 (connection refused)
+20150130 02:11:52 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.51
+20150130 02:11:52 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.173
+20150130 02:11:52 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173
+20150130 02:11:52 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173> using tcp protocol.
+20150130 02:11:52 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:11:53 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:11:53 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.173
+20150130 02:11:53 SMTP-(680100035f7d47e6) [!] Host 198.90.15.173 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:11:53 SMTP-(680100035f7d47e6) [4248] closing socket (0)
+20150130 02:11:53 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.173:465
+20150130 02:11:53 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173:465
+20150130 02:11:53 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173:465> using tcp protocol.
+20150130 02:11:53 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 02:11:53 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:12:14 SMTP-(680100035f7d47e6) Connect fail 198.90.15.173:465 [198.90.15.173]: connection timed out
+20150130 02:12:14 SMTP-(680100035f7d47e6) [4248] closing socket (0)
+20150130 02:12:14 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.173 (connection refused)
+20150130 02:12:14 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.173
+20150130 02:12:14 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.27
+20150130 02:12:14 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27
+20150130 02:12:14 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27> using tcp protocol.
+20150130 02:12:14 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:12:15 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:12:15 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.27
+20150130 02:12:15 SMTP-(680100035f7d47e6) [!] Host 67.208.158.27 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:12:15 SMTP-(680100035f7d47e6) [4248] closing socket (0)
+20150130 02:12:15 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.27:465
+20150130 02:12:15 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27:465
+20150130 02:12:15 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27:465> using tcp protocol.
+20150130 02:12:15 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 02:12:15 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:12:36 SMTP-(680100035f7d47e6) Connect fail 67.208.158.27:465 [67.208.158.27]: connection timed out
+20150130 02:12:36 SMTP-(680100035f7d47e6) [4248] closing socket (0)
+20150130 02:12:36 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.27 (connection refused)
+20150130 02:12:36 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.27
+20150130 02:12:36 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.143
+20150130 02:12:36 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143
+20150130 02:12:36 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143> using tcp protocol.
+20150130 02:12:36 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:12:36 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:12:36 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.143
+20150130 02:12:36 SMTP-(680100035f7d47e6) [!] Host 198.90.15.143 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:12:36 SMTP-(680100035f7d47e6) [4248] closing socket (0)
+20150130 02:12:36 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.143:465
+20150130 02:12:36 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143:465
+20150130 02:12:36 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143:465> using tcp protocol.
+20150130 02:12:36 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 02:12:36 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:12:57 SMTP-(680100035f7d47e6) Connect fail 198.90.15.143:465 [198.90.15.143]: connection timed out
+20150130 02:12:57 SMTP-(680100035f7d47e6) [4248] closing socket (0)
+20150130 02:12:57 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.143 (connection refused)
+20150130 02:12:57 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.143
+20150130 02:12:57 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.40
+20150130 02:12:57 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40
+20150130 02:12:57 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40> using tcp protocol.
+20150130 02:12:57 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:12:58 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:12:58 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.40
+20150130 02:12:58 SMTP-(680100035f7d47e6) [!] Host 67.208.158.40 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:12:58 SMTP-(680100035f7d47e6) [4248] closing socket (0)
+20150130 02:12:58 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.40:465
+20150130 02:12:58 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40:465
+20150130 02:12:58 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40:465> using tcp protocol.
+20150130 02:12:58 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 02:12:58 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:13:19 SMTP-(680100035f7d47e6) Connect fail 67.208.158.40:465 [67.208.158.40]: connection timed out
+20150130 02:13:19 SMTP-(680100035f7d47e6) [4248] closing socket (0)
+20150130 02:13:19 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.40 (connection refused)
+20150130 02:13:19 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.40
+20150130 02:13:19 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.175
+20150130 02:13:19 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175
+20150130 02:13:19 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175> using tcp protocol.
+20150130 02:13:19 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:13:20 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:13:20 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.175
+20150130 02:13:20 SMTP-(680100035f7d47e6) [!] Host 198.90.15.175 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 02:13:20 SMTP-(680100035f7d47e6) [4248] closing socket (0)
+20150130 02:13:20 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.175:465
+20150130 02:13:20 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175:465
+20150130 02:13:20 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175:465> using tcp protocol.
+20150130 02:13:20 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 02:13:20 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 02:13:41 SMTP-(680100035f7d47e6) Connect fail 198.90.15.175:465 [198.90.15.175]: connection timed out
+20150130 02:13:41 SMTP-(680100035f7d47e6) [4248] closing socket (0)
+20150130 02:13:41 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.175 (connection refused)
+20150130 02:13:41 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.175
+20150130 02:13:41 SMTP-(680100035f7d47e6) [!] Delivery failed for host Ferguson.com
+20150130 02:13:41 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 02:13:41 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 02:13:41 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 02:13:41 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 02:13:41 SMTP-(680100035f7d47e6) requeuing d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD R0 T17
+20150130 02:13:41 SMTP-(680100035f7d47e6) finished d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD status=3
+20150130 03:09:36 SMTP-(680100035f7d47e6) processing d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD
+20150130 03:09:36 SMTP-(680100035f7d47e6) sender <daisyyin@aaxischina.com>
+20150130 03:09:36 SMTP-(680100035f7d47e6) Authed User daisyyin@aaxischina.com
+20150130 03:09:36 SMTP-(680100035f7d47e6) recip is <Jennifer.Bridgens@Ferguson.com>
+20150130 03:09:36 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 03:09:36 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 03:09:36 SMTP-(680100035f7d47e6) recip is <Robbie.Foglia@Ferguson.com>
+20150130 03:09:36 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 03:09:36 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 03:09:36 SMTP-(680100035f7d47e6) closed d:\Program Files\Ipswitch\IMail\spool\_680100035f7d47e6.~MD - 1
+20150130 03:09:36 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 03:09:36 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 03:09:36 SMTP-(680100035f7d47e6) [x] doing direct send Ferguson.com
+20150130 03:09:36 SMTP-(680100035f7d47e6) Trying Ferguson.com (0)
+20150130 03:09:36 SMTP-(680100035f7d47e6) Enumerating MX records for host Ferguson.com
+20150130 03:09:36 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.51
+20150130 03:09:36 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51
+20150130 03:09:36 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51> using tcp protocol.
+20150130 03:09:36 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:09:36 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:09:36 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.51
+20150130 03:09:36 SMTP-(680100035f7d47e6) [!] Host 67.208.158.51 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:09:36 SMTP-(680100035f7d47e6) [4120] closing socket (0)
+20150130 03:09:36 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.51:465
+20150130 03:09:36 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51:465
+20150130 03:09:36 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51:465> using tcp protocol.
+20150130 03:09:36 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 03:09:36 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:09:57 SMTP-(680100035f7d47e6) Connect fail 67.208.158.51:465 [67.208.158.51]: connection timed out
+20150130 03:09:57 SMTP-(680100035f7d47e6) [4120] closing socket (0)
+20150130 03:09:57 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.51 (connection refused)
+20150130 03:09:57 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.51
+20150130 03:09:57 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.173
+20150130 03:09:57 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173
+20150130 03:09:57 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173> using tcp protocol.
+20150130 03:09:57 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:09:58 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:09:58 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.173
+20150130 03:09:58 SMTP-(680100035f7d47e6) [!] Host 198.90.15.173 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:09:58 SMTP-(680100035f7d47e6) [4120] closing socket (0)
+20150130 03:09:58 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.173:465
+20150130 03:09:58 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173:465
+20150130 03:09:58 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173:465> using tcp protocol.
+20150130 03:09:58 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 03:09:58 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:10:19 SMTP-(680100035f7d47e6) Connect fail 198.90.15.173:465 [198.90.15.173]: connection timed out
+20150130 03:10:19 SMTP-(680100035f7d47e6) [4120] closing socket (0)
+20150130 03:10:19 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.173 (connection refused)
+20150130 03:10:19 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.173
+20150130 03:10:19 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.27
+20150130 03:10:19 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27
+20150130 03:10:19 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27> using tcp protocol.
+20150130 03:10:19 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:10:20 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:10:20 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.27
+20150130 03:10:20 SMTP-(680100035f7d47e6) [!] Host 67.208.158.27 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:10:20 SMTP-(680100035f7d47e6) [4120] closing socket (0)
+20150130 03:10:20 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.27:465
+20150130 03:10:20 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27:465
+20150130 03:10:20 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27:465> using tcp protocol.
+20150130 03:10:20 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 03:10:20 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:10:41 SMTP-(680100035f7d47e6) Connect fail 67.208.158.27:465 [67.208.158.27]: connection timed out
+20150130 03:10:41 SMTP-(680100035f7d47e6) [4120] closing socket (0)
+20150130 03:10:41 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.27 (connection refused)
+20150130 03:10:41 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.27
+20150130 03:10:41 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.143
+20150130 03:10:41 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143
+20150130 03:10:41 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143> using tcp protocol.
+20150130 03:10:41 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:10:41 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:10:41 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.143
+20150130 03:10:41 SMTP-(680100035f7d47e6) [!] Host 198.90.15.143 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:10:41 SMTP-(680100035f7d47e6) [4120] closing socket (0)
+20150130 03:10:41 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.143:465
+20150130 03:10:41 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143:465
+20150130 03:10:41 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143:465> using tcp protocol.
+20150130 03:10:41 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 03:10:41 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:11:02 SMTP-(680100035f7d47e6) Connect fail 198.90.15.143:465 [198.90.15.143]: connection timed out
+20150130 03:11:02 SMTP-(680100035f7d47e6) [4120] closing socket (0)
+20150130 03:11:02 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.143 (connection refused)
+20150130 03:11:02 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.143
+20150130 03:11:02 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.40
+20150130 03:11:02 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40
+20150130 03:11:02 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40> using tcp protocol.
+20150130 03:11:02 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:11:03 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:11:03 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.40
+20150130 03:11:03 SMTP-(680100035f7d47e6) [!] Host 67.208.158.40 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:11:03 SMTP-(680100035f7d47e6) [4120] closing socket (0)
+20150130 03:11:03 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.40:465
+20150130 03:11:03 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40:465
+20150130 03:11:03 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40:465> using tcp protocol.
+20150130 03:11:03 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 03:11:03 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:11:24 SMTP-(680100035f7d47e6) Connect fail 67.208.158.40:465 [67.208.158.40]: connection timed out
+20150130 03:11:24 SMTP-(680100035f7d47e6) [4120] closing socket (0)
+20150130 03:11:24 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.40 (connection refused)
+20150130 03:11:24 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.40
+20150130 03:11:24 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.175
+20150130 03:11:24 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175
+20150130 03:11:24 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175> using tcp protocol.
+20150130 03:11:24 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:11:24 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:11:24 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.175
+20150130 03:11:24 SMTP-(680100035f7d47e6) [!] Host 198.90.15.175 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:11:24 SMTP-(680100035f7d47e6) [4120] closing socket (0)
+20150130 03:11:24 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.175:465
+20150130 03:11:24 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175:465
+20150130 03:11:24 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175:465> using tcp protocol.
+20150130 03:11:24 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 03:11:24 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:11:45 SMTP-(680100035f7d47e6) Connect fail 198.90.15.175:465 [198.90.15.175]: connection timed out
+20150130 03:11:45 SMTP-(680100035f7d47e6) [4120] closing socket (0)
+20150130 03:11:45 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.175 (connection refused)
+20150130 03:11:45 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.175
+20150130 03:11:45 SMTP-(680100035f7d47e6) [!] Delivery failed for host Ferguson.com
+20150130 03:11:45 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 03:11:45 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 03:11:45 SMTP-(680100035f7d47e6) [x] doing direct send Ferguson.com
+20150130 03:11:45 SMTP-(680100035f7d47e6) Trying Ferguson.com (0)
+20150130 03:11:45 SMTP-(680100035f7d47e6) Enumerating MX records for host Ferguson.com
+20150130 03:11:45 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.173
+20150130 03:11:45 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173
+20150130 03:11:45 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173> using tcp protocol.
+20150130 03:11:45 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:11:46 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:11:46 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.173
+20150130 03:11:46 SMTP-(680100035f7d47e6) [!] Host 198.90.15.173 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:11:46 SMTP-(680100035f7d47e6) [3028] closing socket (0)
+20150130 03:11:46 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.173:465
+20150130 03:11:46 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173:465
+20150130 03:11:46 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173:465> using tcp protocol.
+20150130 03:11:46 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 03:11:46 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:12:07 SMTP-(680100035f7d47e6) Connect fail 198.90.15.173:465 [198.90.15.173]: connection timed out
+20150130 03:12:07 SMTP-(680100035f7d47e6) [3028] closing socket (0)
+20150130 03:12:07 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.173 (connection refused)
+20150130 03:12:07 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.173
+20150130 03:12:07 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.143
+20150130 03:12:07 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143
+20150130 03:12:07 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143> using tcp protocol.
+20150130 03:12:07 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:12:07 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:12:07 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.143
+20150130 03:12:07 SMTP-(680100035f7d47e6) [!] Host 198.90.15.143 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:12:07 SMTP-(680100035f7d47e6) [3028] closing socket (0)
+20150130 03:12:07 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.143:465
+20150130 03:12:07 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143:465
+20150130 03:12:07 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143:465> using tcp protocol.
+20150130 03:12:07 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 03:12:07 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:12:28 SMTP-(680100035f7d47e6) Connect fail 198.90.15.143:465 [198.90.15.143]: connection timed out
+20150130 03:12:28 SMTP-(680100035f7d47e6) [3028] closing socket (0)
+20150130 03:12:28 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.143 (connection refused)
+20150130 03:12:28 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.143
+20150130 03:12:28 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.27
+20150130 03:12:28 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27
+20150130 03:12:28 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27> using tcp protocol.
+20150130 03:12:28 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:12:29 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:12:29 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.27
+20150130 03:12:29 SMTP-(680100035f7d47e6) [!] Host 67.208.158.27 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:12:29 SMTP-(680100035f7d47e6) [3028] closing socket (0)
+20150130 03:12:29 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.27:465
+20150130 03:12:29 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27:465
+20150130 03:12:29 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27:465> using tcp protocol.
+20150130 03:12:29 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 03:12:29 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:12:50 SMTP-(680100035f7d47e6) Connect fail 67.208.158.27:465 [67.208.158.27]: connection timed out
+20150130 03:12:50 SMTP-(680100035f7d47e6) [3028] closing socket (0)
+20150130 03:12:50 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.27 (connection refused)
+20150130 03:12:50 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.27
+20150130 03:12:50 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.175
+20150130 03:12:50 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175
+20150130 03:12:50 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175> using tcp protocol.
+20150130 03:12:50 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:12:51 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:12:51 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.175
+20150130 03:12:51 SMTP-(680100035f7d47e6) [!] Host 198.90.15.175 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:12:51 SMTP-(680100035f7d47e6) [3028] closing socket (0)
+20150130 03:12:51 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.175:465
+20150130 03:12:51 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175:465
+20150130 03:12:51 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175:465> using tcp protocol.
+20150130 03:12:51 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 03:12:51 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:13:11 SMTP-(680100035f7d47e6) Connect fail 198.90.15.175:465 [198.90.15.175]: connection timed out
+20150130 03:13:11 SMTP-(680100035f7d47e6) [3028] closing socket (0)
+20150130 03:13:11 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.175 (connection refused)
+20150130 03:13:11 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.175
+20150130 03:13:11 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.51
+20150130 03:13:11 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51
+20150130 03:13:11 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51> using tcp protocol.
+20150130 03:13:11 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:13:12 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:13:12 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.51
+20150130 03:13:12 SMTP-(680100035f7d47e6) [!] Host 67.208.158.51 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:13:12 SMTP-(680100035f7d47e6) [3028] closing socket (0)
+20150130 03:13:12 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.51:465
+20150130 03:13:12 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51:465
+20150130 03:13:12 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51:465> using tcp protocol.
+20150130 03:13:12 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 03:13:12 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:13:33 SMTP-(680100035f7d47e6) Connect fail 67.208.158.51:465 [67.208.158.51]: connection timed out
+20150130 03:13:33 SMTP-(680100035f7d47e6) [3028] closing socket (0)
+20150130 03:13:33 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.51 (connection refused)
+20150130 03:13:33 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.51
+20150130 03:13:33 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.40
+20150130 03:13:33 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40
+20150130 03:13:33 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40> using tcp protocol.
+20150130 03:13:33 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:13:34 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:13:34 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.40
+20150130 03:13:34 SMTP-(680100035f7d47e6) [!] Host 67.208.158.40 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 03:13:34 SMTP-(680100035f7d47e6) [3028] closing socket (0)
+20150130 03:13:34 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.40:465
+20150130 03:13:34 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40:465
+20150130 03:13:34 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40:465> using tcp protocol.
+20150130 03:13:34 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 03:13:34 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 03:13:55 SMTP-(680100035f7d47e6) Connect fail 67.208.158.40:465 [67.208.158.40]: connection timed out
+20150130 03:13:55 SMTP-(680100035f7d47e6) [3028] closing socket (0)
+20150130 03:13:55 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.40 (connection refused)
+20150130 03:13:55 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.40
+20150130 03:13:55 SMTP-(680100035f7d47e6) [!] Delivery failed for host Ferguson.com
+20150130 03:13:55 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 03:13:55 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 03:13:55 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 03:13:55 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 03:13:55 SMTP-(680100035f7d47e6) requeuing d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD R0 T18
+20150130 03:13:55 SMTP-(680100035f7d47e6) finished d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD status=3
+20150130 04:09:34 SMTP-(680100035f7d47e6) processing d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD
+20150130 04:09:34 SMTP-(680100035f7d47e6) sender <daisyyin@aaxischina.com>
+20150130 04:09:34 SMTP-(680100035f7d47e6) Authed User daisyyin@aaxischina.com
+20150130 04:09:34 SMTP-(680100035f7d47e6) recip is <Jennifer.Bridgens@Ferguson.com>
+20150130 04:09:34 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 04:09:34 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 04:09:34 SMTP-(680100035f7d47e6) recip is <Robbie.Foglia@Ferguson.com>
+20150130 04:09:34 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 04:09:34 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 04:09:34 SMTP-(680100035f7d47e6) closed d:\Program Files\Ipswitch\IMail\spool\_680100035f7d47e6.~MD - 1
+20150130 04:09:34 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 04:09:34 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 04:09:34 SMTP-(680100035f7d47e6) [x] doing direct send Ferguson.com
+20150130 04:09:34 SMTP-(680100035f7d47e6) Trying Ferguson.com (0)
+20150130 04:09:34 SMTP-(680100035f7d47e6) Enumerating MX records for host Ferguson.com
+20150130 04:09:34 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.173
+20150130 04:09:34 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173
+20150130 04:09:34 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173> using tcp protocol.
+20150130 04:09:34 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:09:36 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:09:36 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.173
+20150130 04:09:36 SMTP-(680100035f7d47e6) [!] Host 198.90.15.173 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:09:36 SMTP-(680100035f7d47e6) [4416] closing socket (0)
+20150130 04:09:36 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.173:465
+20150130 04:09:36 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173:465
+20150130 04:09:36 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173:465> using tcp protocol.
+20150130 04:09:36 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 04:09:36 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:09:57 SMTP-(680100035f7d47e6) Connect fail 198.90.15.173:465 [198.90.15.173]: connection timed out
+20150130 04:09:57 SMTP-(680100035f7d47e6) [4416] closing socket (0)
+20150130 04:09:57 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.173 (connection refused)
+20150130 04:09:57 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.173
+20150130 04:09:57 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.143
+20150130 04:09:57 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143
+20150130 04:09:57 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143> using tcp protocol.
+20150130 04:09:57 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:09:58 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:09:58 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.143
+20150130 04:09:58 SMTP-(680100035f7d47e6) [!] Host 198.90.15.143 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:09:58 SMTP-(680100035f7d47e6) [3468] closing socket (0)
+20150130 04:09:58 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.143:465
+20150130 04:09:58 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143:465
+20150130 04:09:58 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143:465> using tcp protocol.
+20150130 04:09:58 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 04:09:58 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:10:19 SMTP-(680100035f7d47e6) Connect fail 198.90.15.143:465 [198.90.15.143]: connection timed out
+20150130 04:10:19 SMTP-(680100035f7d47e6) [3468] closing socket (0)
+20150130 04:10:19 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.143 (connection refused)
+20150130 04:10:19 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.143
+20150130 04:10:19 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.27
+20150130 04:10:19 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27
+20150130 04:10:19 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27> using tcp protocol.
+20150130 04:10:19 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:10:21 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:10:21 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.27
+20150130 04:10:21 SMTP-(680100035f7d47e6) [!] Host 67.208.158.27 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:10:21 SMTP-(680100035f7d47e6) [3788] closing socket (0)
+20150130 04:10:21 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.27:465
+20150130 04:10:21 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27:465
+20150130 04:10:21 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27:465> using tcp protocol.
+20150130 04:10:21 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 04:10:21 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:10:42 SMTP-(680100035f7d47e6) Connect fail 67.208.158.27:465 [67.208.158.27]: connection timed out
+20150130 04:10:42 SMTP-(680100035f7d47e6) [3788] closing socket (0)
+20150130 04:10:42 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.27 (connection refused)
+20150130 04:10:42 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.27
+20150130 04:10:42 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.175
+20150130 04:10:42 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175
+20150130 04:10:42 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175> using tcp protocol.
+20150130 04:10:42 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:10:43 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:10:43 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.175
+20150130 04:10:43 SMTP-(680100035f7d47e6) [!] Host 198.90.15.175 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:10:43 SMTP-(680100035f7d47e6) [3260] closing socket (0)
+20150130 04:10:43 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.175:465
+20150130 04:10:43 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175:465
+20150130 04:10:43 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175:465> using tcp protocol.
+20150130 04:10:43 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 04:10:43 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:11:04 SMTP-(680100035f7d47e6) Connect fail 198.90.15.175:465 [198.90.15.175]: connection timed out
+20150130 04:11:04 SMTP-(680100035f7d47e6) [3260] closing socket (0)
+20150130 04:11:04 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.175 (connection refused)
+20150130 04:11:04 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.175
+20150130 04:11:04 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.51
+20150130 04:11:04 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51
+20150130 04:11:04 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51> using tcp protocol.
+20150130 04:11:04 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:11:04 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:11:04 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.51
+20150130 04:11:04 SMTP-(680100035f7d47e6) [!] Host 67.208.158.51 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:11:04 SMTP-(680100035f7d47e6) [3260] closing socket (0)
+20150130 04:11:04 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.51:465
+20150130 04:11:04 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51:465
+20150130 04:11:04 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51:465> using tcp protocol.
+20150130 04:11:04 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 04:11:04 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:11:26 SMTP-(680100035f7d47e6) Connect fail 67.208.158.51:465 [67.208.158.51]: connection timed out
+20150130 04:11:26 SMTP-(680100035f7d47e6) [3260] closing socket (0)
+20150130 04:11:26 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.51 (connection refused)
+20150130 04:11:26 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.51
+20150130 04:11:26 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.40
+20150130 04:11:26 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40
+20150130 04:11:26 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40> using tcp protocol.
+20150130 04:11:26 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:11:26 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:11:26 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.40
+20150130 04:11:26 SMTP-(680100035f7d47e6) [!] Host 67.208.158.40 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:11:26 SMTP-(680100035f7d47e6) [3260] closing socket (0)
+20150130 04:11:26 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.40:465
+20150130 04:11:26 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40:465
+20150130 04:11:26 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40:465> using tcp protocol.
+20150130 04:11:26 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 04:11:26 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:11:48 SMTP-(680100035f7d47e6) Connect fail 67.208.158.40:465 [67.208.158.40]: connection timed out
+20150130 04:11:48 SMTP-(680100035f7d47e6) [3260] closing socket (0)
+20150130 04:11:48 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.40 (connection refused)
+20150130 04:11:48 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.40
+20150130 04:11:48 SMTP-(680100035f7d47e6) [!] Delivery failed for host Ferguson.com
+20150130 04:11:48 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 04:11:48 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 04:11:48 SMTP-(680100035f7d47e6) [x] doing direct send Ferguson.com
+20150130 04:11:48 SMTP-(680100035f7d47e6) Trying Ferguson.com (0)
+20150130 04:11:48 SMTP-(680100035f7d47e6) Enumerating MX records for host Ferguson.com
+20150130 04:11:48 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.175
+20150130 04:11:48 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175
+20150130 04:11:48 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175> using tcp protocol.
+20150130 04:11:48 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:11:48 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:11:48 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.175
+20150130 04:11:48 SMTP-(680100035f7d47e6) [!] Host 198.90.15.175 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:11:48 SMTP-(680100035f7d47e6) [4148] closing socket (0)
+20150130 04:11:48 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.175:465
+20150130 04:11:48 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175:465
+20150130 04:11:48 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175:465> using tcp protocol.
+20150130 04:11:48 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 04:11:48 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:12:09 SMTP-(680100035f7d47e6) Connect fail 198.90.15.175:465 [198.90.15.175]: connection timed out
+20150130 04:12:09 SMTP-(680100035f7d47e6) [4148] closing socket (0)
+20150130 04:12:09 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.175 (connection refused)
+20150130 04:12:09 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.175
+20150130 04:12:09 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.173
+20150130 04:12:09 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173
+20150130 04:12:09 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173> using tcp protocol.
+20150130 04:12:09 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:12:10 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:12:10 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.173
+20150130 04:12:10 SMTP-(680100035f7d47e6) [!] Host 198.90.15.173 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:12:10 SMTP-(680100035f7d47e6) [4148] closing socket (0)
+20150130 04:12:10 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.173:465
+20150130 04:12:10 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173:465
+20150130 04:12:10 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173:465> using tcp protocol.
+20150130 04:12:10 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 04:12:10 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:12:31 SMTP-(680100035f7d47e6) Connect fail 198.90.15.173:465 [198.90.15.173]: connection timed out
+20150130 04:12:31 SMTP-(680100035f7d47e6) [4148] closing socket (0)
+20150130 04:12:31 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.173 (connection refused)
+20150130 04:12:31 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.173
+20150130 04:12:31 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.143
+20150130 04:12:31 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143
+20150130 04:12:31 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143> using tcp protocol.
+20150130 04:12:31 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:12:32 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:12:32 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.143
+20150130 04:12:32 SMTP-(680100035f7d47e6) [!] Host 198.90.15.143 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:12:32 SMTP-(680100035f7d47e6) [4148] closing socket (0)
+20150130 04:12:32 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.143:465
+20150130 04:12:32 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143:465
+20150130 04:12:32 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143:465> using tcp protocol.
+20150130 04:12:32 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 04:12:32 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:12:53 SMTP-(680100035f7d47e6) Connect fail 198.90.15.143:465 [198.90.15.143]: connection timed out
+20150130 04:12:53 SMTP-(680100035f7d47e6) [4148] closing socket (0)
+20150130 04:12:53 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.143 (connection refused)
+20150130 04:12:53 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.143
+20150130 04:12:53 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.40
+20150130 04:12:53 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40
+20150130 04:12:53 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40> using tcp protocol.
+20150130 04:12:53 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:12:53 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:12:53 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.40
+20150130 04:12:53 SMTP-(680100035f7d47e6) [!] Host 67.208.158.40 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:12:53 SMTP-(680100035f7d47e6) [4148] closing socket (0)
+20150130 04:12:53 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.40:465
+20150130 04:12:53 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40:465
+20150130 04:12:53 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40:465> using tcp protocol.
+20150130 04:12:53 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 04:12:53 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:13:14 SMTP-(680100035f7d47e6) Connect fail 67.208.158.40:465 [67.208.158.40]: connection timed out
+20150130 04:13:14 SMTP-(680100035f7d47e6) [4148] closing socket (0)
+20150130 04:13:14 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.40 (connection refused)
+20150130 04:13:14 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.40
+20150130 04:13:14 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.51
+20150130 04:13:14 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51
+20150130 04:13:14 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51> using tcp protocol.
+20150130 04:13:14 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:13:15 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:13:15 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.51
+20150130 04:13:15 SMTP-(680100035f7d47e6) [!] Host 67.208.158.51 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:13:15 SMTP-(680100035f7d47e6) [4148] closing socket (0)
+20150130 04:13:15 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.51:465
+20150130 04:13:15 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51:465
+20150130 04:13:15 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51:465> using tcp protocol.
+20150130 04:13:15 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 04:13:15 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:13:36 SMTP-(680100035f7d47e6) Connect fail 67.208.158.51:465 [67.208.158.51]: connection timed out
+20150130 04:13:36 SMTP-(680100035f7d47e6) [4148] closing socket (0)
+20150130 04:13:36 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.51 (connection refused)
+20150130 04:13:36 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.51
+20150130 04:13:36 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.27
+20150130 04:13:36 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27
+20150130 04:13:36 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27> using tcp protocol.
+20150130 04:13:36 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:13:37 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:13:37 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.27
+20150130 04:13:37 SMTP-(680100035f7d47e6) [!] Host 67.208.158.27 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 04:13:37 SMTP-(680100035f7d47e6) [4148] closing socket (0)
+20150130 04:13:37 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.27:465
+20150130 04:13:37 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27:465
+20150130 04:13:37 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27:465> using tcp protocol.
+20150130 04:13:37 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 04:13:37 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 04:13:58 SMTP-(680100035f7d47e6) Connect fail 67.208.158.27:465 [67.208.158.27]: connection timed out
+20150130 04:13:58 SMTP-(680100035f7d47e6) [4148] closing socket (0)
+20150130 04:13:58 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.27 (connection refused)
+20150130 04:13:58 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.27
+20150130 04:13:58 SMTP-(680100035f7d47e6) [!] Delivery failed for host Ferguson.com
+20150130 04:13:58 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 04:13:58 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 04:13:58 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 04:13:58 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 04:13:58 SMTP-(680100035f7d47e6) requeuing d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD R0 T19
+20150130 04:13:58 SMTP-(680100035f7d47e6) finished d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD status=3
+20150130 05:09:34 SMTP-(680100035f7d47e6) processing d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD
+20150130 05:09:34 SMTP-(680100035f7d47e6) sender <daisyyin@aaxischina.com>
+20150130 05:09:34 SMTP-(680100035f7d47e6) Authed User daisyyin@aaxischina.com
+20150130 05:09:34 SMTP-(680100035f7d47e6) recip is <Jennifer.Bridgens@Ferguson.com>
+20150130 05:09:34 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 05:09:34 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 05:09:34 SMTP-(680100035f7d47e6) recip is <Robbie.Foglia@Ferguson.com>
+20150130 05:09:34 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 05:09:34 SMTP-(680100035f7d47e6) [x] looking up Ferguson.com in HOSTS and MX
+20150130 05:09:34 SMTP-(680100035f7d47e6) closed d:\Program Files\Ipswitch\IMail\spool\_680100035f7d47e6.~MD - 1
+20150130 05:09:34 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 05:09:34 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 05:09:34 SMTP-(680100035f7d47e6) [x] doing direct send Ferguson.com
+20150130 05:09:34 SMTP-(680100035f7d47e6) Trying Ferguson.com (0)
+20150130 05:09:34 SMTP-(680100035f7d47e6) Enumerating MX records for host Ferguson.com
+20150130 05:09:34 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.175
+20150130 05:09:34 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175
+20150130 05:09:34 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175> using tcp protocol.
+20150130 05:09:34 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:09:36 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:09:36 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.175
+20150130 05:09:36 SMTP-(680100035f7d47e6) [!] Host 198.90.15.175 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:09:36 SMTP-(680100035f7d47e6) [4332] closing socket (0)
+20150130 05:09:36 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.175:465
+20150130 05:09:36 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175:465
+20150130 05:09:36 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175:465> using tcp protocol.
+20150130 05:09:36 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 05:09:36 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:09:57 SMTP-(680100035f7d47e6) Connect fail 198.90.15.175:465 [198.90.15.175]: connection timed out
+20150130 05:09:57 SMTP-(680100035f7d47e6) [4332] closing socket (0)
+20150130 05:09:57 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.175 (connection refused)
+20150130 05:09:57 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.175
+20150130 05:09:57 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.173
+20150130 05:09:57 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173
+20150130 05:09:57 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173> using tcp protocol.
+20150130 05:09:57 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:09:57 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:09:57 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.173
+20150130 05:09:57 SMTP-(680100035f7d47e6) [!] Host 198.90.15.173 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:09:57 SMTP-(680100035f7d47e6) [4332] closing socket (0)
+20150130 05:09:57 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.173:465
+20150130 05:09:57 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173:465
+20150130 05:09:57 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173:465> using tcp protocol.
+20150130 05:09:57 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 05:09:57 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:10:18 SMTP-(680100035f7d47e6) Connect fail 198.90.15.173:465 [198.90.15.173]: connection timed out
+20150130 05:10:18 SMTP-(680100035f7d47e6) [4332] closing socket (0)
+20150130 05:10:18 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.173 (connection refused)
+20150130 05:10:18 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.173
+20150130 05:10:18 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.143
+20150130 05:10:18 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143
+20150130 05:10:18 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143> using tcp protocol.
+20150130 05:10:18 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:10:19 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:10:19 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.143
+20150130 05:10:19 SMTP-(680100035f7d47e6) [!] Host 198.90.15.143 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:10:19 SMTP-(680100035f7d47e6) [4332] closing socket (0)
+20150130 05:10:19 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.143:465
+20150130 05:10:19 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143:465
+20150130 05:10:19 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143:465> using tcp protocol.
+20150130 05:10:19 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 05:10:19 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:10:40 SMTP-(680100035f7d47e6) Connect fail 198.90.15.143:465 [198.90.15.143]: connection timed out
+20150130 05:10:40 SMTP-(680100035f7d47e6) [4332] closing socket (0)
+20150130 05:10:40 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.143 (connection refused)
+20150130 05:10:40 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.143
+20150130 05:10:40 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.40
+20150130 05:10:40 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40
+20150130 05:10:40 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40> using tcp protocol.
+20150130 05:10:40 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:10:43 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:10:43 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.40
+20150130 05:10:43 SMTP-(680100035f7d47e6) [!] Host 67.208.158.40 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:10:43 SMTP-(680100035f7d47e6) [4332] closing socket (0)
+20150130 05:10:43 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.40:465
+20150130 05:10:43 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40:465
+20150130 05:10:43 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40:465> using tcp protocol.
+20150130 05:10:43 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 05:10:43 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:11:04 SMTP-(680100035f7d47e6) Connect fail 67.208.158.40:465 [67.208.158.40]: connection timed out
+20150130 05:11:04 SMTP-(680100035f7d47e6) [4332] closing socket (0)
+20150130 05:11:04 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.40 (connection refused)
+20150130 05:11:04 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.40
+20150130 05:11:04 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.51
+20150130 05:11:04 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51
+20150130 05:11:04 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51> using tcp protocol.
+20150130 05:11:04 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:11:05 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:11:05 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.51
+20150130 05:11:05 SMTP-(680100035f7d47e6) [!] Host 67.208.158.51 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:11:05 SMTP-(680100035f7d47e6) [4332] closing socket (0)
+20150130 05:11:05 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.51:465
+20150130 05:11:05 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51:465
+20150130 05:11:05 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51:465> using tcp protocol.
+20150130 05:11:05 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 05:11:05 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:11:26 SMTP-(680100035f7d47e6) Connect fail 67.208.158.51:465 [67.208.158.51]: connection timed out
+20150130 05:11:26 SMTP-(680100035f7d47e6) [4332] closing socket (0)
+20150130 05:11:26 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.51 (connection refused)
+20150130 05:11:26 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.51
+20150130 05:11:26 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.27
+20150130 05:11:26 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27
+20150130 05:11:26 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27> using tcp protocol.
+20150130 05:11:26 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:11:27 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:11:27 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.27
+20150130 05:11:27 SMTP-(680100035f7d47e6) [!] Host 67.208.158.27 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:11:27 SMTP-(680100035f7d47e6) [4332] closing socket (0)
+20150130 05:11:27 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.27:465
+20150130 05:11:27 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27:465
+20150130 05:11:27 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27:465> using tcp protocol.
+20150130 05:11:27 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 05:11:27 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:11:48 SMTP-(680100035f7d47e6) Connect fail 67.208.158.27:465 [67.208.158.27]: connection timed out
+20150130 05:11:48 SMTP-(680100035f7d47e6) [4332] closing socket (0)
+20150130 05:11:48 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.27 (connection refused)
+20150130 05:11:48 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.27
+20150130 05:11:48 SMTP-(680100035f7d47e6) [!] Delivery failed for host Ferguson.com
+20150130 05:11:48 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 05:11:48 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 05:11:48 SMTP-(680100035f7d47e6) [x] doing direct send Ferguson.com
+20150130 05:11:48 SMTP-(680100035f7d47e6) Trying Ferguson.com (0)
+20150130 05:11:48 SMTP-(680100035f7d47e6) Enumerating MX records for host Ferguson.com
+20150130 05:11:48 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.175
+20150130 05:11:48 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175
+20150130 05:11:48 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175> using tcp protocol.
+20150130 05:11:48 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:11:48 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:11:48 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.175
+20150130 05:11:48 SMTP-(680100035f7d47e6) [!] Host 198.90.15.175 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:11:48 SMTP-(680100035f7d47e6) [3140] closing socket (0)
+20150130 05:11:48 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.175:465
+20150130 05:11:48 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.175:465
+20150130 05:11:48 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.175:465> using tcp protocol.
+20150130 05:11:48 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 05:11:48 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:12:09 SMTP-(680100035f7d47e6) Connect fail 198.90.15.175:465 [198.90.15.175]: connection timed out
+20150130 05:12:09 SMTP-(680100035f7d47e6) [3140] closing socket (0)
+20150130 05:12:09 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.175 (connection refused)
+20150130 05:12:09 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.175
+20150130 05:12:09 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.173
+20150130 05:12:09 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173
+20150130 05:12:09 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173> using tcp protocol.
+20150130 05:12:09 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:12:10 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:12:10 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.173
+20150130 05:12:10 SMTP-(680100035f7d47e6) [!] Host 198.90.15.173 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:12:10 SMTP-(680100035f7d47e6) [3140] closing socket (0)
+20150130 05:12:10 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.173:465
+20150130 05:12:10 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.173:465
+20150130 05:12:10 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.173:465> using tcp protocol.
+20150130 05:12:10 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 05:12:10 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:12:31 SMTP-(680100035f7d47e6) Connect fail 198.90.15.173:465 [198.90.15.173]: connection timed out
+20150130 05:12:31 SMTP-(680100035f7d47e6) [3140] closing socket (0)
+20150130 05:12:31 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.173 (connection refused)
+20150130 05:12:31 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.173
+20150130 05:12:31 SMTP-(680100035f7d47e6) Trying to connect to host 198.90.15.143
+20150130 05:12:31 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143
+20150130 05:12:31 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143> using tcp protocol.
+20150130 05:12:31 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:12:31 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:12:31 SMTP-(680100035f7d47e6) Verifying SSL settings for host 198.90.15.143
+20150130 05:12:31 SMTP-(680100035f7d47e6) [!] Host 198.90.15.143 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:12:31 SMTP-(680100035f7d47e6) [3140] closing socket (0)
+20150130 05:12:31 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 198.90.15.143:465
+20150130 05:12:31 SMTP-(680100035f7d47e6) Attempting to connect to host: 198.90.15.143:465
+20150130 05:12:31 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <198.90.15.143:465> using tcp protocol.
+20150130 05:12:31 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 05:12:31 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:12:52 SMTP-(680100035f7d47e6) Connect fail 198.90.15.143:465 [198.90.15.143]: connection timed out
+20150130 05:12:52 SMTP-(680100035f7d47e6) [3140] closing socket (0)
+20150130 05:12:52 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 198.90.15.143 (connection refused)
+20150130 05:12:52 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 198.90.15.143
+20150130 05:12:52 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.40
+20150130 05:12:52 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40
+20150130 05:12:52 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40> using tcp protocol.
+20150130 05:12:52 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:12:53 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:12:53 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.40
+20150130 05:12:53 SMTP-(680100035f7d47e6) [!] Host 67.208.158.40 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:12:53 SMTP-(680100035f7d47e6) [3140] closing socket (0)
+20150130 05:12:53 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.40:465
+20150130 05:12:53 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.40:465
+20150130 05:12:53 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.40:465> using tcp protocol.
+20150130 05:12:53 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 05:12:53 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:13:14 SMTP-(680100035f7d47e6) Connect fail 67.208.158.40:465 [67.208.158.40]: connection timed out
+20150130 05:13:14 SMTP-(680100035f7d47e6) [3140] closing socket (0)
+20150130 05:13:14 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.40 (connection refused)
+20150130 05:13:14 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.40
+20150130 05:13:14 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.51
+20150130 05:13:14 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51
+20150130 05:13:14 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51> using tcp protocol.
+20150130 05:13:14 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:13:15 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:13:15 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.51
+20150130 05:13:15 SMTP-(680100035f7d47e6) [!] Host 67.208.158.51 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:13:15 SMTP-(680100035f7d47e6) [3140] closing socket (0)
+20150130 05:13:15 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.51:465
+20150130 05:13:15 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.51:465
+20150130 05:13:15 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.51:465> using tcp protocol.
+20150130 05:13:15 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 05:13:15 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:13:36 SMTP-(680100035f7d47e6) Connect fail 67.208.158.51:465 [67.208.158.51]: connection timed out
+20150130 05:13:36 SMTP-(680100035f7d47e6) [3140] closing socket (0)
+20150130 05:13:36 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.51 (connection refused)
+20150130 05:13:36 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.51
+20150130 05:13:36 SMTP-(680100035f7d47e6) Trying to connect to host 67.208.158.27
+20150130 05:13:36 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27
+20150130 05:13:36 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27> using tcp protocol.
+20150130 05:13:36 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:13:36 SMTP-(680100035f7d47e6) 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:13:36 SMTP-(680100035f7d47e6) Verifying SSL settings for host 67.208.158.27
+20150130 05:13:36 SMTP-(680100035f7d47e6) [!] Host 67.208.158.27 returned invalid response: 554 5.7.1 Failed Reverse DNS Lookup
+20150130 05:13:36 SMTP-(680100035f7d47e6) [3140] closing socket (0)
+20150130 05:13:36 SMTP-(680100035f7d47e6) Trying to connect via SSL to host 67.208.158.27:465
+20150130 05:13:36 SMTP-(680100035f7d47e6) Attempting to connect to host: 67.208.158.27:465
+20150130 05:13:36 SMTP-(680100035f7d47e6) Connecting socket to SMTP service on host <67.208.158.27:465> using tcp protocol.
+20150130 05:13:36 SMTP-(680100035f7d47e6) Alternate delivery to port 465.
+20150130 05:13:36 SMTP-(680100035f7d47e6) using source IP for aaxischina.com [172.17.255.30]
+20150130 05:13:57 SMTP-(680100035f7d47e6) Connect fail 67.208.158.27:465 [67.208.158.27]: connection timed out
+20150130 05:13:57 SMTP-(680100035f7d47e6) [3140] closing socket (0)
+20150130 05:13:57 SMTP-(680100035f7d47e6) Failed to establish SSL connection with 67.208.158.27 (connection refused)
+20150130 05:13:57 SMTP-(680100035f7d47e6) [!] SMTP SSL connection on port 465 failed for host 67.208.158.27
+20150130 05:13:57 SMTP-(680100035f7d47e6) [!] Delivery failed for host Ferguson.com
+20150130 05:13:57 SMTP-(680100035f7d47e6) R<Jennifer.Bridgens@Ferguson.com> - 1
+20150130 05:13:57 SMTP-(680100035f7d47e6) R<Robbie.Foglia@Ferguson.com> - 1
+20150130 05:13:57 SMTP-(680100035f7d47e6) Creating message from Postmaster
+20150130 05:13:57 SMTP-(680100035f7d47e6) Delivery process now using new file: a2950000063ce042
+20150130 05:13:57 SMTP-(680100035f7d47e6) finished d:\Program Files\Ipswitch\IMail\spool\Q680100035f7d47e6.SMD status=2

@@ -1,0 +1,1181 @@
+Caption          Model    UserName         
+AAXISCHINA-ALEI  4180CTO  AAXISCHINA\alei  
+
+Caption     Model           UserName  
+AGCN1-AP01  PowerEdge 2950            
+
+Node - 172.17.3.110
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.110.124
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName               
+AGCN1-LAPTOP04  Latitude E6410  AAXISCHINA\lisazhuang  
+
+Node - 172.17.104.101
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.106
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption          Model    UserName         
+AAXISCHINA-ALEI  4180CTO  AAXISCHINA\alei  
+
+Caption     Model           UserName  
+AGCN1-AP01  PowerEdge 2950            
+
+Node - 172.17.3.110
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.110.124
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName               
+AGCN1-LAPTOP04  Latitude E6410  AAXISCHINA\lisazhuang  
+
+Node - 172.17.104.101
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.106
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.3.10
+ERROR:
+Description = Access is denied.
+
+
+Node - 172.17.111.175
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption          Model          UserName        
+AGCN1-LAPTOP102  Inspiron 5547  AAXISCHINA\ayu  
+
+Caption          Model       UserName           
+AGCN1-LAPTOP104  XPS13 9333  AAXISCHINA\jzhang  
+
+Node - 172.17.103.183
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.100.66
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName           
+AGCN1-LAPTOP23  Latitude E6410  AAXISCHINA\pzhang  
+
+Node - 172.17.110.154
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.104.82
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName                
+AGCN1-LAPTOP30  Latitude E6410  AAXISCHINA\shelleyyang  
+
+Node - 172.17.103.128
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.67
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName              
+AGCN1-LAPTOP37  Latitude E6400  AAXISCHINA\sallyyang  
+
+Node - 172.17.110.147
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.64
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.246
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName        
+AGCN1-LAPTOP43  Latitude E6420  AAXISCHINA\vlv  
+
+Node - 172.17.105.76
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.53.93
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.103.122
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.103.202
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName             
+AGCN1-LAPTOP52  Latitude E6420  AAXISCHINA\esondeng  
+
+Caption          Model    UserName         
+Caption          Model    UserName         
+Caption          Model    UserName         
+Caption          Model    UserName         
+AAXISCHINA-ALEI  4180CTO  AAXISCHINA\alei  
+
+Caption     Model           UserName  
+AGCN1-AP01  PowerEdge 2950            
+
+Caption          Model    UserName         
+AAXISCHINA-ALEI  4180CTO  AAXISCHINA\alei  
+
+Caption     Model           UserName  
+AGCN1-AP01  PowerEdge 2950            
+
+Node - 172.17.3.110
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.110.124
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName               
+AGCN1-LAPTOP04  Latitude E6410  AAXISCHINA\lisazhuang  
+
+Node - 172.17.104.101
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.106
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName          
+AGCN1-LAPTOP10  Latitude E6400  AAXISCHINA\dwang  
+
+Node - 172.17.111.175
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption          Model          UserName        
+AGCN1-LAPTOP102  Inspiron 5547  AAXISCHINA\ayu  
+
+Caption          Model       UserName           
+AGCN1-LAPTOP104  XPS13 9333  AAXISCHINA\jzhang  
+
+Node - 172.17.103.183
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.100.66
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName           
+AGCN1-LAPTOP23  Latitude E6410  AAXISCHINA\pzhang  
+
+Node - 172.17.110.154
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.104.82
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName                
+AGCN1-LAPTOP30  Latitude E6410  AAXISCHINA\shelleyyang  
+
+Node - 172.17.103.128
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.67
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName              
+AGCN1-LAPTOP37  Latitude E6400  AAXISCHINA\sallyyang  
+
+Node - 172.17.110.147
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.64
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.246
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName        
+AGCN1-LAPTOP43  Latitude E6420  AAXISCHINA\vlv  
+
+Node - 172.17.105.76
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.53.93
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.103.122
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.103.202
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName             
+AGCN1-LAPTOP52  Latitude E6420  AAXISCHINA\esondeng  
+
+Node - 172.17.101.99
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName         
+AGCN1-LAPTOP56  Latitude 6430U  AAXISCHINA\nzhi  
+
+Node - 172.17.104.50
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.104.70
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.62
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.66
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.107.65
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName        
+AGCN1-LAPTOP63  Latitude E6430  AAXISCHINA\yxu  
+
+Node - 172.17.101.109
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model           UserName           
+AGCN1-LAPTOP65  Latitude E6430  AAXISCHINA\tabhan  
+
+Caption         Model           UserName           
+AGCN1-LAPTOP65  Latitude E6430  AAXISCHINA\tabhan  
+
+Caption         Model           UserName                
+AGCN1-LAPTOP30  Latitude E6410  AAXISCHINA\shelleyyang  
+
+Node - 172.17.10.65
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model        UserName         
+AGCN1-LAPTOP81  SVF14N18SCB  AAXISCHINA\wwei  
+
+Caption         Model   UserName          
+AGCN1-LAPTOP83  N550JV  AAXISCHINA\cwang  
+
+Node - 172.17.53.152
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model       UserName          
+AGCN1-LAPTOP85  20AWA02J00  AAXISCHINA\nwang  
+
+Caption         Model       UserName        
+AGCN1-LAPTOP87  20CDS00700  AAXISCHINA\sxu  
+
+Node - 172.17.103.140
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model       UserName            
+AGCN1-LAPTOP91  20C5S00J00  AAXISCHINA\kalaliu  
+
+Node - 172.17.110.150
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.248
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model       UserName          
+AGCN1-LAPTOP94  20C5S00J00  AAXISCHINA\emiao  
+
+Node - 172.17.105.74
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.95
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.74
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.10.67
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.86
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.103.166
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.102.60
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.103.167
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption        Model           UserName            
+AGCN1-LATOP59  Latitude E6430  AAXISCHINA\helenli  
+
+Caption     Model                    UserName  
+AGCN1-MX01  VMware Virtual Platform            
+
+Caption     Model                    UserName  
+AGCN1-NS01  VMware Virtual Platform            
+
+Caption     Model                    UserName  
+AGCN1-NS02  VMware Virtual Platform            
+
+Caption     Model                    UserName  
+AGCN1-UT01  VMware Virtual Platform            
+
+Node - 172.17.3.32
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption        Model         UserName        
+AGCN1-WKADM03  OptiPlex 755  AAXISCHINA\ayu  
+
+Caption         Model         UserName            
+AGCN1-WKENG100  OptiPlex 780  AAXISCHINA\shinywu  
+
+Caption         Model         UserName               
+AGCN1-WKENG101  OptiPlex 780  AAXISCHINA\sherochang  
+
+Caption         Model         UserName             
+AGCN1-WKENG102  OptiPlex 780  AAXISCHINA\genefeng  
+
+Node - 172.17.103.128
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model         UserName              
+AGCN1-WKENG104  OptiPlex 780  AAXISCHINA\kalinchen  
+
+Node - 172.17.105.61
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model         UserName            
+AGCN1-WKENG108  OptiPlex 780  AAXISCHINA\svenliu  
+
+Caption         Model         UserName              
+AGCN1-WKENG110  OptiPlex 780  AAXISCHINA\leilaxiao  
+
+Caption         Model         UserName            
+AGCN1-WKENG111  OptiPlex 780  AAXISCHINA\joywang  
+
+Node - 172.17.7.65
+ERROR:
+Description = User credentials cannot be used for local connections
+
+
+Caption         Model         UserName               
+AGCN1-WKENG113  OptiPlex 780  AAXISCHINA\robertyang  
+
+Node - 172.17.111.161
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model         UserName        
+AGCN1-WKENG115  OptiPlex 780  AAXISCHINA\epu  
+
+Caption         Model         UserName               
+AGCN1-WKENG116  OptiPlex 780  AAXISCHINA\kristinliu  
+
+Caption         Model         UserName             
+AGCN1-WKENG117  OptiPlex 780  AAXISCHINA\dannynie  
+
+Node - 172.17.101.95
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model         UserName              
+AGCN1-WKENG121  OptiPlex 780  AAXISCHINA\jennyyang  
+
+Caption         Model         UserName              
+AGCN1-WKENG122  OptiPlex 780  AAXISCHINA\gracechen  
+
+Node - 172.17.102.53
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model         UserName            
+AGCN1-WKENG125  OptiPlex 780  AAXISCHINA\kyleyao  
+
+Caption         Model         UserName             
+AGCN1-WKENG127  OptiPlex 780  AAXISCHINA\troyyang  
+
+Caption         Model         UserName          
+AGCN1-WKENG128  OptiPlex 780  AAXISCHINA\zoewu  
+
+Caption         Model         UserName            
+AGCN1-WKENG129  OptiPlex 780  AAXISCHINA\alicexu  
+
+Node - 172.17.103.133
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.103.143
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model         UserName             
+AGCN1-WKENG134  OptiPlex 780  AAXISCHINA\karenxue  
+
+Node - 172.17.7.69
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.53.90
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.103.156
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.110.131
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model         UserName           
+AGCN1-WKENG142  OptiPlex 790  AAXISCHINA\leafhe  
+
+Node - 172.17.101.142
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.134
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.103.145
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.158
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model         UserName             
+AGCN1-WKENG149  OptiPlex 790  AAXISCHINA\wilsondu  
+
+Caption         Model         UserName              
+AGCN1-WKENG150  OptiPlex 790  AAXISCHINA\sarahzhou  
+
+Caption         Model         UserName                
+AGCN1-WKENG151  OptiPlex 790  AAXISCHINA\mirandafeng  
+
+Caption         Model         UserName               
+AGCN1-WKENG153  OptiPlex 790  AAXISCHINA\jordanzhou  
+
+Node - 172.17.105.58
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model         UserName               
+AGCN1-WKENG155  OptiPlex 790  AAXISCHINA\samueltian  
+
+Caption         Model         UserName             
+AGCN1-WKENG156  OptiPlex 790  AAXISCHINA\dianamin  
+
+Node - 172.17.105.119
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model         UserName             
+AGCN1-WKENG158  OptiPlex 790  AAXISCHINA\sallylai  
+
+Node - 172.17.105.145
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName             
+AGCN1-WKENG161  OptiPlex 7010  AAXISCHINA\carlwang  
+
+Caption         Model          UserName               
+AGCN1-WKENG162  OptiPlex 7010  AAXISCHINA\josephshui  
+
+Node - 172.17.101.119
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName          
+AGCN1-WKENG164  OptiPlex 7010  AAXISCHINA\SamLi  
+
+Caption         Model          UserName             
+AGCN1-WKENG165  OptiPlex 7010  AAXISCHINA\ryanwang  
+
+Node - 172.17.103.217
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName             
+AGCN1-WKENG167  OptiPlex 7010  AAXISCHINA\fenzheng  
+
+Caption         Model          UserName         
+AGCN1-WKENG168  OptiPlex 7010  AAXISCHINA\sxie  
+
+Node - 172.17.104.69
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.113
+ERROR:
+Description = Access is denied.
+
+
+Caption         Model          UserName               
+AGCN1-WKENG171  OptiPlex 7010  AAXISCHINA\ronniewang  
+
+Caption         Model          UserName           
+AGCN1-WKENG172  OptiPlex 7010  AAXISCHINA\axiong  
+
+Caption         Model          UserName               
+AGCN1-WKENG173  OptiPlex 7010  AAXISCHINA\wiskeydiao  
+
+Caption         Model          UserName              
+AGCN1-WKENG174  OptiPlex 7010  AAXISCHINA\richieliu  
+
+Caption         Model          UserName             
+AGCN1-WKENG175  OptiPlex 7010  AAXISCHINA\waynewen  
+
+Caption         Model          UserName               
+AGCN1-WKENG176  OptiPlex 7010  AAXISCHINA\denniszhou  
+
+Node - 172.17.103.236
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName             
+AGCN1-WKENG178  OptiPlex 7010  AAXISCHINA\victorli  
+
+Node - 172.17.104.104
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.104.77
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.104.105
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName                
+AGCN1-WKENG180  OptiPlex 7010  AAXISCHINA\edwardhuang  
+
+Caption         Model          UserName            
+AGCN1-WKENG181  OptiPlex 7010  AAXISCHINA\heroqiu  
+
+Caption         Model          UserName           
+AGCN1-WKENG183  OptiPlex 7010  AAXISCHINA\yaoyao  
+
+Node - 172.17.105.185
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName            
+AGCN1-WKENG185  OptiPlex 7010  AAXISCHINA\frankxu  
+
+Caption         Model          UserName              
+AGCN1-WKENG186  OptiPlex 7010  AAXISCHINA\jarryzhou  
+
+Node - 172.17.101.195
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.85
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName            
+AGCN1-WKENG189  OptiPlex 7010  AAXISCHINA\lanceli  
+
+Node - 172.17.101.83
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.216
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName           
+AGCN1-WKENG193  OptiPlex 7010  AAXISCHINA\royyan  
+
+Caption         Model          UserName            
+AGCN1-WKENG194  OptiPlex 7010  AAXISCHINA\myronli  
+
+Node - 172.17.111.171
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName             
+AGCN1-WKENG196  OptiPlex 7010  AAXISCHINA\andyleng  
+
+Caption         Model          UserName             
+AGCN1-WKENG197  OptiPlex 7010  AAXISCHINA\pauldeng  
+
+Node - 172.17.110.148
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.57
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.110.101
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.135
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.103.193
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName  
+AGCN1-WKENG203  OptiPlex 7010            
+
+Node - 172.17.101.143
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName                
+AGCN1-WKENG205  OptiPlex 7010  AAXISCHINA\claireliang  
+
+Caption         Model          UserName            
+AGCN1-WKENG206  OptiPlex 7010  AAXISCHINA\judyliu  
+
+Caption         Model          UserName             
+AGCN1-WKENG207  OptiPlex 7010  AAXISCHINA\joeyzhou  
+
+Caption         Model          UserName             
+AGCN1-WKENG208  OptiPlex 7010  AAXISCHINA\andrewdu  
+
+Caption         Model          UserName           
+AGCN1-WKENG209  OptiPlex 7010  AAXISCHINA\davewu  
+
+Node - 172.17.101.102
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName         
+AGCN1-WKENG211  OptiPlex 7010  AAXISCHINA\lxie  
+
+Node - 172.17.103.174
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.3.13
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName            
+AGCN1-WKENG214  OptiPlex 7010  AAXISCHINA\florali  
+
+Caption         Model          UserName              
+AGCN1-WKENG215  OptiPlex 7010  AAXISCHINA\jonehuang  
+
+Caption         Model          UserName              
+AGCN1-WKENG216  OptiPlex 7010  AAXISCHINA\johncheng  
+
+Node - 172.17.110.135
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName             
+AGCN1-WKENG218  OptiPlex 7010  AAXISCHINA\monikali  
+
+Caption         Model          UserName               
+AGCN1-WKENG219  OptiPlex 7010  AAXISCHINA\pearlzhang  
+
+Caption         Model          UserName             
+AGCN1-WKENG220  OptiPlex 7010  AAXISCHINA\evacheng  
+
+Caption         Model          UserName              
+AGCN1-WKENG221  OptiPlex 7010  AAXISCHINA\MorganQin  
+
+Caption         Model          UserName               
+AGCN1-WKENG222  OptiPlex 7010  AAXISCHINA\zacharyhou  
+
+Caption         Model          UserName             
+AGCN1-WKENG223  OptiPlex 7010  AAXISCHINA\berniehe  
+
+Caption         Model          UserName           
+AGCN1-WKENG224  OptiPlex 7010  AAXISCHINA\EbenXu  
+
+Caption         Model          UserName           
+AGCN1-WKENG226  OptiPlex 7010  AAXISCHINA\khuang  
+
+Caption         Model          UserName              
+AGCN1-WKENG229  OptiPlex 7010  AAXISCHINA\kevinzeng  
+
+Caption         Model          UserName            
+AGCN1-WKENG233  OptiPlex 7010  AAXISCHINA\dylanyu  
+
+Caption         Model          UserName               
+AGCN1-WKENG235  OptiPlex 7010  AAXISCHINA\stevieqiao  
+
+Node - 172.17.110.120
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.202
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.124
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption        Model         UserName               
+AGCN1-WKENG24  OptiPlex 780  AAXISCHINA\laurazhang  
+
+Caption         Model          UserName               
+AGCN1-WKENG240  OptiPlex 7010  AAXISCHINA\stevenwang  
+
+Node - 172.17.103.144
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.110
+ERROR:
+Description = Access is denied.
+
+
+Node - 172.17.101.104
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName        
+AGCN1-WKENG244  OptiPlex 7010  AAXISCHINA\hlv  
+
+Caption         Model          UserName          
+AGCN1-WKENG246  OptiPlex 7010  AAXISCHINA\iyang  
+
+Node - 172.17.105.163
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName              
+AGCN1-WKENG248  OptiPlex 7010  AGCN1-WKENG248\Admin  
+
+Caption         Model          UserName          
+AGCN1-WKENG250  OptiPlex 7010  AAXISCHINA\tomxu  
+
+Caption         Model          UserName              
+AGCN1-WKENG251  OptiPlex 7010  AAXISCHINA\charlesli  
+
+Caption         Model          UserName  
+AGCN1-WKENG252  OptiPlex 7010            
+
+Node - 172.17.101.54
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName            
+AGCN1-WKENG254  OptiPlex 7010  AAXISCHINA\jmayxie  
+
+Caption         Model          UserName              
+AGCN1-WKENG255  OptiPlex 7010  AAXISCHINA\brainxian  
+
+Caption         Model          UserName            
+AGCN1-WKENG256  OptiPlex 7010  AAXISCHINA\tonyyan  
+
+Node - 172.17.104.57
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName             
+AGCN1-WKENG258  OptiPlex 7010  AAXISCHINA\rubywang  
+
+Caption         Model          UserName             
+AGCN1-WKENG259  OptiPlex 7010  AAXISCHINA\rogergan  
+
+Caption         Model          UserName            
+AGCN1-WKENG260  OptiPlex 7010  AAXISCHINA\jayshao  
+
+Node - 172.17.105.73
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.111.172
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName              
+AGCN1-WKENG263  OptiPlex 7010  AAXISCHINA\jackytian  
+
+Node - 172.17.104.74
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.110.153
+ERROR:
+Description = Access is denied.
+
+
+Node - 172.17.101.98
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName              
+AGCN1-WKENG268  OptiPlex 7010  AAXISCHINA\patrickwu  
+
+Caption         Model          UserName            
+AGCN1-WKENG269  OptiPlex 7010  AAXISCHINA\bruceli  
+
+Node - 172.17.105.184
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName                
+AGCN1-WKENG271  OptiPlex 7010  AAXISCHINA\christinaxu  
+
+Caption         Model          UserName             
+AGCN1-WKENG272  OptiPlex 7010  AAXISCHINA\fredwang  
+
+Caption         Model          UserName              
+AGCN1-WKENG273  OptiPlex 7010  AAXISCHINA\michaelli  
+
+Node - 172.17.104.68
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.94
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.201
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName              
+AGCN1-WKENG281  OptiPlex 7010  AAXISCHINA\burkeyang  
+
+Caption         Model          UserName             
+AGCN1-WKENG282  OptiPlex 7010  AAXISCHINA\violetlv  
+
+Node - 172.17.103.149
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.104.67
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName             
+AGCN1-WKENG285  OptiPlex 7010  AAXISCHINA\harrytan  
+
+Caption         Model          UserName            
+AGCN1-WKENG286  OptiPlex 7010  AAXISCHINA\bowendu  
+
+Node - 172.17.105.172
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.103.123
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.104.71
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName               
+AGCN1-WKENG290  OptiPlex 7010  AAXISCHINA\gabbyzheng  
+
+Node - 172.17.105.162
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.110.140
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.110.103
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.118
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.103.151
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName             
+AGCN1-WKENG298  OptiPlex 7010  AAXISCHINA\meggiema  
+
+Caption         Model          UserName              
+AGCN1-WKENG299  OptiPlex 7010  AAXISCHINA\owenzhang  
+
+Node - 172.17.108.92
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.102.78
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.104.76
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.105.177
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.111.168
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.208
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName               
+AGCN1-WKENG306  OptiPlex 7010  AAXISCHINA\monicaxiao  
+
+Node - 172.17.104.60
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.110.123
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName            
+AGCN1-WKENG309  OptiPlex 7010  AAXISCHINA\steveli  
+
+Node - 172.17.105.54
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.104.59
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption         Model          UserName            
+AGCN1-WKENG311  OptiPlex 7010  AAXISCHINA\evaliao  
+
+Caption         Model          UserName               
+AGCN1-WKENG312  OptiPlex 7010  AAXISCHINA\karinzhang  
+
+Caption        Model           UserName                 
+AGCN1-WKENG36  Latitude E6410  AAXISCHINA\anthonyzhang  
+
+Node - 172.17.101.93
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.103.170
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.111.166
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Node - 172.17.101.79
+ERROR:
+Description = The RPC server is unavailable.
+
+
+Caption        Model         UserName             
+AGCN1-WKENG78  OptiPlex 780  AAXISCHINA\moryyang  
+
+Node - 172.17.110.144
+ERROR:
+Description = The RPC server is unavailable.
+
+

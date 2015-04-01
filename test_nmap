@@ -1,0 +1,4 @@
+import nmap
+nmap.PortScanner()
+nm.command_line()
+print nm.scan("172.17.7.0/24",arguments="-sP")

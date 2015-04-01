@@ -1,0 +1,15 @@
+          Mac Address Table
+
+-------------------------------------------
+
+
+
+Vlan    Mac Address       Type        Ports
+
+----    -----------       --------    -----
+
+ 201    b8ac.6f2e.80c8    DYNAMIC     Fa1/0/7
+
+Total Mac Addresses for this criterion: 1
+
+agcn1-sw05>
